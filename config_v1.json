@@ -1,5 +1,4 @@
 {
-  "version": 2,
   "apps": {
     "com.wallpaper.hd.all.americanfootball.aaron.donald.images": {
       "base_url": "https://wallpapers.pinakinexus.com",
@@ -314,7 +313,7 @@
       "flavor": "anime"
     },
     "com.wallpaper.hd.all.badminton.an.se.young.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "An Se Young Wallpaper HD",
@@ -322,7 +321,7 @@
       "flavor": "badmintonanseyoung"
     },
     "com.wallpaper.hd.all.badminton.kunlavut.vitidsarn.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Kunlavut Vitidsarn Wallpaper HD",
@@ -330,7 +329,7 @@
       "flavor": "badmintonkunlavutvitidsarn"
     },
     "com.wallpaper.hd.all.badminton.lakshya.sen.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Lakshya Sen Wallpaper HD",
@@ -338,7 +337,7 @@
       "flavor": "badmintonlakshyasen"
     },
     "com.wallpaper.hd.all.badminton.lin.dan.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Lin Dan Wallpaper HD",
@@ -346,7 +345,7 @@
       "flavor": "badmintonlindan"
     },
     "com.wallpaper.hd.all.badminton.nozomi.okuhara.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Nozomi Okuhara Wallpaper HD",
@@ -354,7 +353,7 @@
       "flavor": "badmintonnozomiokuhara"
     },
     "com.wallpaper.hd.all.badminton.pv.sindhu.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "PV Sindhu Wallpaper HD",
@@ -362,7 +361,7 @@
       "flavor": "badmintonpvsindhu"
     },
     "com.wallpaper.hd.all.badminton.saina.nehwal.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Saina Nehwal Wallpaper HD",
@@ -370,7 +369,7 @@
       "flavor": "badmintonsainanehwal"
     },
     "com.wallpaper.hd.all.badminton.viktor.axelsen.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Viktor Axelsen Wallpaper HD",
@@ -378,7 +377,7 @@
       "flavor": "badmintonviktoraxelsen"
     },
     "com.wallpaper.hd.all.badminton.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": true,
       "app_name": "Badminton HD Wallpapers",
@@ -386,7 +385,7 @@
       "flavor": "badminton"
     },
     "com.wallpaper.hd.all.baseball.aaron.judge.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Aaron Judge Wallpaper HD",
@@ -394,7 +393,7 @@
       "flavor": "baseballaaronjudge"
     },
     "com.wallpaper.hd.all.baseball.babe.ruth.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Babe Ruth Wallpaper HD",
@@ -402,7 +401,7 @@
       "flavor": "baseballbaberuth"
     },
     "com.wallpaper.hd.all.baseball.bryce.harper.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Bryce Harper Wallpaper HD",
@@ -410,7 +409,7 @@
       "flavor": "baseballbryceharper"
     },
     "com.wallpaper.hd.all.baseball.derek.jeter.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Derek Jeter Wallpaper HD",
@@ -418,7 +417,7 @@
       "flavor": "baseballderekjeter"
     },
     "com.wallpaper.hd.all.baseball.fernando.tatis.jr.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Fernando Tatis Jr Wallpaper HD",
@@ -426,7 +425,7 @@
       "flavor": "baseballfernandotatisjr"
     },
     "com.wallpaper.hd.all.baseball.juan.soto.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Juan Soto Wallpaper HD",
@@ -434,7 +433,7 @@
       "flavor": "baseballjuansoto"
     },
     "com.wallpaper.hd.all.baseball.mike.trout.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Mike Trout Wallpaper HD",
@@ -442,7 +441,7 @@
       "flavor": "baseballmiketrout"
     },
     "com.wallpaper.hd.all.baseball.mookie.betts.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Mookie Betts Wallpaper HD",
@@ -450,7 +449,7 @@
       "flavor": "baseballmookiebetts"
     },
     "com.wallpaper.hd.all.baseball.ronald.acuna.jr.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Ronald Acuna Jr Wallpaper HD",
@@ -458,7 +457,7 @@
       "flavor": "baseballronaldacunajr"
     },
     "com.wallpaper.hd.all.baseball.shohei.ohtani.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Shohei Ohtani Wallpaper HD",
@@ -466,7 +465,7 @@
       "flavor": "baseballshoheiohtani"
     },
     "com.wallpaper.hd.all.baseball.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": true,
       "app_name": "Baseball HD Wallpapers",
@@ -482,7 +481,7 @@
       "flavor": "bollywood"
     },
     "com.wallpaper.hd.all.cartoons.ben.ten.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Ben Ten Wallpaper HD",
@@ -490,7 +489,7 @@
       "flavor": "cartoonsbenten"
     },
     "com.wallpaper.hd.all.cartoons.disney.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Cartoon Wallpaper HD",
@@ -498,7 +497,7 @@
       "flavor": "cartoonsdisney"
     },
     "com.wallpaper.hd.all.cartoons.doraemon.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Robot Cat Wallpaper HD",
@@ -506,7 +505,7 @@
       "flavor": "cartoonsdoraemon"
     },
     "com.wallpaper.hd.all.cartoons.mickey.mouse.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Cartoon Mouse Wallpaper HD",
@@ -514,7 +513,7 @@
       "flavor": "cartoonsmickey"
     },
     "com.wallpaper.hd.all.cartoons.oggy.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Funny Cat Cartoon HD",
@@ -522,7 +521,7 @@
       "flavor": "cartoonsoggy"
     },
     "com.wallpaper.hd.all.cartoons.pixar.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Pixar Wallpaper HD",
@@ -530,7 +529,7 @@
       "flavor": "cartoonspixar"
     },
     "com.wallpaper.hd.all.cartoons.pokemon.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Monster Anime Wallpaper HD",
@@ -538,7 +537,7 @@
       "flavor": "cartoonspokemon"
     },
     "com.wallpaper.hd.all.cartoons.shinchan.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Funny Cartoon Wallpaper HD",
@@ -546,7 +545,7 @@
       "flavor": "cartoonsshinchan"
     },
     "com.wallpaper.hd.all.cartoons.sponge.bob.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Sea Sponge Cartoon HD",
@@ -554,7 +553,7 @@
       "flavor": "cartoonsspongebob"
     },
     "com.wallpaper.hd.all.cartoons.tom.and.jerry.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Tom And Jerry Wallpaper HD",
@@ -562,7 +561,7 @@
       "flavor": "cartoonstomandjerry"
     },
     "com.wallpaper.hd.all.cartoons.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": true,
       "app_name": "Cartoons HD Wallpapers",
@@ -802,7 +801,7 @@
       "flavor": "f1oscarpiastri"
     },
     "com.wallpaper.hd.all.festivals.baisakhi.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Baisakhi Wallpaper HD",
@@ -810,7 +809,7 @@
       "flavor": "festivalsbaisakhi"
     },
     "com.wallpaper.hd.all.festivals.bihu.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Bihu Wallpaper HD",
@@ -818,7 +817,7 @@
       "flavor": "festivalsbihu"
     },
     "com.wallpaper.hd.all.festivals.chhath.puja.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Chhath Puja Wallpaper HD",
@@ -826,7 +825,7 @@
       "flavor": "festivalschhathpuja"
     },
     "com.wallpaper.hd.all.festivals.christmas.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Christmas Wallpaper HD",
@@ -834,7 +833,7 @@
       "flavor": "festivalschristmas"
     },
     "com.wallpaper.hd.all.festivals.diwali.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Diwali Wallpaper HD",
@@ -842,7 +841,7 @@
       "flavor": "festivalsdiwali"
     },
     "com.wallpaper.hd.all.festivals.durga.puja.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Durga Puja Wallpaper HD",
@@ -850,7 +849,7 @@
       "flavor": "festivalsdurgapuja"
     },
     "com.wallpaper.hd.all.festivals.easter.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Easter Wallpaper HD",
@@ -858,7 +857,7 @@
       "flavor": "festivalseaster"
     },
     "com.wallpaper.hd.all.festivals.eid.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Eid Wallpaper HD",
@@ -866,7 +865,7 @@
       "flavor": "festivalseid"
     },
     "com.wallpaper.hd.all.festivals.ganesh.chaturthi.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Ganesh Chaturthi Wallpaper HD",
@@ -874,7 +873,7 @@
       "flavor": "festivalsganeshchaturthi"
     },
     "com.wallpaper.hd.all.festivals.halloween.images.v2": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Halloween Wallpaper HD",
@@ -882,7 +881,7 @@
       "flavor": "festivalshalloween"
     },
     "com.wallpaper.hd.all.festivals.holi.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Holi Wallpaper HD",
@@ -890,7 +889,7 @@
       "flavor": "festivalsholi"
     },
     "com.wallpaper.hd.all.festivals.janmashtami.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Janmashtami Wallpaper HD",
@@ -898,7 +897,7 @@
       "flavor": "festivalsjanmashtami"
     },
     "com.wallpaper.hd.all.festivals.karwa.chauth.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Karwa Chauth Wallpaper HD",
@@ -906,7 +905,7 @@
       "flavor": "festivalskarwachauth"
     },
     "com.wallpaper.hd.all.festivals.lohri.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Lohri Wallpaper HD",
@@ -914,7 +913,7 @@
       "flavor": "festivalslohri"
     },
     "com.wallpaper.hd.all.festivals.makar.sankranti.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Makar Sankranti Wallpaper HD",
@@ -922,7 +921,7 @@
       "flavor": "festivalsmakarsankranti"
     },
     "com.wallpaper.hd.all.festivals.navratri.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Navratri Wallpaper HD",
@@ -930,7 +929,7 @@
       "flavor": "festivalsnavratri"
     },
     "com.wallpaper.hd.all.festivals.new.year.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "New Year Wallpaper HD",
@@ -938,7 +937,7 @@
       "flavor": "festivalsnewyear"
     },
     "com.wallpaper.hd.all.festivals.onam.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Onam Wallpaper HD",
@@ -946,7 +945,7 @@
       "flavor": "festivalsonam"
     },
     "com.wallpaper.hd.all.festivals.pongal.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Pongal Wallpaper HD",
@@ -954,7 +953,7 @@
       "flavor": "festivalspongal"
     },
     "com.wallpaper.hd.all.festivals.raksha.bandhan.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Raksha Bandhan Wallpaper HD",
@@ -962,7 +961,7 @@
       "flavor": "festivalsrakshabandhan"
     },
     "com.wallpaper.hd.all.festivals.rath.yatra.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Rath Yatra Wallpaper HD",
@@ -970,7 +969,7 @@
       "flavor": "festivalsrathyatra"
     },
     "com.wallpaper.hd.all.festivals.thanksgiving.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Thanksgiving Wallpaper HD",
@@ -978,7 +977,7 @@
       "flavor": "festivalsthanksgiving"
     },
     "com.wallpaper.hd.all.festivals.ugadi.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Ugadi Wallpaper HD",
@@ -986,7 +985,7 @@
       "flavor": "festivalsugadi"
     },
     "com.wallpaper.hd.all.festivals.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": true,
       "app_name": "Festivals HD Wallpapers",
@@ -1490,7 +1489,7 @@
       "flavor": "swaminarayan"
     },
     "com.wallpaper.hd.all.spiritual.acharya.prashant.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Acharya Prashant Wallpaper HD",
@@ -1498,7 +1497,7 @@
       "flavor": "gurusacharyaprashant"
     },
     "com.wallpaper.hd.all.spiritual.acharya.vidyasagar.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Acharya Vidyasagar HD",
@@ -1506,7 +1505,7 @@
       "flavor": "gurusacharyavidyasagar"
     },
     "com.wallpaper.hd.all.spiritual.baba.ramdev.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Baba Ramdev Wallpaper HD",
@@ -1514,7 +1513,7 @@
       "flavor": "gurusbabaramdev"
     },
     "com.wallpaper.hd.all.spiritual.bk.shivani.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "BK Shivani Wallpaper HD",
@@ -1522,7 +1521,7 @@
       "flavor": "gurusbkshivani"
     },
     "com.wallpaper.hd.all.spiritual.dalai.lama.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Dalai Lama Wallpaper HD",
@@ -1530,7 +1529,7 @@
       "flavor": "gurusdalailama"
     },
     "com.wallpaper.hd.all.spiritual.devkinandan.thakur.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Devkinandan Thakur HD",
@@ -1538,7 +1537,7 @@
       "flavor": "gurusdevkinandanthakur"
     },
     "com.wallpaper.hd.all.spiritual.dhirendra.krishna.shastri.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Dhirendra Shastri HD",
@@ -1546,7 +1545,7 @@
       "flavor": "gurusdhirendrakrishnashastri"
     },
     "com.wallpaper.hd.all.spiritual.gaur.gopal.das.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Gaur Gopal Das Wallpaper HD",
@@ -1554,7 +1553,7 @@
       "flavor": "gurusgaurgopaldas"
     },
     "com.wallpaper.hd.all.spiritual.indresh.upadhyay.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Indresh Upadhyay Wallpaper HD",
@@ -1562,7 +1561,7 @@
       "flavor": "gurusindreshupadhyay"
     },
     "com.wallpaper.hd.all.spiritual.karmapa.ogyen.trinley.dorje.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Karmapa Trinley Dorje HD",
@@ -1570,7 +1569,7 @@
       "flavor": "guruskarmapaogyentrinleydorje"
     },
     "com.wallpaper.hd.all.spiritual.mata.amritanandamayi.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Mata Amritanandamayi HD",
@@ -1578,7 +1577,7 @@
       "flavor": "gurusmataamritanandamayi"
     },
     "com.wallpaper.hd.all.spiritual.morari.bapu.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Morari Bapu Wallpaper HD",
@@ -1586,7 +1585,7 @@
       "flavor": "gurusmoraribapu"
     },
     "com.wallpaper.hd.all.spiritual.premanand.maharaj.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Premanand Maharaj Wallpaper HD",
@@ -1594,7 +1593,7 @@
       "flavor": "guruspremanandmaharaj"
     },
     "com.wallpaper.hd.all.spiritual.radhanath.swami.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Radhanath Swami Wallpaper HD",
@@ -1602,7 +1601,7 @@
       "flavor": "gurusradhanathswami"
     },
     "com.wallpaper.hd.all.spiritual.sadhguru.jaggi.vasudev.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Sadhguru Jaggi Vasudev HD",
@@ -1610,7 +1609,7 @@
       "flavor": "gurussadhgurujaggivasudev"
     },
     "com.wallpaper.hd.all.spiritual.sri.sri.ravi.shankar.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Sri Sri Ravi Shankar HD",
@@ -2218,7 +2217,7 @@
       "flavor": "socialmedia"
     },
     "com.wallpaper.hd.all.swimming.adam.peaty.images.v2": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Adam Peaty Wallpaper HD",
@@ -2586,7 +2585,7 @@
       "flavor": "trucks"
     },
     "com.wallpaper.hd.all.technology.ai.images.v2": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "AI Wallpaper HD",
@@ -2594,7 +2593,7 @@
       "flavor": "technologyai"
     },
     "com.wallpaper.hd.all.technology.android.images.v2": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Android Wallpaper HD",
@@ -2602,7 +2601,7 @@
       "flavor": "technologyandroid"
     },
     "com.wallpaper.hd.all.technology.blockchain.images.v2": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Blockchain Wallpaper HD",
@@ -2610,7 +2609,7 @@
       "flavor": "technologyblockchain"
     },
     "com.wallpaper.hd.all.technology.chip.images.v2": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Chip Wallpaper HD",
@@ -2618,7 +2617,7 @@
       "flavor": "technologychip"
     },
     "com.wallpaper.hd.all.technology.coding.images.v2": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Coding Wallpaper HD",
@@ -2626,7 +2625,7 @@
       "flavor": "technologycoding"
     },
     "com.wallpaper.hd.all.technology.drone.images.v2": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Drone Wallpaper HD",
@@ -2634,7 +2633,7 @@
       "flavor": "technologydrone"
     },
     "com.wallpaper.hd.all.technology.gaming.setup.images.v2": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Gaming Setup Wallpaper HD",
@@ -2642,7 +2641,7 @@
       "flavor": "technologygamingsetup"
     },
     "com.wallpaper.hd.all.technology.hacker.images.v2": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "Hacker Wallpaper HD",
@@ -2650,7 +2649,7 @@
       "flavor": "technologyhacker"
     },
     "com.wallpaper.hd.all.technology.vr.images.v2": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "VR Wallpaper HD",
@@ -2658,7 +2657,7 @@
       "flavor": "technologyvr"
     },
     "com.wallpaper.hd.all.technology.iphone.images.v2": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": false,
       "app_name": "i Phone Wallpaper HD",
@@ -2666,7 +2665,7 @@
       "flavor": "technologyiphone"
     },
     "com.wallpaper.hd.all.technology.images.v2": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": true,
       "is_multi_sub": true,
       "app_name": "Technology HD Wallpapers",
@@ -3034,7 +3033,7 @@
       "flavor": "americanfootballjoemontana"
     },
     "com.wallpaper.hd.all.badminton.lee.chong.wei.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Lee Chong Wei Wallpaper HD",
@@ -3322,7 +3321,7 @@
       "flavor": "aesthetic"
     },
     "com.wallpaper.hd.all.arch.bridges.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Bridges Wallpaper HD",
@@ -3330,7 +3329,7 @@
       "flavor": "architecturebridges"
     },
     "com.wallpaper.hd.all.arch.castles.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Castles Wallpaper HD",
@@ -3338,7 +3337,7 @@
       "flavor": "architecturecastles"
     },
     "com.wallpaper.hd.all.arch.cathedrals.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Cathedrals Wallpaper HD",
@@ -3346,7 +3345,7 @@
       "flavor": "architecturecathedrals"
     },
     "com.wallpaper.hd.all.arch.gothic.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Gothic Architecture HD",
@@ -3354,7 +3353,7 @@
       "flavor": "architecturegothic"
     },
     "com.wallpaper.hd.all.arch.islamic.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Islamic Architecture HD",
@@ -3362,7 +3361,7 @@
       "flavor": "architectureislamic"
     },
     "com.wallpaper.hd.all.arch.japanese.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Japanese Architecture HD",
@@ -3370,7 +3369,7 @@
       "flavor": "architecturejapanese"
     },
     "com.wallpaper.hd.all.arch.modern.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Modern Architecture HD",
@@ -3378,7 +3377,7 @@
       "flavor": "architecturemodern"
     },
     "com.wallpaper.hd.all.arch.skyscrapers.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Skyscrapers Wallpaper HD",
@@ -3386,7 +3385,7 @@
       "flavor": "architectureskyscrapers"
     },
     "com.wallpaper.hd.all.arch.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": true,
       "app_name": "Architecture HD Wallpapers",
@@ -4138,7 +4137,7 @@
       "flavor": "indiantv"
     },
     "com.wallpaper.hd.all.luxury.bugatti.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Bugatti Wallpaper HD",
@@ -4146,7 +4145,7 @@
       "flavor": "luxurybugatti"
     },
     "com.wallpaper.hd.all.luxury.ferrari.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Ferrari Wallpaper HD",
@@ -4154,7 +4153,7 @@
       "flavor": "luxuryferrari"
     },
     "com.wallpaper.hd.all.luxury.gucci.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Gucci Wallpaper HD",
@@ -4162,7 +4161,7 @@
       "flavor": "luxurygucci"
     },
     "com.wallpaper.hd.all.luxury.lamborghini.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Lamborghini Wallpaper HD",
@@ -4170,7 +4169,7 @@
       "flavor": "luxurylamborghini"
     },
     "com.wallpaper.hd.all.luxury.louisvuitton.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Louis Vuitton Wallpaper HD",
@@ -4178,7 +4177,7 @@
       "flavor": "luxurylouisvuitton"
     },
     "com.wallpaper.hd.all.luxury.luxuryyacht.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Luxury Yacht Wallpaper HD",
@@ -4186,7 +4185,7 @@
       "flavor": "luxuryluxuryyacht"
     },
     "com.wallpaper.hd.all.luxury.mansion.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Mansion Wallpaper HD",
@@ -4194,7 +4193,7 @@
       "flavor": "luxurymansion"
     },
     "com.wallpaper.hd.all.luxury.privatejet.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Private Jet Wallpaper HD",
@@ -4202,7 +4201,7 @@
       "flavor": "luxuryprivatejet"
     },
     "com.wallpaper.hd.all.luxury.rolex.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Rolex Wallpaper HD",
@@ -4210,7 +4209,7 @@
       "flavor": "luxuryrolex"
     },
     "com.wallpaper.hd.all.luxury.rollsroyce.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Rolls Royce Wallpaper HD",
@@ -4218,7 +4217,7 @@
       "flavor": "luxuryrollsroyce"
     },
     "com.wallpaper.hd.all.luxury.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": true,
       "app_name": "Luxury HD Wallpapers",
@@ -4226,7 +4225,7 @@
       "flavor": "luxury"
     },
     "com.wallpaper.hd.all.military.airforce.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Air Force Wallpaper HD",
@@ -4234,7 +4233,7 @@
       "flavor": "militaryairforce"
     },
     "com.wallpaper.hd.all.military.army.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Army Wallpaper HD",
@@ -4242,7 +4241,7 @@
       "flavor": "militaryarmy"
     },
     "com.wallpaper.hd.all.military.commando.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Commando Wallpaper HD",
@@ -4250,7 +4249,7 @@
       "flavor": "militarycommando"
     },
     "com.wallpaper.hd.all.military.indianarmy.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Indian Army Wallpaper HD",
@@ -4258,7 +4257,7 @@
       "flavor": "militaryindianarmy"
     },
     "com.wallpaper.hd.all.military.militaryhelicopter.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Military Helicopter HD",
@@ -4266,7 +4265,7 @@
       "flavor": "militarymilitaryhelicopter"
     },
     "com.wallpaper.hd.all.military.navy.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Navy Wallpaper HD",
@@ -4274,7 +4273,7 @@
       "flavor": "militarynavy"
     },
     "com.wallpaper.hd.all.military.sniper.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Sniper Wallpaper HD",
@@ -4282,7 +4281,7 @@
       "flavor": "militarysniper"
     },
     "com.wallpaper.hd.all.military.specialforces.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Special Forces Wallpaper HD",
@@ -4290,7 +4289,7 @@
       "flavor": "militaryspecialforces"
     },
     "com.wallpaper.hd.all.military.tank.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Tank Wallpaper HD",
@@ -4298,7 +4297,7 @@
       "flavor": "militarytank"
     },
     "com.wallpaper.hd.all.military.usmilitary.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "US Military Wallpaper HD",
@@ -4306,7 +4305,7 @@
       "flavor": "militaryusmilitary"
     },
     "com.wallpaper.hd.all.military.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": true,
       "app_name": "Military HD Wallpapers",
@@ -4338,7 +4337,7 @@
       "flavor": "quotes"
     },
     "com.wallpaper.hd.all.robots.cyberrobot.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Cyber Robot Wallpaper HD",
@@ -4346,7 +4345,7 @@
       "flavor": "robotscyberrobot"
     },
     "com.wallpaper.hd.all.robots.dronebot.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Drone Bot Wallpaper HD",
@@ -4354,7 +4353,7 @@
       "flavor": "robotsdronebot"
     },
     "com.wallpaper.hd.all.robots.gundam.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Gundam Wallpaper HD",
@@ -4362,7 +4361,7 @@
       "flavor": "robotsgundam"
     },
     "com.wallpaper.hd.all.robots.humanoidrobot.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Humanoid Robot Wallpaper HD",
@@ -4370,7 +4369,7 @@
       "flavor": "robotshumanoidrobot"
     },
     "com.wallpaper.hd.all.robots.mecharobot.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Mecha Robot Wallpaper HD",
@@ -4378,7 +4377,7 @@
       "flavor": "robotsmecharobot"
     },
     "com.wallpaper.hd.all.robots.nanobot.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Nano Bot Wallpaper HD",
@@ -4386,7 +4385,7 @@
       "flavor": "robotsnanobot"
     },
     "com.wallpaper.hd.all.robots.robotdog.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Robot Dog Wallpaper HD",
@@ -4394,7 +4393,7 @@
       "flavor": "robotsrobotdog"
     },
     "com.wallpaper.hd.all.robots.transformer.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Transformer Wallpaper HD",
@@ -4402,7 +4401,7 @@
       "flavor": "robotstransformer"
     },
     "com.wallpaper.hd.all.robots.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": true,
       "app_name": "Robots HD Wallpapers",
@@ -4474,7 +4473,7 @@
       "flavor": "banikola"
     },
     "com.wallpaper.hd.all.pets.corgi.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Corgi Wallpaper HD",
@@ -4482,7 +4481,7 @@
       "flavor": "petscorgi"
     },
     "com.wallpaper.hd.all.pets.goldenretriever.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Golden Retriever Wallpaper HD",
@@ -4490,7 +4489,7 @@
       "flavor": "petsgoldenretriever"
     },
     "com.wallpaper.hd.all.pets.hamster.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Hamster Wallpaper HD",
@@ -4498,7 +4497,7 @@
       "flavor": "petshamster"
     },
     "com.wallpaper.hd.all.pets.husky.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Husky Wallpaper HD",
@@ -4506,7 +4505,7 @@
       "flavor": "petshusky"
     },
     "com.wallpaper.hd.all.pets.kitten.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Kitten Wallpaper HD",
@@ -4514,7 +4513,7 @@
       "flavor": "petskitten"
     },
     "com.wallpaper.hd.all.pets.labrador.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Labrador Wallpaper HD",
@@ -4522,7 +4521,7 @@
       "flavor": "petslabrador"
     },
     "com.wallpaper.hd.all.pets.persiancat.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Persian Cat Wallpaper HD",
@@ -4530,7 +4529,7 @@
       "flavor": "petspersiancat"
     },
     "com.wallpaper.hd.all.pets.pomeranian.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Pomeranian Wallpaper HD",
@@ -4538,7 +4537,7 @@
       "flavor": "petspomeranian"
     },
     "com.wallpaper.hd.all.pets.puppy.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Puppy Wallpaper HD",
@@ -4546,7 +4545,7 @@
       "flavor": "petspuppy"
     },
     "com.wallpaper.hd.all.pets.rabbit.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Rabbit Wallpaper HD",
@@ -4554,7 +4553,7 @@
       "flavor": "petsrabbit"
     },
     "com.wallpaper.hd.all.pets.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": true,
       "app_name": "Pets HD Wallpapers",
@@ -4562,7 +4561,7 @@
       "flavor": "pets"
     },
     "com.wallpaper.hd.all.textures.brick.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Brick Wallpaper HD",
@@ -4570,7 +4569,7 @@
       "flavor": "texturesbrick"
     },
     "com.wallpaper.hd.all.textures.concrete.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Concrete Wallpaper HD",
@@ -4578,7 +4577,7 @@
       "flavor": "texturesconcrete"
     },
     "com.wallpaper.hd.all.textures.fabric.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Fabric Wallpaper HD",
@@ -4586,7 +4585,7 @@
       "flavor": "texturesfabric"
     },
     "com.wallpaper.hd.all.textures.glass.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Glass Wallpaper HD",
@@ -4594,7 +4593,7 @@
       "flavor": "texturesglass"
     },
     "com.wallpaper.hd.all.textures.ice.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Ice Wallpaper HD",
@@ -4602,7 +4601,7 @@
       "flavor": "texturesice"
     },
     "com.wallpaper.hd.all.textures.leather.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Leather Wallpaper HD",
@@ -4610,7 +4609,7 @@
       "flavor": "texturesleather"
     },
     "com.wallpaper.hd.all.textures.metal.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Metal Wallpaper HD",
@@ -4618,7 +4617,7 @@
       "flavor": "texturesmetal"
     },
     "com.wallpaper.hd.all.textures.paper.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Paper Wallpaper HD",
@@ -4626,7 +4625,7 @@
       "flavor": "texturespaper"
     },
     "com.wallpaper.hd.all.textures.sand.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Sand Wallpaper HD",
@@ -4634,7 +4633,7 @@
       "flavor": "texturessand"
     },
     "com.wallpaper.hd.all.textures.wood.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Wood Wallpaper HD",
@@ -4642,7 +4641,7 @@
       "flavor": "textureswood"
     },
     "com.wallpaper.hd.all.textures.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": true,
       "app_name": "Textures HD Wallpapers",
@@ -4738,7 +4737,7 @@
       "flavor": "tattoo"
     },
     "com.wallpaper.hd.all.photography.aerial.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Aerial Wallpaper HD",
@@ -4746,7 +4745,7 @@
       "flavor": "photographyaerial"
     },
     "com.wallpaper.hd.all.photography.blackandwhite.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Black And White Wallpaper HD",
@@ -4754,7 +4753,7 @@
       "flavor": "photographyblackandwhite"
     },
     "com.wallpaper.hd.all.photography.goldenhour.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Golden Hour Wallpaper HD",
@@ -4762,7 +4761,7 @@
       "flavor": "photographygoldenhour"
     },
     "com.wallpaper.hd.all.photography.longexposure.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Long Exposure Wallpaper HD",
@@ -4770,7 +4769,7 @@
       "flavor": "photographylongexposure"
     },
     "com.wallpaper.hd.all.photography.macro.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Macro Wallpaper HD",
@@ -4778,7 +4777,7 @@
       "flavor": "photographymacro"
     },
     "com.wallpaper.hd.all.photography.portrait.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Portrait Wallpaper HD",
@@ -4786,7 +4785,7 @@
       "flavor": "photographyportrait"
     },
     "com.wallpaper.hd.all.photography.silhouette.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Silhouette Wallpaper HD",
@@ -4794,7 +4793,7 @@
       "flavor": "photographysilhouette"
     },
     "com.wallpaper.hd.all.photography.streetphoto.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Street Photo Wallpaper HD",
@@ -4802,7 +4801,7 @@
       "flavor": "photographystreetphoto"
     },
     "com.wallpaper.hd.all.photography.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": true,
       "app_name": "Photography HD Wallpapers",
@@ -4810,7 +4809,7 @@
       "flavor": "photography"
     },
     "com.wallpaper.hd.all.travel.bali.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Bali Wallpaper HD",
@@ -4818,7 +4817,7 @@
       "flavor": "travelbali"
     },
     "com.wallpaper.hd.all.travel.beach.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Beach Wallpaper HD",
@@ -4826,7 +4825,7 @@
       "flavor": "travelbeach"
     },
     "com.wallpaper.hd.all.travel.cappadocia.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Cappadocia Wallpaper HD",
@@ -4834,7 +4833,7 @@
       "flavor": "travelcappadocia"
     },
     "com.wallpaper.hd.all.travel.desert.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Desert Wallpaper HD",
@@ -4842,7 +4841,7 @@
       "flavor": "traveldesert"
     },
     "com.wallpaper.hd.all.travel.forest.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Forest Wallpaper HD",
@@ -4850,7 +4849,7 @@
       "flavor": "travelforest"
     },
     "com.wallpaper.hd.all.travel.greatwall.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Great Wall Wallpaper HD",
@@ -4858,7 +4857,7 @@
       "flavor": "travelgreatwall"
     },
     "com.wallpaper.hd.all.travel.iceland.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Iceland Wallpaper HD",
@@ -4866,7 +4865,7 @@
       "flavor": "traveliceland"
     },
     "com.wallpaper.hd.all.travel.island.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Island Wallpaper HD",
@@ -4874,7 +4873,7 @@
       "flavor": "travelisland"
     },
     "com.wallpaper.hd.all.travel.italy.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Italy Wallpaper HD",
@@ -4882,7 +4881,7 @@
       "flavor": "travelitaly"
     },
     "com.wallpaper.hd.all.travel.japan.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Japan Wallpaper HD",
@@ -4890,7 +4889,7 @@
       "flavor": "traveljapan"
     },
     "com.wallpaper.hd.all.travel.lake.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Lake Wallpaper HD",
@@ -4898,7 +4897,7 @@
       "flavor": "travellake"
     },
     "com.wallpaper.hd.all.travel.machupicchu.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Machu Picchu Wallpaper HD",
@@ -4906,7 +4905,7 @@
       "flavor": "travelmachupicchu"
     },
     "com.wallpaper.hd.all.travel.maldives.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Maldives Wallpaper HD",
@@ -4914,7 +4913,7 @@
       "flavor": "travelmaldives"
     },
     "com.wallpaper.hd.all.travel.mountains.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Mountains Wallpaper HD",
@@ -4922,7 +4921,7 @@
       "flavor": "travelmountains"
     },
     "com.wallpaper.hd.all.travel.newzealand.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "New Zealand Wallpaper HD",
@@ -4930,7 +4929,7 @@
       "flavor": "travelnewzealand"
     },
     "com.wallpaper.hd.all.travel.niagarafalls.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Niagara Falls Wallpaper HD",
@@ -4938,7 +4937,7 @@
       "flavor": "travelniagarafalls"
     },
     "com.wallpaper.hd.all.travel.norway.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Norway Wallpaper HD",
@@ -4946,7 +4945,7 @@
       "flavor": "travelnorway"
     },
     "com.wallpaper.hd.all.travel.petrajordan.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Petra Jordan Wallpaper HD",
@@ -4954,7 +4953,7 @@
       "flavor": "travelpetrajordan"
     },
     "com.wallpaper.hd.all.travel.pyramids.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Pyramids Wallpaper HD",
@@ -4962,7 +4961,7 @@
       "flavor": "travelpyramids"
     },
     "com.wallpaper.hd.all.travel.santorini.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Santorini Wallpaper HD",
@@ -4970,7 +4969,7 @@
       "flavor": "travelsantorini"
     },
     "com.wallpaper.hd.all.travel.snow.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Snow Wallpaper HD",
@@ -4978,7 +4977,7 @@
       "flavor": "travelsnow"
     },
     "com.wallpaper.hd.all.travel.switzerland.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Switzerland Wallpaper HD",
@@ -4986,7 +4985,7 @@
       "flavor": "travelswitzerland"
     },
     "com.wallpaper.hd.all.travel.tajmahal.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Taj Mahal Wallpaper HD",
@@ -4994,7 +4993,7 @@
       "flavor": "traveltajmahal"
     },
     "com.wallpaper.hd.all.travel.waterfall.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Waterfall Wallpaper HD",
@@ -5002,7 +5001,7 @@
       "flavor": "travelwaterfall"
     },
     "com.wallpaper.hd.all.travel.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": true,
       "app_name": "Travel HD Wallpapers",
@@ -5010,7 +5009,7 @@
       "flavor": "travel"
     },
     "com.wallpaper.hd.all.zodiac.aquarius.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Aquarius Wallpaper HD",
@@ -5018,7 +5017,7 @@
       "flavor": "zodiacaquarius"
     },
     "com.wallpaper.hd.all.zodiac.aries.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Aries Wallpaper HD",
@@ -5026,7 +5025,7 @@
       "flavor": "zodiacaries"
     },
     "com.wallpaper.hd.all.zodiac.cancer.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Cancer Wallpaper HD",
@@ -5034,7 +5033,7 @@
       "flavor": "zodiaccancer"
     },
     "com.wallpaper.hd.all.zodiac.capricorn.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Capricorn Wallpaper HD",
@@ -5042,7 +5041,7 @@
       "flavor": "zodiaccapricorn"
     },
     "com.wallpaper.hd.all.zodiac.gemini.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Gemini Wallpaper HD",
@@ -5050,7 +5049,7 @@
       "flavor": "zodiacgemini"
     },
     "com.wallpaper.hd.all.zodiac.leo.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Leo Wallpaper HD",
@@ -5058,7 +5057,7 @@
       "flavor": "zodiacleo"
     },
     "com.wallpaper.hd.all.zodiac.libra.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Libra Wallpaper HD",
@@ -5066,7 +5065,7 @@
       "flavor": "zodiaclibra"
     },
     "com.wallpaper.hd.all.zodiac.pisces.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Pisces Wallpaper HD",
@@ -5074,7 +5073,7 @@
       "flavor": "zodiacpisces"
     },
     "com.wallpaper.hd.all.zodiac.sagittarius.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Sagittarius Wallpaper HD",
@@ -5082,7 +5081,7 @@
       "flavor": "zodiacsagittarius"
     },
     "com.wallpaper.hd.all.zodiac.scorpio.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Scorpio Wallpaper HD",
@@ -5090,7 +5089,7 @@
       "flavor": "zodiacscorpio"
     },
     "com.wallpaper.hd.all.zodiac.taurus.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Taurus Wallpaper HD",
@@ -5098,7 +5097,7 @@
       "flavor": "zodiactaurus"
     },
     "com.wallpaper.hd.all.zodiac.virgo.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Virgo Wallpaper HD",
@@ -5106,7 +5105,7 @@
       "flavor": "zodiacvirgo"
     },
     "com.wallpaper.hd.all.zodiac.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": true,
       "app_name": "Zodiac HD Wallpapers",
@@ -5202,7 +5201,7 @@
       "flavor": "tvseriesthewitcher"
     },
     "com.wallpaper.hd.all.swimming.ariarne.titmus.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Ariarne Titmus Wallpaper HD",
@@ -5210,7 +5209,7 @@
       "flavor": "swimmingariarnetitmus"
     },
     "com.wallpaper.hd.all.swimming.caleb.dressel.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Caleb Dressel Wallpaper HD",
@@ -5218,7 +5217,7 @@
       "flavor": "swimmingcalebdressel"
     },
     "com.wallpaper.hd.all.swimming.chad.le.clos.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Chad Le Clos Wallpaper HD",
@@ -5226,7 +5225,7 @@
       "flavor": "swimmingchadleclos"
     },
     "com.wallpaper.hd.all.swimming.katie.ledecky.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Katie Ledecky Wallpaper HD",
@@ -5234,7 +5233,7 @@
       "flavor": "swimmingkatieledecky"
     },
     "com.wallpaper.hd.all.swimming.leon.marchand.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Leon Marchand Wallpaper HD",
@@ -5242,7 +5241,7 @@
       "flavor": "swimmingleonmarchand"
     },
     "com.wallpaper.hd.all.swimming.michael.phelps.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Michael Phelps Wallpaper HD",
@@ -5250,7 +5249,7 @@
       "flavor": "swimmingmichaelphelps"
     },
     "com.wallpaper.hd.all.swimming.summer.mcintosh.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": false,
       "app_name": "Summer Mc Intosh Wallpaper HD",
@@ -5258,7 +5257,7 @@
       "flavor": "swimmingsummermcintosh"
     },
     "com.wallpaper.hd.all.swimming.images": {
-      "base_url": "https://wallpapers.pinakinexus.com",
+      "base_url": "https://shortnews.raztechnology.com",
       "is_live": false,
       "is_multi_sub": true,
       "app_name": "Swimming HD Wallpapers",
@@ -5521,5 +5520,6 @@
       "category": "misc",
       "flavor": "southindian"
     }
-  }
+  },
+  "version": 3
 }
