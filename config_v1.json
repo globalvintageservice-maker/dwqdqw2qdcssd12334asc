@@ -1,0 +1,5525 @@
+{
+  "version": 2,
+  "apps": {
+    "com.wallpaper.hd.all.americanfootball.aaron.donald.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Aaron Donald Wallpaper HD",
+      "category": "americanfootball",
+      "flavor": "americanfootballaarondonald"
+    },
+    "com.wallpaper.hd.all.americanfootball.dak.prescott.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Dak Prescott Wallpaper HD",
+      "category": "americanfootball",
+      "flavor": "americanfootballdakprescott"
+    },
+    "com.wallpaper.hd.all.americanfootball.derrick.henry.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Derrick Henry Wallpaper HD",
+      "category": "americanfootball",
+      "flavor": "americanfootballderrickhenry"
+    },
+    "com.wallpaper.hd.all.americanfootball.jalen.hurts.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Jalen Hurts Wallpaper HD",
+      "category": "americanfootball",
+      "flavor": "americanfootballjalenhurts"
+    },
+    "com.wallpaper.hd.all.americanfootball.jerry.rice.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Jerry Rice Wallpaper HD",
+      "category": "americanfootball",
+      "flavor": "americanfootballjerryrice"
+    },
+    "com.wallpaper.hd.all.americanfootball.josh.allen.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Josh Allen Wallpaper HD",
+      "category": "americanfootball",
+      "flavor": "americanfootballjoshallen"
+    },
+    "com.wallpaper.hd.all.americanfootball.lamar.jackson.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Lamar Jackson Wallpaper HD",
+      "category": "americanfootball",
+      "flavor": "americanfootballlamarjackson"
+    },
+    "com.wallpaper.hd.all.americanfootball.odell.beckham.jr.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Odell Beckham Jr Wallpaper HD",
+      "category": "americanfootball",
+      "flavor": "americanfootballodellbeckhamjr"
+    },
+    "com.wallpaper.hd.all.americanfootball.patrick.mahomes.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Patrick Mahomes Wallpaper HD",
+      "category": "americanfootball",
+      "flavor": "americanfootballpatrickmahomes"
+    },
+    "com.wallpaper.hd.all.americanfootball.tom.brady.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Tom Brady Wallpaper HD",
+      "category": "americanfootball",
+      "flavor": "americanfootballtombrady"
+    },
+    "com.wallpaper.hd.all.americanfootball.travis.kelce.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Travis Kelce Wallpaper HD",
+      "category": "americanfootball",
+      "flavor": "americanfootballtraviskelce"
+    },
+    "com.wallpaper.hd.all.americanfootball.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": true,
+      "app_name": "AmericanFootball HD Wallpapers",
+      "category": "americanfootball",
+      "flavor": "americanfootball"
+    },
+    "com.wallpaper.hd.all.animals.cat.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Cat Wallpaper HD",
+      "category": "animals",
+      "flavor": "cat"
+    },
+    "com.wallpaper.hd.all.animals.chameleon.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Chameleon Wallpaper HD",
+      "category": "animals",
+      "flavor": "chameleon"
+    },
+    "com.wallpaper.hd.all.animals.deer.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Deer Wallpaper HD",
+      "category": "animals",
+      "flavor": "deer"
+    },
+    "com.wallpaper.hd.all.animals.dog.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Dog Wallpaper HD",
+      "category": "animals",
+      "flavor": "dog"
+    },
+    "com.wallpaper.hd.all.animals.eagle.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Eagle Wallpaper HD",
+      "category": "animals",
+      "flavor": "eagle"
+    },
+    "com.wallpaper.hd.all.animals.elephant.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Elephant Wallpaper HD",
+      "category": "animals",
+      "flavor": "elephant"
+    },
+    "com.wallpaper.hd.all.animals.fox.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Fox Wallpaper HD",
+      "category": "animals",
+      "flavor": "fox"
+    },
+    "com.wallpaper.hd.all.animals.frog.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Frog Wallpaper HD",
+      "category": "animals",
+      "flavor": "frog"
+    },
+    "com.wallpaper.hd.all.animals.horse.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Horse Wallpaper HD",
+      "category": "animals",
+      "flavor": "horse"
+    },
+    "com.wallpaper.hd.all.animals.lion.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Lion Wallpaper HD",
+      "category": "animals",
+      "flavor": "lion"
+    },
+    "com.wallpaper.hd.all.animals.monkey.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Monkey Wallpaper HD",
+      "category": "animals",
+      "flavor": "monkey"
+    },
+    "com.wallpaper.hd.all.animals.owl.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Owl Wallpaper HD",
+      "category": "animals",
+      "flavor": "owl"
+    },
+    "com.wallpaper.hd.all.animals.parrot.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Parrot Wallpaper HD",
+      "category": "animals",
+      "flavor": "parrot"
+    },
+    "com.wallpaper.hd.all.animals.peacock.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Peacock Wallpaper HD",
+      "category": "animals",
+      "flavor": "peacock"
+    },
+    "com.wallpaper.hd.all.animals.tiger.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Tiger Wallpaper HD",
+      "category": "animals",
+      "flavor": "tiger"
+    },
+    "com.wallpaper.hd.all.animals.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": true,
+      "app_name": "Animals HD Wallpapers",
+      "category": "animals",
+      "flavor": "animals"
+    },
+    "com.wallpaper.hd.all.anime.attack.on.titan.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Attack On Titan Wallpaper HD",
+      "category": "anime",
+      "flavor": "animeattackontitan"
+    },
+    "com.wallpaper.hd.all.anime.death.note.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Death Note Wallpaper HD",
+      "category": "anime",
+      "flavor": "animedeathnote"
+    },
+    "com.wallpaper.hd.all.anime.demon.slayer.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Demon Anime Wallpaper HD",
+      "category": "anime",
+      "flavor": "animedemonslayer"
+    },
+    "com.wallpaper.hd.all.anime.dragon.ball.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Dragon Anime Wallpaper HD",
+      "category": "anime",
+      "flavor": "animedragonball"
+    },
+    "com.wallpaper.hd.all.anime.hunter.x.hunter.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Hunter X Hunter Wallpaper HD",
+      "category": "anime",
+      "flavor": "animehunterxhunter"
+    },
+    "com.wallpaper.hd.all.anime.jujutsu.kaisen.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Jujutsu Kaisen Wallpaper HD",
+      "category": "anime",
+      "flavor": "animejujutsukaisen"
+    },
+    "com.wallpaper.hd.all.anime.my.hero.academia.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "My Hero Academia Wallpaper HD",
+      "category": "anime",
+      "flavor": "animemyheroacademia"
+    },
+    "com.wallpaper.hd.all.anime.naruto.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Ninja Anime Wallpaper HD",
+      "category": "anime",
+      "flavor": "animenaruto"
+    },
+    "com.wallpaper.hd.all.anime.one.punch.man.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Hero Anime Wallpaper HD",
+      "category": "anime",
+      "flavor": "animeonepunchman"
+    },
+    "com.wallpaper.hd.all.anime.tokyo.ghoul.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Tokyo Ghoul Wallpaper HD",
+      "category": "anime",
+      "flavor": "animetokyoghoul"
+    },
+    "com.wallpaper.hd.all.anime.wallpapers.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": true,
+      "app_name": "Anime HD Wallpapers",
+      "category": "anime",
+      "flavor": "anime"
+    },
+    "com.wallpaper.hd.all.badminton.an.se.young.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "An Se Young Wallpaper HD",
+      "category": "badminton",
+      "flavor": "badmintonanseyoung"
+    },
+    "com.wallpaper.hd.all.badminton.kunlavut.vitidsarn.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Kunlavut Vitidsarn Wallpaper HD",
+      "category": "badminton",
+      "flavor": "badmintonkunlavutvitidsarn"
+    },
+    "com.wallpaper.hd.all.badminton.lakshya.sen.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Lakshya Sen Wallpaper HD",
+      "category": "badminton",
+      "flavor": "badmintonlakshyasen"
+    },
+    "com.wallpaper.hd.all.badminton.lin.dan.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Lin Dan Wallpaper HD",
+      "category": "badminton",
+      "flavor": "badmintonlindan"
+    },
+    "com.wallpaper.hd.all.badminton.nozomi.okuhara.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Nozomi Okuhara Wallpaper HD",
+      "category": "badminton",
+      "flavor": "badmintonnozomiokuhara"
+    },
+    "com.wallpaper.hd.all.badminton.pv.sindhu.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "PV Sindhu Wallpaper HD",
+      "category": "badminton",
+      "flavor": "badmintonpvsindhu"
+    },
+    "com.wallpaper.hd.all.badminton.saina.nehwal.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Saina Nehwal Wallpaper HD",
+      "category": "badminton",
+      "flavor": "badmintonsainanehwal"
+    },
+    "com.wallpaper.hd.all.badminton.viktor.axelsen.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Viktor Axelsen Wallpaper HD",
+      "category": "badminton",
+      "flavor": "badmintonviktoraxelsen"
+    },
+    "com.wallpaper.hd.all.badminton.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": true,
+      "app_name": "Badminton HD Wallpapers",
+      "category": "badminton",
+      "flavor": "badminton"
+    },
+    "com.wallpaper.hd.all.baseball.aaron.judge.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Aaron Judge Wallpaper HD",
+      "category": "baseball",
+      "flavor": "baseballaaronjudge"
+    },
+    "com.wallpaper.hd.all.baseball.babe.ruth.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Babe Ruth Wallpaper HD",
+      "category": "baseball",
+      "flavor": "baseballbaberuth"
+    },
+    "com.wallpaper.hd.all.baseball.bryce.harper.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Bryce Harper Wallpaper HD",
+      "category": "baseball",
+      "flavor": "baseballbryceharper"
+    },
+    "com.wallpaper.hd.all.baseball.derek.jeter.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Derek Jeter Wallpaper HD",
+      "category": "baseball",
+      "flavor": "baseballderekjeter"
+    },
+    "com.wallpaper.hd.all.baseball.fernando.tatis.jr.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Fernando Tatis Jr Wallpaper HD",
+      "category": "baseball",
+      "flavor": "baseballfernandotatisjr"
+    },
+    "com.wallpaper.hd.all.baseball.juan.soto.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Juan Soto Wallpaper HD",
+      "category": "baseball",
+      "flavor": "baseballjuansoto"
+    },
+    "com.wallpaper.hd.all.baseball.mike.trout.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Mike Trout Wallpaper HD",
+      "category": "baseball",
+      "flavor": "baseballmiketrout"
+    },
+    "com.wallpaper.hd.all.baseball.mookie.betts.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Mookie Betts Wallpaper HD",
+      "category": "baseball",
+      "flavor": "baseballmookiebetts"
+    },
+    "com.wallpaper.hd.all.baseball.ronald.acuna.jr.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Ronald Acuna Jr Wallpaper HD",
+      "category": "baseball",
+      "flavor": "baseballronaldacunajr"
+    },
+    "com.wallpaper.hd.all.baseball.shohei.ohtani.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Shohei Ohtani Wallpaper HD",
+      "category": "baseball",
+      "flavor": "baseballshoheiohtani"
+    },
+    "com.wallpaper.hd.all.baseball.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": true,
+      "app_name": "Baseball HD Wallpapers",
+      "category": "baseball",
+      "flavor": "baseball"
+    },
+    "com.wallpaper.hd.all.bollywood.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": true,
+      "app_name": "Bollywood HD Wallpapers",
+      "category": "bollywood",
+      "flavor": "bollywood"
+    },
+    "com.wallpaper.hd.all.cartoons.ben.ten.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Ben Ten Wallpaper HD",
+      "category": "cartoons",
+      "flavor": "cartoonsbenten"
+    },
+    "com.wallpaper.hd.all.cartoons.disney.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Cartoon Wallpaper HD",
+      "category": "cartoons",
+      "flavor": "cartoonsdisney"
+    },
+    "com.wallpaper.hd.all.cartoons.doraemon.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Robot Cat Wallpaper HD",
+      "category": "cartoons",
+      "flavor": "cartoonsdoraemon"
+    },
+    "com.wallpaper.hd.all.cartoons.mickey.mouse.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Cartoon Mouse Wallpaper HD",
+      "category": "cartoons",
+      "flavor": "cartoonsmickey"
+    },
+    "com.wallpaper.hd.all.cartoons.oggy.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Funny Cat Cartoon HD",
+      "category": "cartoons",
+      "flavor": "cartoonsoggy"
+    },
+    "com.wallpaper.hd.all.cartoons.pixar.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Pixar Wallpaper HD",
+      "category": "cartoons",
+      "flavor": "cartoonspixar"
+    },
+    "com.wallpaper.hd.all.cartoons.pokemon.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Monster Anime Wallpaper HD",
+      "category": "cartoons",
+      "flavor": "cartoonspokemon"
+    },
+    "com.wallpaper.hd.all.cartoons.shinchan.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Funny Cartoon Wallpaper HD",
+      "category": "cartoons",
+      "flavor": "cartoonsshinchan"
+    },
+    "com.wallpaper.hd.all.cartoons.sponge.bob.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Sea Sponge Cartoon HD",
+      "category": "cartoons",
+      "flavor": "cartoonsspongebob"
+    },
+    "com.wallpaper.hd.all.cartoons.tom.and.jerry.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Tom And Jerry Wallpaper HD",
+      "category": "cartoons",
+      "flavor": "cartoonstomandjerry"
+    },
+    "com.wallpaper.hd.all.cartoons.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": true,
+      "app_name": "Cartoons HD Wallpapers",
+      "category": "cartoons",
+      "flavor": "cartoons"
+    },
+    "com.wallpaper.hd.all.cities.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": true,
+      "app_name": "Cities HD Wallpapers",
+      "category": "cities",
+      "flavor": "cities"
+    },
+    "com.wallpaper.hd.all.sachin.tendulkar.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Sachin Tendulkar Wallpaper HD",
+      "category": "cricketers",
+      "flavor": "sachintendulkar"
+    },
+    "com.wallpaper.hd.all.ms.dhoni.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "MS Dhoni Wallpaper HD",
+      "category": "cricketers",
+      "flavor": "msdhoni"
+    },
+    "com.wallpaper.hd.all.jasprit.bumrah.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Jasprit Bumrah Wallpaper HD",
+      "category": "cricketers",
+      "flavor": "jaspritbumrah"
+    },
+    "com.wallpaper.hd.all.virat.kohli.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Virat Kohli Wallpaper HD",
+      "category": "cricketers",
+      "flavor": "viratkohli"
+    },
+    "com.wallpaper.hd.all.rohit.sharma.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Rohit Sharma Wallpaper HD",
+      "category": "cricketers",
+      "flavor": "rohitsharma"
+    },
+    "com.wallpaper.hd.all.ravindra.jadega.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Ravindra Jadeja Wallpaper HD",
+      "category": "cricketers",
+      "flavor": "ravindrajadeja"
+    },
+    "com.wallpaper.hd.all.hardik.pandya.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Hardik Pandya Wallpaper HD",
+      "category": "cricketers",
+      "flavor": "hardikpandya"
+    },
+    "com.wallpaper.hd.all.mohammed.shami.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Mohammed Shami Wallpaper HD",
+      "category": "cricketers",
+      "flavor": "mohammedshami"
+    },
+    "com.wallpaper.hd.all.shubman.gill.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Shubman Gill Wallpaper HD",
+      "category": "cricketers",
+      "flavor": "shubmangill"
+    },
+    "com.wallpaper.hd.all.arshdeep.singh.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Arshdeep Singh Wallpaper HD",
+      "category": "cricketers",
+      "flavor": "arshdeepsingh"
+    },
+    "com.wallpaper.hd.all.varun.chakravarthy.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Varun Chakravarthy Wallpaper HD",
+      "category": "cricketers",
+      "flavor": "varunchakravarthy"
+    },
+    "com.wallpaper.hd.all.harsit.rana.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Harshit Rana Wallpaper HD",
+      "category": "cricketers",
+      "flavor": "harshitrana"
+    },
+    "com.wallpaper.hd.all.kuldeep.yadav.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Kuldeep Yadav Wallpaper HD",
+      "category": "cricketers",
+      "flavor": "kuldeepyadav"
+    },
+    "com.wallpaper.hd.all.axar.patel.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Axar Patel Wallpaper HD",
+      "category": "cricketers",
+      "flavor": "axarpatel"
+    },
+    "com.wallpaper.hd.all.lokesh.rahul.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Lokesh Rahul Wallpaper HD",
+      "category": "cricketers",
+      "flavor": "lokeshrahul"
+    },
+    "com.wallpaper.hd.all.shreyas.iyer.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Shreyas Iyer Wallpaper HD",
+      "category": "cricketers",
+      "flavor": "shreyasiyer"
+    },
+    "com.wallpaper.hd.all.rishabh.pant.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Rishabh Pant Wallpaper HD",
+      "category": "cricketers",
+      "flavor": "rishabhpant"
+    },
+    "com.wallpaper.hd.all.cute.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": true,
+      "app_name": "Cute HD Wallpapers",
+      "category": "cute",
+      "flavor": "cute"
+    },
+    "com.wallpaper.hd.all.f1.ayrton.senna.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Ayrton Senna Wallpaper HD",
+      "category": "f1",
+      "flavor": "f1ayrtonsenna"
+    },
+    "com.wallpaper.hd.all.f1.carlos.sainz.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Carlos Sainz Wallpaper HD",
+      "category": "f1",
+      "flavor": "f1carlossainz"
+    },
+    "com.wallpaper.hd.all.f1.charles.leclerc.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Charles Leclerc Wallpaper HD",
+      "category": "f1",
+      "flavor": "f1charlesleclerc"
+    },
+    "com.wallpaper.hd.all.f1.daniel.ricciardo.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Daniel Ricciardo Wallpaper HD",
+      "category": "f1",
+      "flavor": "f1danielricciardo"
+    },
+    "com.wallpaper.hd.all.f1.fernando.alonso.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Fernando Alonso Wallpaper HD",
+      "category": "f1",
+      "flavor": "f1fernandoalonso"
+    },
+    "com.wallpaper.hd.all.f1.lando.norris.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Lando Norris Wallpaper HD",
+      "category": "f1",
+      "flavor": "f1landonorris"
+    },
+    "com.wallpaper.hd.all.f1.lewis.hamilton.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Lewis Hamilton Wallpaper HD",
+      "category": "f1",
+      "flavor": "f1lewishamilton"
+    },
+    "com.wallpaper.hd.all.f1.max.verstappen.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Max Verstappen Wallpaper HD",
+      "category": "f1",
+      "flavor": "f1maxverstappen"
+    },
+    "com.wallpaper.hd.all.f1.michael.schumacher.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Michael Schumacher Wallpaper HD",
+      "category": "f1",
+      "flavor": "f1michaelschumacher"
+    },
+    "com.wallpaper.hd.all.f1.oscar.piastri.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Oscar Piastri Wallpaper HD",
+      "category": "f1",
+      "flavor": "f1oscarpiastri"
+    },
+    "com.wallpaper.hd.all.festivals.baisakhi.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Baisakhi Wallpaper HD",
+      "category": "festivals",
+      "flavor": "festivalsbaisakhi"
+    },
+    "com.wallpaper.hd.all.festivals.bihu.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Bihu Wallpaper HD",
+      "category": "festivals",
+      "flavor": "festivalsbihu"
+    },
+    "com.wallpaper.hd.all.festivals.chhath.puja.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Chhath Puja Wallpaper HD",
+      "category": "festivals",
+      "flavor": "festivalschhathpuja"
+    },
+    "com.wallpaper.hd.all.festivals.christmas.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Christmas Wallpaper HD",
+      "category": "festivals",
+      "flavor": "festivalschristmas"
+    },
+    "com.wallpaper.hd.all.festivals.diwali.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Diwali Wallpaper HD",
+      "category": "festivals",
+      "flavor": "festivalsdiwali"
+    },
+    "com.wallpaper.hd.all.festivals.durga.puja.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Durga Puja Wallpaper HD",
+      "category": "festivals",
+      "flavor": "festivalsdurgapuja"
+    },
+    "com.wallpaper.hd.all.festivals.easter.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Easter Wallpaper HD",
+      "category": "festivals",
+      "flavor": "festivalseaster"
+    },
+    "com.wallpaper.hd.all.festivals.eid.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Eid Wallpaper HD",
+      "category": "festivals",
+      "flavor": "festivalseid"
+    },
+    "com.wallpaper.hd.all.festivals.ganesh.chaturthi.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Ganesh Chaturthi Wallpaper HD",
+      "category": "festivals",
+      "flavor": "festivalsganeshchaturthi"
+    },
+    "com.wallpaper.hd.all.festivals.halloween.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Halloween Wallpaper HD",
+      "category": "festivals",
+      "flavor": "festivalshalloween"
+    },
+    "com.wallpaper.hd.all.festivals.holi.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Holi Wallpaper HD",
+      "category": "festivals",
+      "flavor": "festivalsholi"
+    },
+    "com.wallpaper.hd.all.festivals.janmashtami.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Janmashtami Wallpaper HD",
+      "category": "festivals",
+      "flavor": "festivalsjanmashtami"
+    },
+    "com.wallpaper.hd.all.festivals.karwa.chauth.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Karwa Chauth Wallpaper HD",
+      "category": "festivals",
+      "flavor": "festivalskarwachauth"
+    },
+    "com.wallpaper.hd.all.festivals.lohri.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Lohri Wallpaper HD",
+      "category": "festivals",
+      "flavor": "festivalslohri"
+    },
+    "com.wallpaper.hd.all.festivals.makar.sankranti.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Makar Sankranti Wallpaper HD",
+      "category": "festivals",
+      "flavor": "festivalsmakarsankranti"
+    },
+    "com.wallpaper.hd.all.festivals.navratri.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Navratri Wallpaper HD",
+      "category": "festivals",
+      "flavor": "festivalsnavratri"
+    },
+    "com.wallpaper.hd.all.festivals.new.year.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "New Year Wallpaper HD",
+      "category": "festivals",
+      "flavor": "festivalsnewyear"
+    },
+    "com.wallpaper.hd.all.festivals.onam.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Onam Wallpaper HD",
+      "category": "festivals",
+      "flavor": "festivalsonam"
+    },
+    "com.wallpaper.hd.all.festivals.pongal.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Pongal Wallpaper HD",
+      "category": "festivals",
+      "flavor": "festivalspongal"
+    },
+    "com.wallpaper.hd.all.festivals.raksha.bandhan.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Raksha Bandhan Wallpaper HD",
+      "category": "festivals",
+      "flavor": "festivalsrakshabandhan"
+    },
+    "com.wallpaper.hd.all.festivals.rath.yatra.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Rath Yatra Wallpaper HD",
+      "category": "festivals",
+      "flavor": "festivalsrathyatra"
+    },
+    "com.wallpaper.hd.all.festivals.thanksgiving.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Thanksgiving Wallpaper HD",
+      "category": "festivals",
+      "flavor": "festivalsthanksgiving"
+    },
+    "com.wallpaper.hd.all.festivals.ugadi.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Ugadi Wallpaper HD",
+      "category": "festivals",
+      "flavor": "festivalsugadi"
+    },
+    "com.wallpaper.hd.all.festivals.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": true,
+      "app_name": "Festivals HD Wallpapers",
+      "category": "festivals",
+      "flavor": "festivals"
+    },
+    "com.wallpaper.hd.all.flowers.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": true,
+      "app_name": "Flowers HD Wallpapers",
+      "category": "flowers",
+      "flavor": "flowers"
+    },
+    "com.wallpaper.hd.all.footballer.cristiano.ronaldo.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Cristiano Ronaldo Wallpaper HD",
+      "category": "footballers",
+      "flavor": "cristianoronaldo"
+    },
+    "com.wallpaper.hd.all.footballer.lionel.messi.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Lionel Messi Wallpaper HD",
+      "category": "footballers",
+      "flavor": "lionelmessi"
+    },
+    "com.wallpaper.hd.all.footballer.thierry.henry.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Thierry Henry Wallpaper HD",
+      "category": "footballers",
+      "flavor": "thierryhenry"
+    },
+    "com.wallpaper.hd.all.footballer.luka.modric.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Luka Modric Wallpaper HD",
+      "category": "footballers",
+      "flavor": "lukamodric"
+    },
+    "com.wallpaper.hd.all.footballer.kylian.mbappe.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Kylian Mbappe Wallpaper HD",
+      "category": "footballers",
+      "flavor": "kylianmbappe"
+    },
+    "com.wallpaper.hd.all.footballer.xavi.hernandez.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Xavi Hernandez Wallpaper HD",
+      "category": "footballers",
+      "flavor": "xavihernandez"
+    },
+    "com.wallpaper.hd.all.footballer.ronaldo.nazario.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Ronaldo Nazario Wallpaper HD",
+      "category": "footballers",
+      "flavor": "ronaldonazario"
+    },
+    "com.wallpaper.hd.all.footballer.ronaldinho.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Ronaldinho Wallpaper HD",
+      "category": "footballers",
+      "flavor": "ronaldinho"
+    },
+    "com.wallpaper.hd.all.footballer.andres.iniesta.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Andres Iniesta Wallpaper HD",
+      "category": "footballers",
+      "flavor": "andresiniesta"
+    },
+    "com.wallpaper.hd.all.footballer.neymar.jr.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Neymar Jr Wallpaper HD",
+      "category": "footballers",
+      "flavor": "neymarjr"
+    },
+    "com.wallpaper.hd.all.footballer.ousmane.dembele.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Ousmane Dembele Wallpaper HD",
+      "category": "footballers",
+      "flavor": "ousmanedembele"
+    },
+    "com.wallpaper.hd.all.footballer.david.beckham.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "David Beckham Wallpaper HD",
+      "category": "footballers",
+      "flavor": "davidbeckham"
+    },
+    "com.wallpaper.hd.all.footballer.zlatan.ibrahimovic.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Zlatan Ibrahimovic Wallpaper HD",
+      "category": "footballers",
+      "flavor": "zlatanibrahimovic"
+    },
+    "com.wallpaper.hd.all.footballer.wayne.rooney.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Wayne Rooney Wallpaper HD",
+      "category": "footballers",
+      "flavor": "waynerooney"
+    },
+    "com.wallpaper.hd.all.footballer.vinicius.jr.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Vinicius Jr Wallpaper HD",
+      "category": "footballers",
+      "flavor": "viniciusjr"
+    },
+    "com.wallpaper.hd.all.footballer.mohamed.salah.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Mohamed Salah Wallpaper HD",
+      "category": "footballers",
+      "flavor": "mohamedsalah"
+    },
+    "com.wallpaper.hd.all.footballer.lamine.yamal.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Lamine Yamal Wallpaper HD",
+      "category": "footballers",
+      "flavor": "lamineyamal"
+    },
+    "com.wallpaper.hd.all.footballer.cole.palmer.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Cole Palmer Wallpaper HD",
+      "category": "footballers",
+      "flavor": "colepalmer"
+    },
+    "com.wallpaper.hd.all.footballer.jude.bellingham.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Jude Bellingham Wallpaper HD",
+      "category": "footballers",
+      "flavor": "judebellingham"
+    },
+    "com.wallpaper.hd.all.footballer.erling.haaland.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Erling Haaland Wallpaper HD",
+      "category": "footballers",
+      "flavor": "erlinghaaland"
+    },
+    "com.wallpaper.hd.all.footballer.heung.min.son.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Heung-min Son Wallpaper HD",
+      "category": "footballers",
+      "flavor": "heungminson"
+    },
+    "com.wallpaper.hd.all.footballer.harry.kane.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Harry Kane Wallpaper HD",
+      "category": "footballers",
+      "flavor": "harrykane"
+    },
+    "com.wallpaper.hd.all.footballer.karim.benzema.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Karim Benzema Wallpaper HD",
+      "category": "footballers",
+      "flavor": "karimbenzema"
+    },
+    "com.wallpaper.hd.all.footballer.luis.suarez.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Luis Suarez Wallpaper HD",
+      "category": "footballers",
+      "flavor": "luissuarez"
+    },
+    "com.wallpaper.hd.all.footballer.marcus.rashford.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Marcus Rashford Wallpaper HD",
+      "category": "footballers",
+      "flavor": "marcusrashford"
+    },
+    "com.wallpaper.hd.all.gods.ayyappa.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Ayyappa Wallpaper HD",
+      "category": "god",
+      "flavor": "godayyappa"
+    },
+    "com.wallpaper.hd.all.gods.bahuchara.maa.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "BahucharaMaa Wallpaper HD",
+      "category": "god",
+      "flavor": "godbahucharamaa"
+    },
+    "com.wallpaper.hd.all.gods.dattatreya.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Dattatreya Wallpaper HD",
+      "category": "god",
+      "flavor": "goddattatreya"
+    },
+    "com.wallpaper.hd.all.gods.ganga.maa.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "GangaMaa Wallpaper HD",
+      "category": "god",
+      "flavor": "godgangamaa"
+    },
+    "com.wallpaper.hd.all.gods.guru.gobind.singh.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "GuruGobindSingh Wallpaper HD",
+      "category": "god",
+      "flavor": "godgurugobindsingh"
+    },
+    "com.wallpaper.hd.all.gods.guru.nanak.dev.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "GuruNanakDev Wallpaper HD",
+      "category": "god",
+      "flavor": "godgurunanakdev"
+    },
+    "com.wallpaper.hd.all.gods.jagannath.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Jagannath Wallpaper HD",
+      "category": "god",
+      "flavor": "godjagannath"
+    },
+    "com.wallpaper.hd.all.gods.mahavir.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Mahavir Wallpaper HD",
+      "category": "god",
+      "flavor": "godmahavir"
+    },
+    "com.wallpaper.hd.all.gods.meldi.maa.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "MeldiMaa Wallpaper HD",
+      "category": "god",
+      "flavor": "godmeldimaa"
+    },
+    "com.wallpaper.hd.all.gods.mother.mary.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "MotherMary Wallpaper HD",
+      "category": "god",
+      "flavor": "godmothermary"
+    },
+    "com.wallpaper.hd.all.gods.murugan.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Murugan Wallpaper HD",
+      "category": "god",
+      "flavor": "godmurugan"
+    },
+    "com.wallpaper.hd.all.gods.narasimha.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Narasimha Wallpaper HD",
+      "category": "god",
+      "flavor": "godnarasimha"
+    },
+    "com.wallpaper.hd.all.gods.radha.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Radha Wallpaper HD",
+      "category": "god",
+      "flavor": "godradha"
+    },
+    "com.wallpaper.hd.all.gods.santoshi.maa.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "SantoshiMaa Wallpaper HD",
+      "category": "god",
+      "flavor": "godsantoshimaa"
+    },
+    "com.wallpaper.hd.all.gods.shreenathji.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "ShreenathJi Wallpaper HD",
+      "category": "god",
+      "flavor": "godshreenathji"
+    },
+    "com.wallpaper.hd.all.gods.sita.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Sita Wallpaper HD",
+      "category": "god",
+      "flavor": "godsita"
+    },
+    "com.wallpaper.hd.all.gods.tirupati.balaji.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "TirupatBalaji Wallpaper HD",
+      "category": "god",
+      "flavor": "godtirupatbalaji"
+    },
+    "com.wallpaper.hd.all.gods.vishnu.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Vishnu Wallpaper HD",
+      "category": "god",
+      "flavor": "godvishnu"
+    },
+    "com.wallpaper.hd.all.gods.vithal.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Vithal Wallpaper HD",
+      "category": "god",
+      "flavor": "godvithal"
+    },
+    "com.wallpaper.hd.all.hanuman.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Hanuman Wallpaper HD",
+      "category": "gods",
+      "flavor": "hanuman"
+    },
+    "com.wallpaper.hd.all.shiv.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Shiv Wallpaper HD",
+      "category": "gods",
+      "flavor": "shiv"
+    },
+    "com.wallpaper.hd.all.buddha.gautam.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Buddha Wallpaper HD",
+      "category": "gods",
+      "flavor": "buddha"
+    },
+    "com.wallpaper.hd.all.chamunda.maa.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Chamunda Maa Wallpaper HD",
+      "category": "gods",
+      "flavor": "chamundamaa"
+    },
+    "com.wallpaper.hd.all.ambemaa.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Ambe Maa Wallpaper HD",
+      "category": "gods",
+      "flavor": "durga"
+    },
+    "com.wallpaper.hd.all.hindu.gods.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": true,
+      "app_name": "Hindu Gods HD Wallpapers",
+      "category": "gods",
+      "flavor": "hindugods"
+    },
+    "com.wallpaper.hd.all.jesus.lord.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Jesus Wallpaper HD",
+      "category": "gods",
+      "flavor": "jesus"
+    },
+    "com.wallpaper.hd.all.mahakali.maa.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Mahakali Maa Wallpaper HD",
+      "category": "gods",
+      "flavor": "mahakalimaa"
+    },
+    "com.wallpaper.hd.all.khodiyar.maa.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Khodiyar Maa Wallpaper HD",
+      "category": "gods",
+      "flavor": "khodiyarmaa"
+    },
+    "com.wallpaper.hd.all.krishna.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Krishna Wallpaper HD",
+      "category": "gods",
+      "flavor": "krishna"
+    },
+    "com.wallpaper.hd.all.laxmi.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Laxmi Wallpaper HD",
+      "category": "gods",
+      "flavor": "laxmi"
+    },
+    "com.wallpaper.hd.all.parvati.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Parvati Wallpaper HD",
+      "category": "gods",
+      "flavor": "parvati"
+    },
+    "com.wallpaper.hd.all.ramdevphir.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Ramdevpir Wallpaper HD",
+      "category": "gods",
+      "flavor": "ramdevpir"
+    },
+    "com.wallpaper.hd.all.sai.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Sai Wallpaper HD",
+      "category": "gods",
+      "flavor": "sai"
+    },
+    "com.wallpaper.hd.all.saraswati.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Saraswati Wallpaper HD",
+      "category": "gods",
+      "flavor": "saraswati"
+    },
+    "com.wallpaper.hd.all.ram.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Ram Wallpaper HD",
+      "category": "gods",
+      "flavor": "ram"
+    },
+    "com.wallpaper.hd.all.swaminarayan.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Swaminarayan Wallpaper HD",
+      "category": "gods",
+      "flavor": "swaminarayan"
+    },
+    "com.wallpaper.hd.all.spiritual.acharya.prashant.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Acharya Prashant Wallpaper HD",
+      "category": "gurus",
+      "flavor": "gurusacharyaprashant"
+    },
+    "com.wallpaper.hd.all.spiritual.acharya.vidyasagar.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Acharya Vidyasagar HD",
+      "category": "gurus",
+      "flavor": "gurusacharyavidyasagar"
+    },
+    "com.wallpaper.hd.all.spiritual.baba.ramdev.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Baba Ramdev Wallpaper HD",
+      "category": "gurus",
+      "flavor": "gurusbabaramdev"
+    },
+    "com.wallpaper.hd.all.spiritual.bk.shivani.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "BK Shivani Wallpaper HD",
+      "category": "gurus",
+      "flavor": "gurusbkshivani"
+    },
+    "com.wallpaper.hd.all.spiritual.dalai.lama.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Dalai Lama Wallpaper HD",
+      "category": "gurus",
+      "flavor": "gurusdalailama"
+    },
+    "com.wallpaper.hd.all.spiritual.devkinandan.thakur.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Devkinandan Thakur HD",
+      "category": "gurus",
+      "flavor": "gurusdevkinandanthakur"
+    },
+    "com.wallpaper.hd.all.spiritual.dhirendra.krishna.shastri.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Dhirendra Shastri HD",
+      "category": "gurus",
+      "flavor": "gurusdhirendrakrishnashastri"
+    },
+    "com.wallpaper.hd.all.spiritual.gaur.gopal.das.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Gaur Gopal Das Wallpaper HD",
+      "category": "gurus",
+      "flavor": "gurusgaurgopaldas"
+    },
+    "com.wallpaper.hd.all.spiritual.indresh.upadhyay.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Indresh Upadhyay Wallpaper HD",
+      "category": "gurus",
+      "flavor": "gurusindreshupadhyay"
+    },
+    "com.wallpaper.hd.all.spiritual.karmapa.ogyen.trinley.dorje.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Karmapa Trinley Dorje HD",
+      "category": "gurus",
+      "flavor": "guruskarmapaogyentrinleydorje"
+    },
+    "com.wallpaper.hd.all.spiritual.mata.amritanandamayi.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Mata Amritanandamayi HD",
+      "category": "gurus",
+      "flavor": "gurusmataamritanandamayi"
+    },
+    "com.wallpaper.hd.all.spiritual.morari.bapu.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Morari Bapu Wallpaper HD",
+      "category": "gurus",
+      "flavor": "gurusmoraribapu"
+    },
+    "com.wallpaper.hd.all.spiritual.premanand.maharaj.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Premanand Maharaj Wallpaper HD",
+      "category": "gurus",
+      "flavor": "guruspremanandmaharaj"
+    },
+    "com.wallpaper.hd.all.spiritual.radhanath.swami.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Radhanath Swami Wallpaper HD",
+      "category": "gurus",
+      "flavor": "gurusradhanathswami"
+    },
+    "com.wallpaper.hd.all.spiritual.sadhguru.jaggi.vasudev.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Sadhguru Jaggi Vasudev HD",
+      "category": "gurus",
+      "flavor": "gurussadhgurujaggivasudev"
+    },
+    "com.wallpaper.hd.all.spiritual.sri.sri.ravi.shankar.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Sri Sri Ravi Shankar HD",
+      "category": "gurus",
+      "flavor": "gurussrisriravishankar"
+    },
+    "com.wallpaper.hd.all.hockey.alex.ovechkin.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Alex Ovechkin Wallpaper HD",
+      "category": "hockey",
+      "flavor": "hockeyalexovechkin"
+    },
+    "com.wallpaper.hd.all.hockey.auston.matthews.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Auston Matthews Wallpaper HD",
+      "category": "hockey",
+      "flavor": "hockeyaustonmatthews"
+    },
+    "com.wallpaper.hd.all.hockey.carey.price.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Carey Price Wallpaper HD",
+      "category": "hockey",
+      "flavor": "hockeycareyprice"
+    },
+    "com.wallpaper.hd.all.hockey.connor.mcdavid.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Connor McDavid Wallpaper HD",
+      "category": "hockey",
+      "flavor": "hockeyconnormcdavid"
+    },
+    "com.wallpaper.hd.all.hockey.leon.draisaitl.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Leon Draisaitl Wallpaper HD",
+      "category": "hockey",
+      "flavor": "hockeyleondraisaitl"
+    },
+    "com.wallpaper.hd.all.hockey.nathan.mackinnon.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Nathan MacKinnon Wallpaper HD",
+      "category": "hockey",
+      "flavor": "hockeynathanmackinnon"
+    },
+    "com.wallpaper.hd.all.hockey.nikita.kucherov.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Nikita Kucherov Wallpaper HD",
+      "category": "hockey",
+      "flavor": "hockeynikitakucherov"
+    },
+    "com.wallpaper.hd.all.hockey.patrick.kane.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Patrick Kane Wallpaper HD",
+      "category": "hockey",
+      "flavor": "hockeypatrickkane"
+    },
+    "com.wallpaper.hd.all.hockey.sidney.crosby.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Sidney Crosby Wallpaper HD",
+      "category": "hockey",
+      "flavor": "hockeysidneycrosby"
+    },
+    "com.wallpaper.hd.all.hockey.wayne.gretzky.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Wayne Gretzky Wallpaper HD",
+      "category": "hockey",
+      "flavor": "hockeywaynegretzky"
+    },
+    "com.wallpaper.hd.all.hockey.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": true,
+      "app_name": "Hockey HD Wallpapers",
+      "category": "hockey",
+      "flavor": "hockey"
+    },
+    "com.wallpaper.hd.all.hollywood.keanu.reeves.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Keanu Reeves Wallpaper HD",
+      "category": "hollywood",
+      "flavor": "hollywoodkeanureeves"
+    },
+    "com.wallpaper.hd.all.hollywood.leonardo.dicaprio.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Leonardo DiCaprio Wallpaper HD",
+      "category": "hollywood",
+      "flavor": "hollywoodleonardodicaprio"
+    },
+    "com.wallpaper.hd.all.hollywood.robert.downey.jr.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Robert Downey Jr Wallpaper HD",
+      "category": "hollywood",
+      "flavor": "hollywoodrobertdowneyjr"
+    },
+    "com.wallpaper.hd.all.hollywood.scarlett.johansson.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Scarlett Johansson Wallpaper HD",
+      "category": "hollywood",
+      "flavor": "hollywoodscarlettjohansson"
+    },
+    "com.wallpaper.hd.all.hollywood.tom.cruise.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Tom Cruise Wallpaper HD",
+      "category": "hollywood",
+      "flavor": "hollywoodtomcruise"
+    },
+    "com.wallpaper.hd.all.hollywood.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": true,
+      "app_name": "Hollywood HD Wallpapers",
+      "category": "hollywood",
+      "flavor": "hollywood"
+    },
+    "com.wallpaper.hd.all.kdrama.bae.suzy.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Bae Suzy Wallpaper HD",
+      "category": "kdrama",
+      "flavor": "kdramabaesuzy"
+    },
+    "com.wallpaper.hd.all.kdrama.gong.yoo.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Gong Yoo Wallpaper HD",
+      "category": "kdrama",
+      "flavor": "kdramagongyoo"
+    },
+    "com.wallpaper.hd.all.kdrama.han.hyo.joo.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Han Hyo Joo Wallpaper HD",
+      "category": "kdrama",
+      "flavor": "kdramahanhyojoo"
+    },
+    "com.wallpaper.hd.all.kdrama.hyun.bin.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Hyun Bin Wallpaper HD",
+      "category": "kdrama",
+      "flavor": "kdramahyunbin"
+    },
+    "com.wallpaper.hd.all.kdrama.jun.ji.hyun.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Jun Ji Hyun Wallpaper HD",
+      "category": "kdrama",
+      "flavor": "kdramajunjihyun"
+    },
+    "com.wallpaper.hd.all.kdrama.kim.soo.hyun.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Kim Soo Hyun Wallpaper HD",
+      "category": "kdrama",
+      "flavor": "kdramakimsoohyun"
+    },
+    "com.wallpaper.hd.all.kdrama.lee.min.ho.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Lee Min Ho Wallpaper HD",
+      "category": "kdrama",
+      "flavor": "kdramaleeminho"
+    },
+    "com.wallpaper.hd.all.kdrama.park.seo.joon.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Park Seo Joon Wallpaper HD",
+      "category": "kdrama",
+      "flavor": "kdramaparkseojoon"
+    },
+    "com.wallpaper.hd.all.kdrama.shin.min.ah.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Shin Min Ah Wallpaper HD",
+      "category": "kdrama",
+      "flavor": "kdramashinminah"
+    },
+    "com.wallpaper.hd.all.kdrama.song.hye.kyo.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Song Hye Kyo Wallpaper HD",
+      "category": "kdrama",
+      "flavor": "kdramasonghyekyo"
+    },
+    "com.wallpaper.hd.all.kdrama.song.joong.ki.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Song Joong Ki Wallpaper HD",
+      "category": "kdrama",
+      "flavor": "kdramasongjoongki"
+    },
+    "com.wallpaper.hd.all.kdrama.sung.hoon.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Sung Hoon Wallpaper HD",
+      "category": "kdrama",
+      "flavor": "kdramasunghoon"
+    },
+    "com.wallpaper.hd.all.kdrama.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": true,
+      "app_name": "KDrama HD Wallpapers",
+      "category": "kdrama",
+      "flavor": "kdrama"
+    },
+    "com.wallpaper.hd.all.kpop.bts.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "BTS Wallpaper HD",
+      "category": "kpop",
+      "flavor": "kpopbts"
+    },
+    "com.wallpaper.hd.all.kpop.blackpink.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Blackpink Wallpaper HD",
+      "category": "kpop",
+      "flavor": "kpopblackpink"
+    },
+    "com.wallpaper.hd.all.kpop.jennie.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Jennie Wallpaper HD",
+      "category": "kpop",
+      "flavor": "kpopjennie"
+    },
+    "com.wallpaper.hd.all.kpop.jhope.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "JHope Wallpaper HD",
+      "category": "kpop",
+      "flavor": "kpopjhope"
+    },
+    "com.wallpaper.hd.all.kpop.jin.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Jin Wallpaper HD",
+      "category": "kpop",
+      "flavor": "kpopjin"
+    },
+    "com.wallpaper.hd.all.kpop.jimin.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Jimin Wallpaper HD",
+      "category": "kpop",
+      "flavor": "kpopjimin"
+    },
+    "com.wallpaper.hd.all.kpop.jungkook.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Jungkook Wallpaper HD",
+      "category": "kpop",
+      "flavor": "kpopjungkook"
+    },
+    "com.wallpaper.hd.all.kpop.lisa.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Lisa Wallpaper HD",
+      "category": "kpop",
+      "flavor": "kpoplisa"
+    },
+    "com.wallpaper.hd.all.kpop.newjeans.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "New Jeans Wallpaper HD",
+      "category": "kpop",
+      "flavor": "kpopnewjeans"
+    },
+    "com.wallpaper.hd.all.kpop.rm.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "RM Wallpaper HD",
+      "category": "kpop",
+      "flavor": "kpoprm"
+    },
+    "com.wallpaper.hd.all.kpop.stray.kids.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Stray Kids Wallpaper HD",
+      "category": "kpop",
+      "flavor": "kpopstraykids"
+    },
+    "com.wallpaper.hd.all.kpop.suga.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Suga Wallpaper HD",
+      "category": "kpop",
+      "flavor": "kpopsuga"
+    },
+    "com.wallpaper.hd.all.kpop.taehyung.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Taehyung Wallpaper HD",
+      "category": "kpop",
+      "flavor": "kpoptaehyung"
+    },
+    "com.wallpaper.hd.all.kpop.twice.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Twice Wallpaper HD",
+      "category": "kpop",
+      "flavor": "kpoptwice"
+    },
+    "com.wallpaper.hd.all.kpop.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": true,
+      "app_name": "KPop HD Wallpapers",
+      "category": "kpop",
+      "flavor": "kpop"
+    },
+    "com.wallpaper.hd.all.quotes.friendship.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Friendship Wallpaper HD",
+      "category": "misc",
+      "flavor": "quotesfriendship"
+    },
+    "com.wallpaper.hd.all.quotes.good.night.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Good Night Wallpaper HD",
+      "category": "misc",
+      "flavor": "quotesgoodnight"
+    },
+    "com.wallpaper.hd.all.quotes.hindi.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Hindi Wallpaper HD",
+      "category": "misc",
+      "flavor": "quoteshindi"
+    },
+    "com.wallpaper.hd.all.quotes.islamic.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Islamic Wallpaper HD",
+      "category": "misc",
+      "flavor": "quotesislamic"
+    },
+    "com.wallpaper.hd.all.quotes.life.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Life Wallpaper HD",
+      "category": "misc",
+      "flavor": "quoteslife"
+    },
+    "com.wallpaper.hd.all.quotes.love.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Love Wallpaper HD",
+      "category": "misc",
+      "flavor": "quoteslove"
+    },
+    "com.wallpaper.hd.all.quotes.motivational.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Motivational Wallpaper HD",
+      "category": "misc",
+      "flavor": "quotesmotivational"
+    },
+    "com.wallpaper.hd.all.quotes.sad.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Sad Wallpaper HD",
+      "category": "misc",
+      "flavor": "quotessad"
+    },
+    "com.wallpaper.hd.all.superheroes.batman.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Batman Wallpaper HD",
+      "category": "misc",
+      "flavor": "superheroesbatman"
+    },
+    "com.wallpaper.hd.all.superheroes.black.panther.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Black Panther Wallpaper HD",
+      "category": "misc",
+      "flavor": "superheroesblackpanther"
+    },
+    "com.wallpaper.hd.all.superheroes.captain.america.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Captain America Wallpaper HD",
+      "category": "misc",
+      "flavor": "superheroescaptainamerica"
+    },
+    "com.wallpaper.hd.all.superheroes.deadpool.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Deadpool Wallpaper HD",
+      "category": "misc",
+      "flavor": "superheroesdeadpool"
+    },
+    "com.wallpaper.hd.all.superheroes.dr.strange.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Dr Strange Wallpaper HD",
+      "category": "misc",
+      "flavor": "superheroesdrstrange"
+    },
+    "com.wallpaper.hd.all.superheroes.hulk.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Hulk Wallpaper HD",
+      "category": "misc",
+      "flavor": "superheroeshulk"
+    },
+    "com.wallpaper.hd.all.superheroes.joker.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Joker Wallpaper HD",
+      "category": "misc",
+      "flavor": "superheroesjoker"
+    },
+    "com.wallpaper.hd.all.superheroes.spiderman.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Spiderman Wallpaper HD",
+      "category": "misc",
+      "flavor": "superheroesspiderman"
+    },
+    "com.wallpaper.hd.all.superheroes.superman.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Superman Wallpaper HD",
+      "category": "misc",
+      "flavor": "superheroessuperman"
+    },
+    "com.wallpaper.hd.all.superheroes.thanos.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Thanos Wallpaper HD",
+      "category": "misc",
+      "flavor": "superheroesthanos"
+    },
+    "com.wallpaper.hd.all.superheroes.thor.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Thor Wallpaper HD",
+      "category": "misc",
+      "flavor": "superheroesthor"
+    },
+    "com.wallpaper.hd.all.superheroes.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": true,
+      "app_name": "Superheroes HD Wallpapers",
+      "category": "misc",
+      "flavor": "superheroes"
+    },
+    "com.wallpaper.hd.all.tvseries.breaking.bad.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Breaking Bad Wallpaper HD",
+      "category": "misc",
+      "flavor": "tvseriesbreakingbad"
+    },
+    "com.wallpaper.hd.all.tvseries.money.heist.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Money Heist Wallpaper HD",
+      "category": "misc",
+      "flavor": "tvseriesmoneyheist"
+    },
+    "com.wallpaper.hd.all.tvseries.narcos.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Narcos Wallpaper HD",
+      "category": "misc",
+      "flavor": "tvseriesnarcos"
+    },
+    "com.wallpaper.hd.all.tvseries.one.piece.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Pirate Anime Wallpaper HD",
+      "category": "misc",
+      "flavor": "tvseriesonepiece"
+    },
+    "com.wallpaper.hd.all.tvseries.peaky.blinders.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Peaky Blinders Wallpaper HD",
+      "category": "misc",
+      "flavor": "tvseriespeakyblinders"
+    },
+    "com.wallpaper.hd.all.tvseries.squid.game.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Squid Game Wallpaper HD",
+      "category": "misc",
+      "flavor": "tvseriessquidgame"
+    },
+    "com.wallpaper.hd.all.tvseries.stranger.things.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Stranger Things Wallpaper HD",
+      "category": "misc",
+      "flavor": "tvseriesstrangerthings"
+    },
+    "com.wallpaper.hd.all.tvseries.wednesday.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Wednesday Wallpaper HD",
+      "category": "misc",
+      "flavor": "tvserieswednesday"
+    },
+    "com.wallpaper.hd.all.tvseries.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": true,
+      "app_name": "TVSeries HD Wallpapers",
+      "category": "misc",
+      "flavor": "tvseries"
+    },
+    "com.wallpaper.hd.all.socialmedia.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": true,
+      "app_name": "SocialMedia HD Wallpapers",
+      "category": "misc",
+      "flavor": "socialmedia"
+    },
+    "com.wallpaper.hd.all.swimming.adam.peaty.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Adam Peaty Wallpaper HD",
+      "category": "misc",
+      "flavor": "swimmingadampeaty"
+    },
+    "com.wallpaper.hd.all.tennis.andy.murray.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Andy Murray Wallpaper HD",
+      "category": "misc",
+      "flavor": "tennisandymurray"
+    },
+    "com.wallpaper.hd.all.tennis.iga.swiatek.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Iga Swiatek Wallpaper HD",
+      "category": "misc",
+      "flavor": "tennisigaswiatek"
+    },
+    "com.wallpaper.hd.all.tennis.jannik.sinner.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Jannik Sinner Wallpaper HD",
+      "category": "misc",
+      "flavor": "tennisjanniksinner"
+    },
+    "com.wallpaper.hd.all.tennis.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": true,
+      "app_name": "Tennis HD Wallpapers",
+      "category": "misc",
+      "flavor": "tennis"
+    },
+    "com.wallpaper.hd.all.nba.anthony.edwards.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "AnthonyEdwards Wallpaper HD",
+      "category": "misc",
+      "flavor": "nbaanthonyedwards"
+    },
+    "com.wallpaper.hd.all.nba.damian.lillard.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "DamianLillard Wallpaper HD",
+      "category": "misc",
+      "flavor": "nbadamianlillard"
+    },
+    "com.wallpaper.hd.all.nba.giannis.antetokounmpo.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "GiannisAntetokounmpo Wallpaper HD",
+      "category": "misc",
+      "flavor": "nbagiannis"
+    },
+    "com.wallpaper.hd.all.nba.jayson.tatum.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "JaysonTatum Wallpaper HD",
+      "category": "misc",
+      "flavor": "nbajayson"
+    },
+    "com.wallpaper.hd.all.nba.jimmy.butler.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "JimmyButler Wallpaper HD",
+      "category": "misc",
+      "flavor": "nbajimmy"
+    },
+    "com.wallpaper.hd.all.nba.joel.embiid.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "JoelEmbiid Wallpaper HD",
+      "category": "misc",
+      "flavor": "nbajoel"
+    },
+    "com.wallpaper.hd.all.nba.kevin.durant.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "KevinDurant Wallpaper HD",
+      "category": "misc",
+      "flavor": "nbakevin"
+    },
+    "com.wallpaper.hd.all.nba.kobe.bryant.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "KobeBryant Wallpaper HD",
+      "category": "misc",
+      "flavor": "nbakobe"
+    },
+    "com.wallpaper.hd.all.nba.lebron.james.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "LeBronJames Wallpaper HD",
+      "category": "misc",
+      "flavor": "nbalebron"
+    },
+    "com.wallpaper.hd.all.nba.luka.doncic.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "LukaDoncic Wallpaper HD",
+      "category": "misc",
+      "flavor": "nba_luka"
+    },
+    "com.wallpaper.hd.all.nba.michael.jordan.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "MichaelJordan Wallpaper HD",
+      "category": "misc",
+      "flavor": "nbamj"
+    },
+    "com.wallpaper.hd.all.nba.shai.gilgeous.alexander.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "ShaGilgeousAlexander Wallpaper HD",
+      "category": "misc",
+      "flavor": "nbashai"
+    },
+    "com.wallpaper.hd.all.nba.shaquille.oneal.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "ShaquilleONeal Wallpaper HD",
+      "category": "misc",
+      "flavor": "nbashaq"
+    },
+    "com.wallpaper.hd.all.nba.stephen.curry.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "StephenCurry Wallpaper HD",
+      "category": "misc",
+      "flavor": "nbacurry"
+    },
+    "com.wallpaper.hd.all.nba.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": true,
+      "app_name": "NBA Wallpaper HD",
+      "category": "misc",
+      "flavor": "nba"
+    },
+    "com.wallpaper.hd.all.wrestlers.john.cena.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "John Cena Wallpaper HD",
+      "category": "misc",
+      "flavor": "johncena"
+    },
+    "com.wallpaper.hd.all.wrestlers.roman.reigns.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Roman Reigns Wallpaper HD",
+      "category": "misc",
+      "flavor": "romanreigns"
+    },
+    "com.wallpaper.hd.all.wwe.becky.lynch.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Becky Lynch Wallpaper HD",
+      "category": "misc",
+      "flavor": "beckylynch"
+    },
+    "com.wallpaper.hd.all.wwe.brock.lesnar.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Brock Lesnar Wallpaper HD",
+      "category": "misc",
+      "flavor": "brocklesnar"
+    },
+    "com.wallpaper.hd.all.wwe.randy.orton.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Randy Orton Wallpaper HD",
+      "category": "misc",
+      "flavor": "randyorton"
+    },
+    "com.wallpaper.hd.all.wwe.rey.mysterio.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Rey Mysterio Wallpaper HD",
+      "category": "misc",
+      "flavor": "reymysterio"
+    },
+    "com.wallpaper.hd.all.wwe.stone.cold.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Stone Cold Wallpaper HD",
+      "category": "misc",
+      "flavor": "stonecold"
+    },
+    "com.wallpaper.hd.all.wwe.the.rock.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "The Rock Wallpaper HD",
+      "category": "misc",
+      "flavor": "therock"
+    },
+    "com.wallpaper.hd.all.wwe.undertaker.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Undertaker Wallpaper HD",
+      "category": "misc",
+      "flavor": "undertaker"
+    },
+    "com.wallpaper.hd.all.wrestlers.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": true,
+      "app_name": "Wrestlers HD Wallpapers",
+      "category": "misc",
+      "flavor": "wrestlers"
+    },
+    "com.wallpaper.hd.all.religious.church.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Church Wallpaper HD",
+      "category": "misc",
+      "flavor": "religiouschurch"
+    },
+    "com.wallpaper.hd.all.religious.gurudwara.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Gurudwara Wallpaper HD",
+      "category": "misc",
+      "flavor": "religiousgurudwara"
+    },
+    "com.wallpaper.hd.all.religious.madinah.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Madinah Wallpaper HD",
+      "category": "misc",
+      "flavor": "religiousmadinah"
+    },
+    "com.wallpaper.hd.all.religious.makkah.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Makkah Wallpaper HD",
+      "category": "misc",
+      "flavor": "religiousmakkah"
+    },
+    "com.wallpaper.hd.all.religious.mosque.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Mosque Wallpaper HD",
+      "category": "misc",
+      "flavor": "religiousmosque"
+    },
+    "com.wallpaper.hd.all.religious.temple.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Temple Wallpaper HD",
+      "category": "misc",
+      "flavor": "religioustemple"
+    },
+    "com.wallpaper.hd.all.religious.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": true,
+      "app_name": "Religious HD Wallpapers",
+      "category": "misc",
+      "flavor": "religious"
+    },
+    "com.wallpaper.hd.all.vehicle.bikes.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Bike Wallpaper HD",
+      "category": "misc",
+      "flavor": "bike"
+    },
+    "com.wallpaper.hd.all.vehicle.cars.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Car Wallpaper HD",
+      "category": "misc",
+      "flavor": "car"
+    },
+    "com.wallpaper.hd.all.vehicles.classic.cars.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Classic Cars Wallpaper HD",
+      "category": "misc",
+      "flavor": "classiccars"
+    },
+    "com.wallpaper.hd.all.vehicles.helicopters.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Helicopters Wallpaper HD",
+      "category": "misc",
+      "flavor": "helicopters"
+    },
+    "com.wallpaper.hd.all.vehicles.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": true,
+      "app_name": "Vehicles Wallpaper HD",
+      "category": "misc",
+      "flavor": "vehicles"
+    },
+    "com.wallpaper.hd.all.vehicles.jdm.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "JDM Wallpaper HD",
+      "category": "misc",
+      "flavor": "jdm"
+    },
+    "com.wallpaper.hd.all.vehicles.jets.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Jets Wallpaper HD",
+      "category": "misc",
+      "flavor": "jets"
+    },
+    "com.wallpaper.hd.all.vehicles.supercars.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "SuperCars Wallpaper HD",
+      "category": "misc",
+      "flavor": "supercars"
+    },
+    "com.wallpaper.hd.all.vehicles.trucks.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Trucks Wallpaper HD",
+      "category": "misc",
+      "flavor": "trucks"
+    },
+    "com.wallpaper.hd.all.technology.ai.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "AI Wallpaper HD",
+      "category": "misc",
+      "flavor": "technologyai"
+    },
+    "com.wallpaper.hd.all.technology.android.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Android Wallpaper HD",
+      "category": "misc",
+      "flavor": "technologyandroid"
+    },
+    "com.wallpaper.hd.all.technology.blockchain.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Blockchain Wallpaper HD",
+      "category": "misc",
+      "flavor": "technologyblockchain"
+    },
+    "com.wallpaper.hd.all.technology.chip.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Chip Wallpaper HD",
+      "category": "misc",
+      "flavor": "technologychip"
+    },
+    "com.wallpaper.hd.all.technology.coding.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Coding Wallpaper HD",
+      "category": "misc",
+      "flavor": "technologycoding"
+    },
+    "com.wallpaper.hd.all.technology.drone.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Drone Wallpaper HD",
+      "category": "misc",
+      "flavor": "technologydrone"
+    },
+    "com.wallpaper.hd.all.technology.gaming.setup.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Gaming Setup Wallpaper HD",
+      "category": "misc",
+      "flavor": "technologygamingsetup"
+    },
+    "com.wallpaper.hd.all.technology.hacker.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Hacker Wallpaper HD",
+      "category": "misc",
+      "flavor": "technologyhacker"
+    },
+    "com.wallpaper.hd.all.technology.vr.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "VR Wallpaper HD",
+      "category": "misc",
+      "flavor": "technologyvr"
+    },
+    "com.wallpaper.hd.all.technology.iphone.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "i Phone Wallpaper HD",
+      "category": "misc",
+      "flavor": "technologyiphone"
+    },
+    "com.wallpaper.hd.all.technology.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": true,
+      "app_name": "Technology HD Wallpapers",
+      "category": "misc",
+      "flavor": "technology"
+    },
+    "com.wallpaper.hd.all.movies.star.wars.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Star Wars Wallpaper HD",
+      "category": "misc",
+      "flavor": "moviesstarwars"
+    },
+    "com.wallpaper.hd.all.cute.couples.ideas.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "CouplePose Wallpaper HD",
+      "category": "misc",
+      "flavor": "posescouple"
+    },
+    "com.wallpaper.hd.all.smart.cool.mens.pose.ideas.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "MenPose Wallpaper HD",
+      "category": "misc",
+      "flavor": "posesmen"
+    },
+    "com.wallpaper.hd.all.wedding.couple.pose.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "WeddingPose Wallpaper HD",
+      "category": "misc",
+      "flavor": "poseswedding"
+    },
+    "com.wallpaper.hd.all.cute.hot.womens.pose.ideas.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "WomenPose Wallpaper HD",
+      "category": "misc",
+      "flavor": "poseswomen"
+    },
+    "com.wallpaper.hd.all.pose.pic.ideas.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": true,
+      "app_name": "Poses Wallpaper HD",
+      "category": "misc",
+      "flavor": "poses"
+    },
+    "com.wallpaper.hd.all.turkishactors.engin.akyurek.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Engin Akyurek Wallpaper HD",
+      "category": "misc",
+      "flavor": "turkishactorsenginakyurek"
+    },
+    "com.wallpaper.hd.all.turkish.actors.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": true,
+      "app_name": "TurkishActors HD Wallpapers",
+      "category": "misc",
+      "flavor": "turkishactors"
+    },
+    "com.wallpaper.hd.all.space.astronaut.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Astronaut Wallpaper HD",
+      "category": "misc",
+      "flavor": "spaceastronaut"
+    },
+    "com.wallpaper.hd.all.space.black.hole.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Black Hole Wallpaper HD",
+      "category": "misc",
+      "flavor": "spaceblackhole"
+    },
+    "com.wallpaper.hd.all.space.galaxy.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Galaxy Wallpaper HD",
+      "category": "misc",
+      "flavor": "spacegalaxy"
+    },
+    "com.wallpaper.hd.all.space.moon.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Moon Wallpaper HD",
+      "category": "misc",
+      "flavor": "spacemoon"
+    },
+    "com.wallpaper.hd.all.space.nebula.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Nebula Wallpaper HD",
+      "category": "misc",
+      "flavor": "spacenebula"
+    },
+    "com.wallpaper.hd.all.space.planets.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Planets Wallpaper HD",
+      "category": "misc",
+      "flavor": "spaceplanets"
+    },
+    "com.wallpaper.hd.all.space.stars.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Stars Wallpaper HD",
+      "category": "misc",
+      "flavor": "spacestars"
+    },
+    "com.wallpaper.hd.all.nature.aurora.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Aurora Wallpaper HD",
+      "category": "misc",
+      "flavor": "natureaurora"
+    },
+    "com.wallpaper.hd.all.nature.canyon.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Canyon Wallpaper HD",
+      "category": "misc",
+      "flavor": "naturecanyon"
+    },
+    "com.wallpaper.hd.all.nature.cave.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Cave Wallpaper HD",
+      "category": "misc",
+      "flavor": "naturecave"
+    },
+    "com.wallpaper.hd.all.nature.coral.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Coral Wallpaper HD",
+      "category": "misc",
+      "flavor": "naturecoral"
+    },
+    "com.wallpaper.hd.all.nature.earth.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Earth Wallpaper HD",
+      "category": "misc",
+      "flavor": "natureearth"
+    },
+    "com.wallpaper.hd.all.nature.jungle.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Jungle Wallpaper HD",
+      "category": "misc",
+      "flavor": "naturejungle"
+    },
+    "com.wallpaper.hd.all.nature.lightning.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Lightning Wallpaper HD",
+      "category": "misc",
+      "flavor": "naturelightning"
+    },
+    "com.wallpaper.hd.all.nature.rain.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Rain Wallpaper HD",
+      "category": "misc",
+      "flavor": "naturerain"
+    },
+    "com.wallpaper.hd.all.nature.rainbow.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Rainbow Wallpaper HD",
+      "category": "misc",
+      "flavor": "naturerainbow"
+    },
+    "com.wallpaper.hd.all.nature.river.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "River Wallpaper HD",
+      "category": "misc",
+      "flavor": "natureriver"
+    },
+    "com.wallpaper.hd.all.nature.sea.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Sea Wallpaper HD",
+      "category": "misc",
+      "flavor": "naturesea"
+    },
+    "com.wallpaper.hd.all.nature.sky.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Sky Wallpaper HD",
+      "category": "misc",
+      "flavor": "naturesky"
+    },
+    "com.wallpaper.hd.all.nature.spring.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Spring Wallpaper HD",
+      "category": "misc",
+      "flavor": "naturespring"
+    },
+    "com.wallpaper.hd.all.nature.stone.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Stone Wallpaper HD",
+      "category": "misc",
+      "flavor": "naturestone"
+    },
+    "com.wallpaper.hd.all.nature.sunrise.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Sunrise Wallpaper HD",
+      "category": "misc",
+      "flavor": "naturesunrise"
+    },
+    "com.wallpaper.hd.all.nature.sunset.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Sunset Wallpaper HD",
+      "category": "misc",
+      "flavor": "naturesunset"
+    },
+    "com.wallpaper.hd.all.nature.volcano.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Volcano Wallpaper HD",
+      "category": "misc",
+      "flavor": "naturevolcano"
+    },
+    "com.wallpaper.hd.all.nature.winter.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Winter Wallpaper HD",
+      "category": "misc",
+      "flavor": "naturewinter"
+    },
+    "com.wallpaper.hd.all.ufc.alex.pereira.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Alex Pereira Wallpaper HD",
+      "category": "misc",
+      "flavor": "mmaalexpereira"
+    },
+    "com.wallpaper.hd.all.ufc.amanda.nunes.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Amanda Nunes Wallpaper HD",
+      "category": "misc",
+      "flavor": "mmaamandanunes"
+    },
+    "com.wallpaper.hd.all.ufc.charles.oliveira.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Charles Oliveira Wallpaper HD",
+      "category": "misc",
+      "flavor": "mmacharlesoliveira"
+    },
+    "com.wallpaper.hd.all.ufc.conor.mcgregor.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Conor McGregor Wallpaper HD",
+      "category": "misc",
+      "flavor": "mmaconormcgregor"
+    },
+    "com.wallpaper.hd.all.ufc.dustin.poirier.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Dustin Poirier Wallpaper HD",
+      "category": "misc",
+      "flavor": "mmadustinpoirier"
+    },
+    "com.wallpaper.hd.all.ufc.islam.makhachev.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Islam Makhachev Wallpaper HD",
+      "category": "misc",
+      "flavor": "mmaislammakhachev"
+    },
+    "com.wallpaper.hd.all.ufc.israel.adesanya.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Israel Adesanya Wallpaper HD",
+      "category": "misc",
+      "flavor": "mmaisraeladesanya"
+    },
+    "com.wallpaper.hd.all.ufc.jon.jones.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Jon Jones Wallpaper HD",
+      "category": "misc",
+      "flavor": "mmajonjones"
+    },
+    "com.wallpaper.hd.all.ufc.kamaru.usman.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "MMA Fighter Wallpaper HD",
+      "category": "misc",
+      "flavor": "mmakamaruusman"
+    },
+    "com.wallpaper.hd.all.ufc.khabib.nurmagomedov.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": false,
+      "app_name": "Khabib Nurmagomedov Wallpaper HD",
+      "category": "misc",
+      "flavor": "mmakhabibnurmagomedov"
+    },
+    "com.wallpaper.hd.all.mma.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": true,
+      "is_multi_sub": true,
+      "app_name": "MMA HD Wallpapers",
+      "category": "misc",
+      "flavor": "mma"
+    },
+    "com.wallpaper.hd.all.americanfootball.joe.montana.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Joe Montana Wallpaper HD",
+      "category": "americanfootball",
+      "flavor": "americanfootballjoemontana"
+    },
+    "com.wallpaper.hd.all.badminton.lee.chong.wei.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Lee Chong Wei Wallpaper HD",
+      "category": "badminton",
+      "flavor": "badmintonleechongwei"
+    },
+    "com.wallpaper.hd.all.food.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": true,
+      "app_name": "Food HD Wallpapers",
+      "category": "food",
+      "flavor": "food"
+    },
+    "com.wallpaper.hd.all.footballer.zinedine.zidane.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Zinedine Zidane Wallpaper HD",
+      "category": "footballers",
+      "flavor": "zinedinezidane"
+    },
+    "com.wallpaper.hd.all.hollywood.chris.hemsworth.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Chris Hemsworth Wallpaper HD",
+      "category": "hollywood",
+      "flavor": "hollywoodchrishemsworth"
+    },
+    "com.wallpaper.hd.all.hollywood.dwayne.johnson.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Dwayne Johnson Wallpaper HD",
+      "category": "hollywood",
+      "flavor": "hollywooddwaynejohnson"
+    },
+    "com.wallpaper.hd.all.hollywood.gal.gadot.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Gal Gadot Wallpaper HD",
+      "category": "hollywood",
+      "flavor": "hollywoodgalgadot"
+    },
+    "com.wallpaper.hd.all.hollywood.jason.statham.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Jason Statham Wallpaper HD",
+      "category": "hollywood",
+      "flavor": "hollywoodjasonstatham"
+    },
+    "com.wallpaper.hd.all.hollywood.johnny.depp.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Johnny Depp Wallpaper HD",
+      "category": "hollywood",
+      "flavor": "hollywoodjohnnydepp"
+    },
+    "com.wallpaper.hd.all.kpop.taekook.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Taekook Wallpaper HD",
+      "category": "kpop",
+      "flavor": "kpoptaekook"
+    },
+    "com.wallpaper.hd.all.movies.dark.knight.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Dark Knight Wallpaper HD",
+      "category": "misc",
+      "flavor": "moviesdarkknight"
+    },
+    "com.wallpaper.hd.all.movies.dune.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Dune Wallpaper HD",
+      "category": "misc",
+      "flavor": "moviesdune"
+    },
+    "com.wallpaper.hd.all.movies.fast.furious.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Fast Furious Wallpaper HD",
+      "category": "misc",
+      "flavor": "moviesfastfurious"
+    },
+    "com.wallpaper.hd.all.movies.interstellar.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Interstellar Wallpaper HD",
+      "category": "misc",
+      "flavor": "moviesinterstellar"
+    },
+    "com.wallpaper.hd.all.movies.john.wick.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "John Wick Wallpaper HD",
+      "category": "misc",
+      "flavor": "moviesjohnwick"
+    },
+    "com.wallpaper.hd.all.movies.jurassic.world.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Jurassic World Wallpaper HD",
+      "category": "misc",
+      "flavor": "moviesjurassicworld"
+    },
+    "com.wallpaper.hd.all.movies.oppenheimer.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Oppenheimer Wallpaper HD",
+      "category": "misc",
+      "flavor": "moviesoppenheimer"
+    },
+    "com.wallpaper.hd.all.turkishactors.kivanc.tatlitug.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Kivanc Tatlitug Wallpaper HD",
+      "category": "misc",
+      "flavor": "turkishactorskivanctatlitug"
+    },
+    "com.wallpaper.hd.all.nature.autumn.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Autumn Wallpaper HD",
+      "category": "misc",
+      "flavor": "natureautumn"
+    },
+    "com.wallpaper.hd.all.nature.nature.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": true,
+      "app_name": "Nature All Wallpaper HD",
+      "category": "misc",
+      "flavor": "nature"
+    },
+    "com.wallpaper.hd.all.abstract.dark.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Dark Wallpaper HD",
+      "category": "abstract",
+      "flavor": "abstractdark"
+    },
+    "com.wallpaper.hd.all.abstract.geometric.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Geometric Wallpaper HD",
+      "category": "abstract",
+      "flavor": "abstractgeometric"
+    },
+    "com.wallpaper.hd.all.abstract.gradient.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Gradient Wallpaper HD",
+      "category": "abstract",
+      "flavor": "abstractgradient"
+    },
+    "com.wallpaper.hd.all.abstract.liquid.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Liquid Wallpaper HD",
+      "category": "abstract",
+      "flavor": "abstractliquid"
+    },
+    "com.wallpaper.hd.all.abstract.marble.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Marble Wallpaper HD",
+      "category": "abstract",
+      "flavor": "abstractmarble"
+    },
+    "com.wallpaper.hd.all.abstract.minimalist.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Minimalist Wallpaper HD",
+      "category": "abstract",
+      "flavor": "abstractminimalist"
+    },
+    "com.wallpaper.hd.all.abstract.neon.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Neon Wallpaper HD",
+      "category": "abstract",
+      "flavor": "abstractneon"
+    },
+    "com.wallpaper.hd.all.abstract.watercolor.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Watercolor Wallpaper HD",
+      "category": "abstract",
+      "flavor": "abstractwatercolor"
+    },
+    "com.wallpaper.hd.all.abstract.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": true,
+      "app_name": "Abstract HD Wallpapers",
+      "category": "abstract",
+      "flavor": "abstract"
+    },
+    "com.wallpaper.hd.all.aesthetic.cottagecore.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Cottagecore Wallpaper HD",
+      "category": "aesthetic",
+      "flavor": "aestheticcottagecore"
+    },
+    "com.wallpaper.hd.all.aesthetic.cyberpunk.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Cyberpunk Wallpaper HD",
+      "category": "aesthetic",
+      "flavor": "aestheticcyberpunk"
+    },
+    "com.wallpaper.hd.all.aesthetic.grunge.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Grunge Wallpaper HD",
+      "category": "aesthetic",
+      "flavor": "aestheticgrunge"
+    },
+    "com.wallpaper.hd.all.aesthetic.lofi.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Lo Fi Wallpaper HD",
+      "category": "aesthetic",
+      "flavor": "aestheticlofi"
+    },
+    "com.wallpaper.hd.all.aesthetic.pastel.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Pastel Wallpaper HD",
+      "category": "aesthetic",
+      "flavor": "aestheticpastel"
+    },
+    "com.wallpaper.hd.all.aesthetic.retro.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Retro Wallpaper HD",
+      "category": "aesthetic",
+      "flavor": "aestheticretro"
+    },
+    "com.wallpaper.hd.all.aesthetic.vaporwave.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Vaporwave Wallpaper HD",
+      "category": "aesthetic",
+      "flavor": "aestheticvaporwave"
+    },
+    "com.wallpaper.hd.all.aesthetic.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": true,
+      "app_name": "Aesthetic HD Wallpapers",
+      "category": "aesthetic",
+      "flavor": "aesthetic"
+    },
+    "com.wallpaper.hd.all.arch.bridges.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Bridges Wallpaper HD",
+      "category": "architecture",
+      "flavor": "architecturebridges"
+    },
+    "com.wallpaper.hd.all.arch.castles.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Castles Wallpaper HD",
+      "category": "architecture",
+      "flavor": "architecturecastles"
+    },
+    "com.wallpaper.hd.all.arch.cathedrals.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Cathedrals Wallpaper HD",
+      "category": "architecture",
+      "flavor": "architecturecathedrals"
+    },
+    "com.wallpaper.hd.all.arch.gothic.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Gothic Architecture HD",
+      "category": "architecture",
+      "flavor": "architecturegothic"
+    },
+    "com.wallpaper.hd.all.arch.islamic.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Islamic Architecture HD",
+      "category": "architecture",
+      "flavor": "architectureislamic"
+    },
+    "com.wallpaper.hd.all.arch.japanese.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Japanese Architecture HD",
+      "category": "architecture",
+      "flavor": "architecturejapanese"
+    },
+    "com.wallpaper.hd.all.arch.modern.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Modern Architecture HD",
+      "category": "architecture",
+      "flavor": "architecturemodern"
+    },
+    "com.wallpaper.hd.all.arch.skyscrapers.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Skyscrapers Wallpaper HD",
+      "category": "architecture",
+      "flavor": "architectureskyscrapers"
+    },
+    "com.wallpaper.hd.all.arch.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": true,
+      "app_name": "Architecture HD Wallpapers",
+      "category": "architecture",
+      "flavor": "architecture"
+    },
+    "com.wallpaper.hd.all.bollywood.aamirkhan.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Aamir Khan Wallpaper HD",
+      "category": "bollywood",
+      "flavor": "bollywoodaamirkhan"
+    },
+    "com.wallpaper.hd.all.bollywood.aditiraohydari.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Aditi Rao Hydari Wallpaper HD",
+      "category": "bollywood",
+      "flavor": "bollywoodaditiraohydari"
+    },
+    "com.wallpaper.hd.all.bollywood.akshaykumar.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Akshay Kumar Wallpaper HD",
+      "category": "bollywood",
+      "flavor": "bollywoodakshaykumar"
+    },
+    "com.wallpaper.hd.all.bollywood.aliabhatt.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Alia Bhatt Wallpaper HD",
+      "category": "bollywood",
+      "flavor": "bollywoodaliabhatt"
+    },
+    "com.wallpaper.hd.all.bollywood.deepikapadukone.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Deepika Padukone Wallpaper HD",
+      "category": "bollywood",
+      "flavor": "bollywooddeepikapadukone"
+    },
+    "com.wallpaper.hd.all.bollywood.hrithikroshan.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Hrithik Roshan Wallpaper HD",
+      "category": "bollywood",
+      "flavor": "bollywoodhrithikroshan"
+    },
+    "com.wallpaper.hd.all.bollywood.kajalaggarwal.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Kajal Aggarwal Wallpaper HD",
+      "category": "bollywood",
+      "flavor": "bollywoodkajalaggarwal"
+    },
+    "com.wallpaper.hd.all.bollywood.katrinakaif.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Katrina Kaif Wallpaper HD",
+      "category": "bollywood",
+      "flavor": "bollywoodkatrinakaif"
+    },
+    "com.wallpaper.hd.all.bollywood.kiaraadvani.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Kiara Advani Wallpaper HD",
+      "category": "bollywood",
+      "flavor": "bollywoodkiaraadvani"
+    },
+    "com.wallpaper.hd.all.bollywood.priyankachopra.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Priyanka Chopra Wallpaper HD",
+      "category": "bollywood",
+      "flavor": "bollywoodpriyankachopra"
+    },
+    "com.wallpaper.hd.all.bollywood.ranbirkapoor.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Ranbir Kapoor Wallpaper HD",
+      "category": "bollywood",
+      "flavor": "bollywoodranbirkapoor"
+    },
+    "com.wallpaper.hd.all.bollywood.ranveersingh.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Ranveer Singh Wallpaper HD",
+      "category": "bollywood",
+      "flavor": "bollywoodranveersingh"
+    },
+    "com.wallpaper.hd.all.bollywood.salmankhan.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Salman Khan Wallpaper HD",
+      "category": "bollywood",
+      "flavor": "bollywoodsalmankhan"
+    },
+    "com.wallpaper.hd.all.bollywood.shahrukhkhan.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Shah Rukh Khan Wallpaper HD",
+      "category": "bollywood",
+      "flavor": "bollywoodshahrukhkhan"
+    },
+    "com.wallpaper.hd.all.bollywood.shraddhakapoor.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Shraddha Kapoor Wallpaper HD",
+      "category": "bollywood",
+      "flavor": "bollywoodshraddhakapoor"
+    },
+    "com.wallpaper.hd.all.bollywood.sonakshisinha.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Sonakshi Sinha Wallpaper HD",
+      "category": "bollywood",
+      "flavor": "bollywoodsonakshisinha"
+    },
+    "com.wallpaper.hd.all.bollywood.tamannabhatia.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Tamanna Bhatia Wallpaper HD",
+      "category": "bollywood",
+      "flavor": "bollywoodtamannabhatia"
+    },
+    "com.wallpaper.hd.all.bollywood.tigershroff.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Tiger Shroff Wallpaper HD",
+      "category": "bollywood",
+      "flavor": "bollywoodtigershroff"
+    },
+    "com.wallpaper.hd.all.bollywood.varundhawan.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Varun Dhawan Wallpaper HD",
+      "category": "bollywood",
+      "flavor": "bollywoodvarundhawan"
+    },
+    "com.wallpaper.hd.all.bollywood.vickykaushal.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Vicky Kaushal Wallpaper HD",
+      "category": "bollywood",
+      "flavor": "bollywoodvickykaushal"
+    },
+    "com.wallpaper.hd.all.cities.dubai.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Dubai Wallpaper HD",
+      "category": "cities",
+      "flavor": "citiesdubai"
+    },
+    "com.wallpaper.hd.all.cities.hongkong.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Hong Kong Wallpaper HD",
+      "category": "cities",
+      "flavor": "citieshongkong"
+    },
+    "com.wallpaper.hd.all.cities.istanbul.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Istanbul Wallpaper HD",
+      "category": "cities",
+      "flavor": "citiesistanbul"
+    },
+    "com.wallpaper.hd.all.cities.london.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "London Wallpaper HD",
+      "category": "cities",
+      "flavor": "citieslondon"
+    },
+    "com.wallpaper.hd.all.cities.mumbai.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Mumbai Wallpaper HD",
+      "category": "cities",
+      "flavor": "citiesmumbai"
+    },
+    "com.wallpaper.hd.all.cities.newyork.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "New York Wallpaper HD",
+      "category": "cities",
+      "flavor": "citiesnewyork"
+    },
+    "com.wallpaper.hd.all.cities.paris.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Paris Wallpaper HD",
+      "category": "cities",
+      "flavor": "citiesparis"
+    },
+    "com.wallpaper.hd.all.cities.rome.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Rome Wallpaper HD",
+      "category": "cities",
+      "flavor": "citiesrome"
+    },
+    "com.wallpaper.hd.all.cities.singapore.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Singapore Wallpaper HD",
+      "category": "cities",
+      "flavor": "citiessingapore"
+    },
+    "com.wallpaper.hd.all.cities.tokyo.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Tokyo Wallpaper HD",
+      "category": "cities",
+      "flavor": "citiestokyo"
+    },
+    "com.wallpaper.hd.all.mens.cricket.team.india.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": true,
+      "app_name": "Indian Cricket Team Wallpaper HD",
+      "category": "cricketers",
+      "flavor": "indiancricket"
+    },
+    "com.wallpaper.hd.all.cute.babyanimals.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Baby Animals Wallpaper HD",
+      "category": "cute",
+      "flavor": "cutebabyanimals"
+    },
+    "com.wallpaper.hd.all.cute.hellokitty.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Hello Kitty Wallpaper HD",
+      "category": "cute",
+      "flavor": "cutehellokitty"
+    },
+    "com.wallpaper.hd.all.cute.kawaii.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Kawaii Wallpaper HD",
+      "category": "cute",
+      "flavor": "cutekawaii"
+    },
+    "com.wallpaper.hd.all.cute.molang.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Molang Wallpaper HD",
+      "category": "cute",
+      "flavor": "cutemolang"
+    },
+    "com.wallpaper.hd.all.cute.pusheen.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Pusheen Wallpaper HD",
+      "category": "cute",
+      "flavor": "cutepusheen"
+    },
+    "com.wallpaper.hd.all.cute.rilakkuma.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Rilakkuma Wallpaper HD",
+      "category": "cute",
+      "flavor": "cuterilakkuma"
+    },
+    "com.wallpaper.hd.all.cute.teddybear.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Teddy Bear Wallpaper HD",
+      "category": "cute",
+      "flavor": "cuteteddybear"
+    },
+    "com.wallpaper.hd.all.fantasy.angel.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Angel Wallpaper HD",
+      "category": "fantasy",
+      "flavor": "fantasyangel"
+    },
+    "com.wallpaper.hd.all.fantasy.demon.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Demon Wallpaper HD",
+      "category": "fantasy",
+      "flavor": "fantasydemon"
+    },
+    "com.wallpaper.hd.all.fantasy.dragon.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Dragon Wallpaper HD",
+      "category": "fantasy",
+      "flavor": "fantasydragon"
+    },
+    "com.wallpaper.hd.all.fantasy.fairy.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Fairy Wallpaper HD",
+      "category": "fantasy",
+      "flavor": "fantasyfairy"
+    },
+    "com.wallpaper.hd.all.fantasy.phoenix.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Phoenix Wallpaper HD",
+      "category": "fantasy",
+      "flavor": "fantasyphoenix"
+    },
+    "com.wallpaper.hd.all.fantasy.samurai.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Samurai Wallpaper HD",
+      "category": "fantasy",
+      "flavor": "fantasysamurai"
+    },
+    "com.wallpaper.hd.all.fantasy.viking.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Viking Wallpaper HD",
+      "category": "fantasy",
+      "flavor": "fantasyviking"
+    },
+    "com.wallpaper.hd.all.fantasy.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": true,
+      "app_name": "Fantasy HD Wallpapers",
+      "category": "fantasy",
+      "flavor": "fantasy"
+    },
+    "com.wallpaper.hd.all.flowers.cherryblossom.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Cherry Blossom Wallpaper HD",
+      "category": "flowers",
+      "flavor": "flowerscherryblossom"
+    },
+    "com.wallpaper.hd.all.flowers.jasmine.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Jasmine Wallpaper HD",
+      "category": "flowers",
+      "flavor": "flowersjasmine"
+    },
+    "com.wallpaper.hd.all.flowers.lavender.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Lavender Wallpaper HD",
+      "category": "flowers",
+      "flavor": "flowerslavender"
+    },
+    "com.wallpaper.hd.all.flowers.lotus.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Lotus Wallpaper HD",
+      "category": "flowers",
+      "flavor": "flowerslotus"
+    },
+    "com.wallpaper.hd.all.flowers.orchid.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Orchid Wallpaper HD",
+      "category": "flowers",
+      "flavor": "flowersorchid"
+    },
+    "com.wallpaper.hd.all.flowers.rose.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Rose Wallpaper HD",
+      "category": "flowers",
+      "flavor": "flowersrose"
+    },
+    "com.wallpaper.hd.all.flowers.sunflower.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Sunflower Wallpaper HD",
+      "category": "flowers",
+      "flavor": "flowerssunflower"
+    },
+    "com.wallpaper.hd.all.flowers.tulip.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Tulip Wallpaper HD",
+      "category": "flowers",
+      "flavor": "flowerstulip"
+    },
+    "com.wallpaper.hd.all.food.biryani.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Biryani Wallpaper HD",
+      "category": "food",
+      "flavor": "foodbiryani"
+    },
+    "com.wallpaper.hd.all.food.burger.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Burger Wallpaper HD",
+      "category": "food",
+      "flavor": "foodburger"
+    },
+    "com.wallpaper.hd.all.food.cake.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Cake Wallpaper HD",
+      "category": "food",
+      "flavor": "foodcake"
+    },
+    "com.wallpaper.hd.all.food.chocolate.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Chocolate Wallpaper HD",
+      "category": "food",
+      "flavor": "foodchocolate"
+    },
+    "com.wallpaper.hd.all.food.coffee.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Coffee Wallpaper HD",
+      "category": "food",
+      "flavor": "foodcoffee"
+    },
+    "com.wallpaper.hd.all.food.dessert.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Dessert Wallpaper HD",
+      "category": "food",
+      "flavor": "fooddessert"
+    },
+    "com.wallpaper.hd.all.food.icecream.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Ice Cream Wallpaper HD",
+      "category": "food",
+      "flavor": "foodicecream"
+    },
+    "com.wallpaper.hd.all.food.pasta.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Pasta Wallpaper HD",
+      "category": "food",
+      "flavor": "foodpasta"
+    },
+    "com.wallpaper.hd.all.food.pizza.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Pizza Wallpaper HD",
+      "category": "food",
+      "flavor": "foodpizza"
+    },
+    "com.wallpaper.hd.all.food.sushi.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Sushi Wallpaper HD",
+      "category": "food",
+      "flavor": "foodsushi"
+    },
+    "com.wallpaper.hd.all.gaming.callofduty.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Call Of Duty Wallpaper HD",
+      "category": "gaming",
+      "flavor": "gamingcallofduty"
+    },
+    "com.wallpaper.hd.all.gaming.eldenring.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Elden Ring Wallpaper HD",
+      "category": "gaming",
+      "flavor": "gamingeldenring"
+    },
+    "com.wallpaper.hd.all.gaming.fortnite.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Fortnite Wallpaper HD",
+      "category": "gaming",
+      "flavor": "gamingfortnite"
+    },
+    "com.wallpaper.hd.all.gaming.freefire.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Free Fire Wallpaper HD",
+      "category": "gaming",
+      "flavor": "gamingfreefire"
+    },
+    "com.wallpaper.hd.all.gaming.gta.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "GTA Wallpaper HD",
+      "category": "gaming",
+      "flavor": "gaminggta"
+    },
+    "com.wallpaper.hd.all.gaming.godofwar.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "God Of War Wallpaper HD",
+      "category": "gaming",
+      "flavor": "gaminggodofwar"
+    },
+    "com.wallpaper.hd.all.gaming.leagueoflegends.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "League Of Legends Wallpaper HD",
+      "category": "gaming",
+      "flavor": "gamingleagueoflegends"
+    },
+    "com.wallpaper.hd.all.gaming.minecraft.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Minecraft Wallpaper HD",
+      "category": "gaming",
+      "flavor": "gamingminecraft"
+    },
+    "com.wallpaper.hd.all.gaming.pubg.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "PUBG Wallpaper HD",
+      "category": "gaming",
+      "flavor": "gamingpubg"
+    },
+    "com.wallpaper.hd.all.gaming.spidermangame.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Spider Man Game Wallpaper HD",
+      "category": "gaming",
+      "flavor": "gamingspidermangame"
+    },
+    "com.wallpaper.hd.all.gaming.valorant.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Valorant Wallpaper HD",
+      "category": "gaming",
+      "flavor": "gamingvalorant"
+    },
+    "com.wallpaper.hd.all.gaming.zelda.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Zelda Wallpaper HD",
+      "category": "gaming",
+      "flavor": "gamingzelda"
+    },
+    "com.wallpaper.hd.all.gods.durga.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Durga Wallpaper HD",
+      "category": "god",
+      "flavor": "goddurga"
+    },
+    "com.wallpaper.hd.all.gods.jesus.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Jesus Wallpaper HD",
+      "category": "god",
+      "flavor": "godjesus"
+    },
+    "com.wallpaper.hd.all.gods.kali.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Kali Wallpaper HD",
+      "category": "god",
+      "flavor": "godkali"
+    },
+    "com.wallpaper.hd.all.ganesh.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Ganesh Wallpaper HD",
+      "category": "gods",
+      "flavor": "ganesh"
+    },
+    "com.wallpaper.hd.all.bedroom.designs.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Modern Bedroom Design Ideas",
+      "category": "home",
+      "flavor": "bedroom"
+    },
+    "com.wallpaper.hd.all.kitchen.ideas.designs.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Modular Kitchen Design Ideas",
+      "category": "home",
+      "flavor": "kitchen"
+    },
+    "com.wallpaper.hd.all.tv.panel.designs.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "TV Shelves and TV Unit Design",
+      "category": "home",
+      "flavor": "tvpanel"
+    },
+    "com.wallpaper.hd.all.wall.living.room.designs.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Home Exterior Design Ideas",
+      "category": "home",
+      "flavor": "wall"
+    },
+    "com.wallpaper.hd.all.indiantv.avneetkaur.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Avneet Kaur Wallpaper HD",
+      "category": "indiantv",
+      "flavor": "indiantvavneetkaur"
+    },
+    "com.wallpaper.hd.all.indiantv.divyankatripathi.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Divyanka Tripathi Wallpaper HD",
+      "category": "indiantv",
+      "flavor": "indiantvdivyankatripathi"
+    },
+    "com.wallpaper.hd.all.indiantv.ericafernandes.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Erica Fernandes Wallpaper HD",
+      "category": "indiantv",
+      "flavor": "indiantvericafernandes"
+    },
+    "com.wallpaper.hd.all.indiantv.hinakhan.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Hina Khan Wallpaper HD",
+      "category": "indiantv",
+      "flavor": "indiantvhinakhan"
+    },
+    "com.wallpaper.hd.all.indiantv.jenniferwinget.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Jennifer Winget Wallpaper HD",
+      "category": "indiantv",
+      "flavor": "indiantvjenniferwinget"
+    },
+    "com.wallpaper.hd.all.indiantv.shivangijoshi.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Shivangi Joshi Wallpaper HD",
+      "category": "indiantv",
+      "flavor": "indiantvshivangijoshi"
+    },
+    "com.wallpaper.hd.all.indiantv.surbhijyoti.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Surbhi Jyoti Wallpaper HD",
+      "category": "indiantv",
+      "flavor": "indiantvsurbhijyoti"
+    },
+    "com.wallpaper.hd.all.indiantv.tejasswiprakash.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Tejasswi Prakash Wallpaper HD",
+      "category": "indiantv",
+      "flavor": "indiantvtejasswiprakash"
+    },
+    "com.wallpaper.hd.all.indiantv.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": true,
+      "app_name": "IndianTV HD Wallpapers",
+      "category": "indiantv",
+      "flavor": "indiantv"
+    },
+    "com.wallpaper.hd.all.luxury.bugatti.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Bugatti Wallpaper HD",
+      "category": "luxury",
+      "flavor": "luxurybugatti"
+    },
+    "com.wallpaper.hd.all.luxury.ferrari.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Ferrari Wallpaper HD",
+      "category": "luxury",
+      "flavor": "luxuryferrari"
+    },
+    "com.wallpaper.hd.all.luxury.gucci.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Gucci Wallpaper HD",
+      "category": "luxury",
+      "flavor": "luxurygucci"
+    },
+    "com.wallpaper.hd.all.luxury.lamborghini.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Lamborghini Wallpaper HD",
+      "category": "luxury",
+      "flavor": "luxurylamborghini"
+    },
+    "com.wallpaper.hd.all.luxury.louisvuitton.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Louis Vuitton Wallpaper HD",
+      "category": "luxury",
+      "flavor": "luxurylouisvuitton"
+    },
+    "com.wallpaper.hd.all.luxury.luxuryyacht.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Luxury Yacht Wallpaper HD",
+      "category": "luxury",
+      "flavor": "luxuryluxuryyacht"
+    },
+    "com.wallpaper.hd.all.luxury.mansion.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Mansion Wallpaper HD",
+      "category": "luxury",
+      "flavor": "luxurymansion"
+    },
+    "com.wallpaper.hd.all.luxury.privatejet.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Private Jet Wallpaper HD",
+      "category": "luxury",
+      "flavor": "luxuryprivatejet"
+    },
+    "com.wallpaper.hd.all.luxury.rolex.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Rolex Wallpaper HD",
+      "category": "luxury",
+      "flavor": "luxuryrolex"
+    },
+    "com.wallpaper.hd.all.luxury.rollsroyce.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Rolls Royce Wallpaper HD",
+      "category": "luxury",
+      "flavor": "luxuryrollsroyce"
+    },
+    "com.wallpaper.hd.all.luxury.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": true,
+      "app_name": "Luxury HD Wallpapers",
+      "category": "luxury",
+      "flavor": "luxury"
+    },
+    "com.wallpaper.hd.all.military.airforce.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Air Force Wallpaper HD",
+      "category": "military",
+      "flavor": "militaryairforce"
+    },
+    "com.wallpaper.hd.all.military.army.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Army Wallpaper HD",
+      "category": "military",
+      "flavor": "militaryarmy"
+    },
+    "com.wallpaper.hd.all.military.commando.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Commando Wallpaper HD",
+      "category": "military",
+      "flavor": "militarycommando"
+    },
+    "com.wallpaper.hd.all.military.indianarmy.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Indian Army Wallpaper HD",
+      "category": "military",
+      "flavor": "militaryindianarmy"
+    },
+    "com.wallpaper.hd.all.military.militaryhelicopter.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Military Helicopter HD",
+      "category": "military",
+      "flavor": "militarymilitaryhelicopter"
+    },
+    "com.wallpaper.hd.all.military.navy.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Navy Wallpaper HD",
+      "category": "military",
+      "flavor": "militarynavy"
+    },
+    "com.wallpaper.hd.all.military.sniper.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Sniper Wallpaper HD",
+      "category": "military",
+      "flavor": "militarysniper"
+    },
+    "com.wallpaper.hd.all.military.specialforces.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Special Forces Wallpaper HD",
+      "category": "military",
+      "flavor": "militaryspecialforces"
+    },
+    "com.wallpaper.hd.all.military.tank.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Tank Wallpaper HD",
+      "category": "military",
+      "flavor": "militarytank"
+    },
+    "com.wallpaper.hd.all.military.usmilitary.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "US Military Wallpaper HD",
+      "category": "military",
+      "flavor": "militaryusmilitary"
+    },
+    "com.wallpaper.hd.all.military.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": true,
+      "app_name": "Military HD Wallpapers",
+      "category": "military",
+      "flavor": "military"
+    },
+    "com.wallpaper.hd.all.quotes.attitude.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Attitude Wallpaper HD",
+      "category": "misc",
+      "flavor": "quotesattitude"
+    },
+    "com.wallpaper.hd.all.quotes.good.morning.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Good morning Wallpaper HD",
+      "category": "misc",
+      "flavor": "quotesgoodmorning"
+    },
+    "com.wallpaper.hd.all.quotes.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": true,
+      "app_name": "Quotes HD Wallpapers",
+      "category": "misc",
+      "flavor": "quotes"
+    },
+    "com.wallpaper.hd.all.robots.cyberrobot.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Cyber Robot Wallpaper HD",
+      "category": "misc",
+      "flavor": "robotscyberrobot"
+    },
+    "com.wallpaper.hd.all.robots.dronebot.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Drone Bot Wallpaper HD",
+      "category": "misc",
+      "flavor": "robotsdronebot"
+    },
+    "com.wallpaper.hd.all.robots.gundam.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Gundam Wallpaper HD",
+      "category": "misc",
+      "flavor": "robotsgundam"
+    },
+    "com.wallpaper.hd.all.robots.humanoidrobot.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Humanoid Robot Wallpaper HD",
+      "category": "misc",
+      "flavor": "robotshumanoidrobot"
+    },
+    "com.wallpaper.hd.all.robots.mecharobot.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Mecha Robot Wallpaper HD",
+      "category": "misc",
+      "flavor": "robotsmecharobot"
+    },
+    "com.wallpaper.hd.all.robots.nanobot.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Nano Bot Wallpaper HD",
+      "category": "misc",
+      "flavor": "robotsnanobot"
+    },
+    "com.wallpaper.hd.all.robots.robotdog.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Robot Dog Wallpaper HD",
+      "category": "misc",
+      "flavor": "robotsrobotdog"
+    },
+    "com.wallpaper.hd.all.robots.transformer.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Transformer Wallpaper HD",
+      "category": "misc",
+      "flavor": "robotstransformer"
+    },
+    "com.wallpaper.hd.all.robots.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": true,
+      "app_name": "Robots HD Wallpapers",
+      "category": "misc",
+      "flavor": "robots"
+    },
+    "com.wallpaper.hd.all.socialmedia.carryminati.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Carry Minati Wallpaper HD",
+      "category": "misc",
+      "flavor": "socialmediacarryminati"
+    },
+    "com.wallpaper.hd.all.socialmedia.danish.zehen.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Danish Zehen Wallpaper HD",
+      "category": "misc",
+      "flavor": "socialmediadanishzehen"
+    },
+    "com.wallpaper.hd.all.socialmedia.faiz.baloch.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Faiz Baloch Wallpaper HD",
+      "category": "misc",
+      "flavor": "socialmediafaizbaloch"
+    },
+    "com.wallpaper.hd.all.socialmedia.jannat.zubair.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Jannat Zubair Wallpaper HD",
+      "category": "misc",
+      "flavor": "socialmediajannatzubair"
+    },
+    "com.wallpaper.hd.all.socialmedia.riyaz.aly.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Riyaz Aly Wallpaper HD",
+      "category": "misc",
+      "flavor": "socialmediariyazaly"
+    },
+    "com.wallpaper.hd.all.socialmedia.trigger.insaan.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Trigger Insaan Wallpaper HD",
+      "category": "misc",
+      "flavor": "socialmediatriggerinsaan"
+    },
+    "com.wallpaper.hd.all.tennis.coco.gauff.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Coco Gauff Wallpaper HD",
+      "category": "misc",
+      "flavor": "tenniscocogauff"
+    },
+    "com.wallpaper.hd.all.nba.nikola.jokic.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "NikolaJokic Wallpaper HD",
+      "category": "misc",
+      "flavor": "banikola"
+    },
+    "com.wallpaper.hd.all.pets.corgi.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Corgi Wallpaper HD",
+      "category": "misc",
+      "flavor": "petscorgi"
+    },
+    "com.wallpaper.hd.all.pets.goldenretriever.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Golden Retriever Wallpaper HD",
+      "category": "misc",
+      "flavor": "petsgoldenretriever"
+    },
+    "com.wallpaper.hd.all.pets.hamster.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Hamster Wallpaper HD",
+      "category": "misc",
+      "flavor": "petshamster"
+    },
+    "com.wallpaper.hd.all.pets.husky.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Husky Wallpaper HD",
+      "category": "misc",
+      "flavor": "petshusky"
+    },
+    "com.wallpaper.hd.all.pets.kitten.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Kitten Wallpaper HD",
+      "category": "misc",
+      "flavor": "petskitten"
+    },
+    "com.wallpaper.hd.all.pets.labrador.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Labrador Wallpaper HD",
+      "category": "misc",
+      "flavor": "petslabrador"
+    },
+    "com.wallpaper.hd.all.pets.persiancat.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Persian Cat Wallpaper HD",
+      "category": "misc",
+      "flavor": "petspersiancat"
+    },
+    "com.wallpaper.hd.all.pets.pomeranian.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Pomeranian Wallpaper HD",
+      "category": "misc",
+      "flavor": "petspomeranian"
+    },
+    "com.wallpaper.hd.all.pets.puppy.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Puppy Wallpaper HD",
+      "category": "misc",
+      "flavor": "petspuppy"
+    },
+    "com.wallpaper.hd.all.pets.rabbit.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Rabbit Wallpaper HD",
+      "category": "misc",
+      "flavor": "petsrabbit"
+    },
+    "com.wallpaper.hd.all.pets.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": true,
+      "app_name": "Pets HD Wallpapers",
+      "category": "misc",
+      "flavor": "pets"
+    },
+    "com.wallpaper.hd.all.textures.brick.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Brick Wallpaper HD",
+      "category": "misc",
+      "flavor": "texturesbrick"
+    },
+    "com.wallpaper.hd.all.textures.concrete.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Concrete Wallpaper HD",
+      "category": "misc",
+      "flavor": "texturesconcrete"
+    },
+    "com.wallpaper.hd.all.textures.fabric.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Fabric Wallpaper HD",
+      "category": "misc",
+      "flavor": "texturesfabric"
+    },
+    "com.wallpaper.hd.all.textures.glass.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Glass Wallpaper HD",
+      "category": "misc",
+      "flavor": "texturesglass"
+    },
+    "com.wallpaper.hd.all.textures.ice.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Ice Wallpaper HD",
+      "category": "misc",
+      "flavor": "texturesice"
+    },
+    "com.wallpaper.hd.all.textures.leather.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Leather Wallpaper HD",
+      "category": "misc",
+      "flavor": "texturesleather"
+    },
+    "com.wallpaper.hd.all.textures.metal.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Metal Wallpaper HD",
+      "category": "misc",
+      "flavor": "texturesmetal"
+    },
+    "com.wallpaper.hd.all.textures.paper.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Paper Wallpaper HD",
+      "category": "misc",
+      "flavor": "texturespaper"
+    },
+    "com.wallpaper.hd.all.textures.sand.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Sand Wallpaper HD",
+      "category": "misc",
+      "flavor": "texturessand"
+    },
+    "com.wallpaper.hd.all.textures.wood.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Wood Wallpaper HD",
+      "category": "misc",
+      "flavor": "textureswood"
+    },
+    "com.wallpaper.hd.all.textures.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": true,
+      "app_name": "Textures HD Wallpapers",
+      "category": "misc",
+      "flavor": "textures"
+    },
+    "com.wallpaper.hd.all.tattoo.dragontattoo.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Dragon Tattoo Wallpaper HD",
+      "category": "misc",
+      "flavor": "tattoodragontattoo"
+    },
+    "com.wallpaper.hd.all.tattoo.geometrictattoo.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Geometric Tattoo Wallpaper HD",
+      "category": "misc",
+      "flavor": "tattoogeometrictattoo"
+    },
+    "com.wallpaper.hd.all.tattoo.japanesetattoo.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Japanese Tattoo Wallpaper HD",
+      "category": "misc",
+      "flavor": "tattoojapanesetattoo"
+    },
+    "com.wallpaper.hd.all.tattoo.mandala.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Mandala Wallpaper HD",
+      "category": "misc",
+      "flavor": "tattoomandala"
+    },
+    "com.wallpaper.hd.all.tattoo.minimaltattoo.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Minimal Tattoo Wallpaper HD",
+      "category": "misc",
+      "flavor": "tattoominimaltattoo"
+    },
+    "com.wallpaper.hd.all.tattoo.rosetattoo.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Rose Tattoo Wallpaper HD",
+      "category": "misc",
+      "flavor": "tattoorosetattoo"
+    },
+    "com.wallpaper.hd.all.tattoo.skull.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Skull Wallpaper HD",
+      "category": "misc",
+      "flavor": "tattooskull"
+    },
+    "com.wallpaper.hd.all.tattoo.sleevetattoo.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Sleeve Tattoo Wallpaper HD",
+      "category": "misc",
+      "flavor": "tattoosleevetattoo"
+    },
+    "com.wallpaper.hd.all.tattoo.tribal.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Tribal Wallpaper HD",
+      "category": "misc",
+      "flavor": "tattootribal"
+    },
+    "com.wallpaper.hd.all.tattoo.watercolortattoo.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Watercolor Tattoo Wallpaper HD",
+      "category": "misc",
+      "flavor": "tattoowatercolortattoo"
+    },
+    "com.wallpaper.hd.all.tattoo.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": true,
+      "app_name": "Tattoo HD Wallpapers",
+      "category": "misc",
+      "flavor": "tattoo"
+    },
+    "com.wallpaper.hd.all.photography.aerial.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Aerial Wallpaper HD",
+      "category": "misc",
+      "flavor": "photographyaerial"
+    },
+    "com.wallpaper.hd.all.photography.blackandwhite.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Black And White Wallpaper HD",
+      "category": "misc",
+      "flavor": "photographyblackandwhite"
+    },
+    "com.wallpaper.hd.all.photography.goldenhour.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Golden Hour Wallpaper HD",
+      "category": "misc",
+      "flavor": "photographygoldenhour"
+    },
+    "com.wallpaper.hd.all.photography.longexposure.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Long Exposure Wallpaper HD",
+      "category": "misc",
+      "flavor": "photographylongexposure"
+    },
+    "com.wallpaper.hd.all.photography.macro.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Macro Wallpaper HD",
+      "category": "misc",
+      "flavor": "photographymacro"
+    },
+    "com.wallpaper.hd.all.photography.portrait.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Portrait Wallpaper HD",
+      "category": "misc",
+      "flavor": "photographyportrait"
+    },
+    "com.wallpaper.hd.all.photography.silhouette.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Silhouette Wallpaper HD",
+      "category": "misc",
+      "flavor": "photographysilhouette"
+    },
+    "com.wallpaper.hd.all.photography.streetphoto.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Street Photo Wallpaper HD",
+      "category": "misc",
+      "flavor": "photographystreetphoto"
+    },
+    "com.wallpaper.hd.all.photography.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": true,
+      "app_name": "Photography HD Wallpapers",
+      "category": "misc",
+      "flavor": "photography"
+    },
+    "com.wallpaper.hd.all.travel.bali.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Bali Wallpaper HD",
+      "category": "misc",
+      "flavor": "travelbali"
+    },
+    "com.wallpaper.hd.all.travel.beach.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Beach Wallpaper HD",
+      "category": "misc",
+      "flavor": "travelbeach"
+    },
+    "com.wallpaper.hd.all.travel.cappadocia.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Cappadocia Wallpaper HD",
+      "category": "misc",
+      "flavor": "travelcappadocia"
+    },
+    "com.wallpaper.hd.all.travel.desert.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Desert Wallpaper HD",
+      "category": "misc",
+      "flavor": "traveldesert"
+    },
+    "com.wallpaper.hd.all.travel.forest.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Forest Wallpaper HD",
+      "category": "misc",
+      "flavor": "travelforest"
+    },
+    "com.wallpaper.hd.all.travel.greatwall.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Great Wall Wallpaper HD",
+      "category": "misc",
+      "flavor": "travelgreatwall"
+    },
+    "com.wallpaper.hd.all.travel.iceland.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Iceland Wallpaper HD",
+      "category": "misc",
+      "flavor": "traveliceland"
+    },
+    "com.wallpaper.hd.all.travel.island.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Island Wallpaper HD",
+      "category": "misc",
+      "flavor": "travelisland"
+    },
+    "com.wallpaper.hd.all.travel.italy.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Italy Wallpaper HD",
+      "category": "misc",
+      "flavor": "travelitaly"
+    },
+    "com.wallpaper.hd.all.travel.japan.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Japan Wallpaper HD",
+      "category": "misc",
+      "flavor": "traveljapan"
+    },
+    "com.wallpaper.hd.all.travel.lake.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Lake Wallpaper HD",
+      "category": "misc",
+      "flavor": "travellake"
+    },
+    "com.wallpaper.hd.all.travel.machupicchu.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Machu Picchu Wallpaper HD",
+      "category": "misc",
+      "flavor": "travelmachupicchu"
+    },
+    "com.wallpaper.hd.all.travel.maldives.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Maldives Wallpaper HD",
+      "category": "misc",
+      "flavor": "travelmaldives"
+    },
+    "com.wallpaper.hd.all.travel.mountains.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Mountains Wallpaper HD",
+      "category": "misc",
+      "flavor": "travelmountains"
+    },
+    "com.wallpaper.hd.all.travel.newzealand.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "New Zealand Wallpaper HD",
+      "category": "misc",
+      "flavor": "travelnewzealand"
+    },
+    "com.wallpaper.hd.all.travel.niagarafalls.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Niagara Falls Wallpaper HD",
+      "category": "misc",
+      "flavor": "travelniagarafalls"
+    },
+    "com.wallpaper.hd.all.travel.norway.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Norway Wallpaper HD",
+      "category": "misc",
+      "flavor": "travelnorway"
+    },
+    "com.wallpaper.hd.all.travel.petrajordan.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Petra Jordan Wallpaper HD",
+      "category": "misc",
+      "flavor": "travelpetrajordan"
+    },
+    "com.wallpaper.hd.all.travel.pyramids.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Pyramids Wallpaper HD",
+      "category": "misc",
+      "flavor": "travelpyramids"
+    },
+    "com.wallpaper.hd.all.travel.santorini.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Santorini Wallpaper HD",
+      "category": "misc",
+      "flavor": "travelsantorini"
+    },
+    "com.wallpaper.hd.all.travel.snow.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Snow Wallpaper HD",
+      "category": "misc",
+      "flavor": "travelsnow"
+    },
+    "com.wallpaper.hd.all.travel.switzerland.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Switzerland Wallpaper HD",
+      "category": "misc",
+      "flavor": "travelswitzerland"
+    },
+    "com.wallpaper.hd.all.travel.tajmahal.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Taj Mahal Wallpaper HD",
+      "category": "misc",
+      "flavor": "traveltajmahal"
+    },
+    "com.wallpaper.hd.all.travel.waterfall.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Waterfall Wallpaper HD",
+      "category": "misc",
+      "flavor": "travelwaterfall"
+    },
+    "com.wallpaper.hd.all.travel.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": true,
+      "app_name": "Travel HD Wallpapers",
+      "category": "misc",
+      "flavor": "travel"
+    },
+    "com.wallpaper.hd.all.zodiac.aquarius.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Aquarius Wallpaper HD",
+      "category": "misc",
+      "flavor": "zodiacaquarius"
+    },
+    "com.wallpaper.hd.all.zodiac.aries.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Aries Wallpaper HD",
+      "category": "misc",
+      "flavor": "zodiacaries"
+    },
+    "com.wallpaper.hd.all.zodiac.cancer.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Cancer Wallpaper HD",
+      "category": "misc",
+      "flavor": "zodiaccancer"
+    },
+    "com.wallpaper.hd.all.zodiac.capricorn.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Capricorn Wallpaper HD",
+      "category": "misc",
+      "flavor": "zodiaccapricorn"
+    },
+    "com.wallpaper.hd.all.zodiac.gemini.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Gemini Wallpaper HD",
+      "category": "misc",
+      "flavor": "zodiacgemini"
+    },
+    "com.wallpaper.hd.all.zodiac.leo.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Leo Wallpaper HD",
+      "category": "misc",
+      "flavor": "zodiacleo"
+    },
+    "com.wallpaper.hd.all.zodiac.libra.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Libra Wallpaper HD",
+      "category": "misc",
+      "flavor": "zodiaclibra"
+    },
+    "com.wallpaper.hd.all.zodiac.pisces.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Pisces Wallpaper HD",
+      "category": "misc",
+      "flavor": "zodiacpisces"
+    },
+    "com.wallpaper.hd.all.zodiac.sagittarius.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Sagittarius Wallpaper HD",
+      "category": "misc",
+      "flavor": "zodiacsagittarius"
+    },
+    "com.wallpaper.hd.all.zodiac.scorpio.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Scorpio Wallpaper HD",
+      "category": "misc",
+      "flavor": "zodiacscorpio"
+    },
+    "com.wallpaper.hd.all.zodiac.taurus.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Taurus Wallpaper HD",
+      "category": "misc",
+      "flavor": "zodiactaurus"
+    },
+    "com.wallpaper.hd.all.zodiac.virgo.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Virgo Wallpaper HD",
+      "category": "misc",
+      "flavor": "zodiacvirgo"
+    },
+    "com.wallpaper.hd.all.zodiac.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": true,
+      "app_name": "Zodiac HD Wallpapers",
+      "category": "misc",
+      "flavor": "zodiac"
+    },
+    "com.wallpaper.hd.all.washington.sundar.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Washington Sundar Wallpaper HD",
+      "category": "cricketers",
+      "flavor": "washingtonsundar"
+    },
+    "com.wallpaper.hd.all.cricketers.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": true,
+      "app_name": "Cricketers Wallpaper HD",
+      "category": "cricketers",
+      "flavor": "cricketers"
+    },
+    "com.wallpaper.hd.all.f1.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": true,
+      "app_name": "F1 HD Wallpapers",
+      "category": "f1",
+      "flavor": "f1"
+    },
+    "com.wallpaper.hd.all.food.food.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Food Wallpaper HD",
+      "category": "food",
+      "flavor": "foodfood"
+    },
+    "com.wallpaper.hd.all.footballers.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": true,
+      "app_name": "Footballers HD Wallpapers",
+      "category": "footballers",
+      "flavor": "footballers"
+    },
+    "com.wallpaper.hd.all.gaming.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": true,
+      "app_name": "Gaming HD Wallpapers",
+      "category": "gaming",
+      "flavor": "gaming"
+    },
+    "com.wallpaper.hd.all.superheroes.iron.man.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Iron Man Wallpaper HD",
+      "category": "misc",
+      "flavor": "superheroesironman"
+    },
+    "com.wallpaper.hd.all.superheroes.venom.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Venom Wallpaper HD",
+      "category": "misc",
+      "flavor": "superheroesvenom"
+    },
+    "com.wallpaper.hd.all.superheroes.wolverine.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Wolverine Wallpaper HD",
+      "category": "misc",
+      "flavor": "superheroeswolverine"
+    },
+    "com.wallpaper.hd.all.tvseries.game.of.thrones.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Game Of Thrones Wallpaper HD",
+      "category": "misc",
+      "flavor": "tvseriesgameofthrones"
+    },
+    "com.wallpaper.hd.all.tvseries.the.witcher.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "The Witcher Wallpaper HD",
+      "category": "misc",
+      "flavor": "tvseriesthewitcher"
+    },
+    "com.wallpaper.hd.all.swimming.ariarne.titmus.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Ariarne Titmus Wallpaper HD",
+      "category": "misc",
+      "flavor": "swimmingariarnetitmus"
+    },
+    "com.wallpaper.hd.all.swimming.caleb.dressel.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Caleb Dressel Wallpaper HD",
+      "category": "misc",
+      "flavor": "swimmingcalebdressel"
+    },
+    "com.wallpaper.hd.all.swimming.chad.le.clos.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Chad Le Clos Wallpaper HD",
+      "category": "misc",
+      "flavor": "swimmingchadleclos"
+    },
+    "com.wallpaper.hd.all.swimming.katie.ledecky.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Katie Ledecky Wallpaper HD",
+      "category": "misc",
+      "flavor": "swimmingkatieledecky"
+    },
+    "com.wallpaper.hd.all.swimming.leon.marchand.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Leon Marchand Wallpaper HD",
+      "category": "misc",
+      "flavor": "swimmingleonmarchand"
+    },
+    "com.wallpaper.hd.all.swimming.michael.phelps.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Michael Phelps Wallpaper HD",
+      "category": "misc",
+      "flavor": "swimmingmichaelphelps"
+    },
+    "com.wallpaper.hd.all.swimming.summer.mcintosh.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Summer Mc Intosh Wallpaper HD",
+      "category": "misc",
+      "flavor": "swimmingsummermcintosh"
+    },
+    "com.wallpaper.hd.all.swimming.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": true,
+      "app_name": "Swimming HD Wallpapers",
+      "category": "misc",
+      "flavor": "swimming"
+    },
+    "com.wallpaper.hd.all.tennis.aryna.sabalenka.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Aryna Sabalenka Wallpaper HD",
+      "category": "misc",
+      "flavor": "tennisarynasabalenka"
+    },
+    "com.wallpaper.hd.all.tennis.carlos.alcaraz.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Carlos Alcaraz Wallpaper HD",
+      "category": "misc",
+      "flavor": "tenniscarlosalcaraz"
+    },
+    "com.wallpaper.hd.all.tennis.novak.djokovic.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Novak Djokovic Wallpaper HD",
+      "category": "misc",
+      "flavor": "tennisnovakdjokovic"
+    },
+    "com.wallpaper.hd.all.tennis.rafael.nadal.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Rafael Nadal Wallpaper HD",
+      "category": "misc",
+      "flavor": "tennisrafaelnadal"
+    },
+    "com.wallpaper.hd.all.tennis.roger.federer.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Roger Federer Wallpaper HD",
+      "category": "misc",
+      "flavor": "tennisrogerfederer"
+    },
+    "com.wallpaper.hd.all.tennis.serena.williams.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Serena Williams Wallpaper HD",
+      "category": "misc",
+      "flavor": "tennisserenawilliams"
+    },
+    "com.wallpaper.hd.all.wwe.seth.rollins.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Seth Rollins Wallpaper HD",
+      "category": "misc",
+      "flavor": "sethrollins"
+    },
+    "com.wallpaper.hd.all.vehicles.electric.cars.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Electric Cars Wallpaper HD",
+      "category": "misc",
+      "flavor": "electriccars"
+    },
+    "com.wallpaper.hd.all.vehicles.yachts.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Yachts Wallpaper HD",
+      "category": "misc",
+      "flavor": "yachts"
+    },
+    "com.wallpaper.hd.all.movies.images.v2": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": true,
+      "app_name": "Movies HD Wallpapers",
+      "category": "misc",
+      "flavor": "movies"
+    },
+    "com.wallpaper.hd.all.turkishactors.ahad.raza.mir.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Ahad Raza Mir Wallpaper HD",
+      "category": "misc",
+      "flavor": "turkishactorsahadrazamir"
+    },
+    "com.wallpaper.hd.all.turkishactors.burak.ozcivit.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Burak Ozcivit Wallpaper HD",
+      "category": "misc",
+      "flavor": "turkishactorsburakozcivit"
+    },
+    "com.wallpaper.hd.all.turkishactors.can.yaman.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Can Yaman Wallpaper HD",
+      "category": "misc",
+      "flavor": "turkishactorscanyaman"
+    },
+    "com.wallpaper.hd.all.turkishactors.deren.talu.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Deren Talu Wallpaper HD",
+      "category": "misc",
+      "flavor": "turkishactorsderentalu"
+    },
+    "com.wallpaper.hd.all.turkishactors.esra.bilgic.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Esra Bilgic Wallpaper HD",
+      "category": "misc",
+      "flavor": "turkishactorsesrabilgic"
+    },
+    "com.wallpaper.hd.all.turkishactors.hande.ercel.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Hande Ercel Wallpaper HD",
+      "category": "misc",
+      "flavor": "turkishactorshandeercel"
+    },
+    "com.wallpaper.hd.all.turkishactors.nebahat.cehre.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Nebahat Cehre Wallpaper HD",
+      "category": "misc",
+      "flavor": "turkishactorsnebahatcehre"
+    },
+    "com.wallpaper.hd.all.turkishactors.tuba.buyukustun.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Tuba Buyukustun Wallpaper HD",
+      "category": "misc",
+      "flavor": "turkishactorstubabuyukustun"
+    },
+    "com.wallpaper.hd.all.space.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": true,
+      "app_name": "Space HD Wallpapers",
+      "category": "misc",
+      "flavor": "space"
+    },
+    "com.wallpaper.hd.all.southindian.alluarjun.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Allu Arjun Wallpaper HD",
+      "category": "misc",
+      "flavor": "southindianalluarjun"
+    },
+    "com.wallpaper.hd.all.southindian.dhanushkr.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Dhanush KR Wallpaper HD",
+      "category": "misc",
+      "flavor": "southindiandhanushkr"
+    },
+    "com.wallpaper.hd.all.southindian.jrntr.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Jr NTR Wallpaper HD",
+      "category": "misc",
+      "flavor": "southindianjrntr"
+    },
+    "com.wallpaper.hd.all.southindian.maheshbabu.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Mahesh Babu Wallpaper HD",
+      "category": "misc",
+      "flavor": "southindianmaheshbabu"
+    },
+    "com.wallpaper.hd.all.southindian.prabhas.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Prabhas Wallpaper HD",
+      "category": "misc",
+      "flavor": "southindianprabhas"
+    },
+    "com.wallpaper.hd.all.southindian.rajinikanth.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Rajinikanth Wallpaper HD",
+      "category": "misc",
+      "flavor": "southindianrajinikanth"
+    },
+    "com.wallpaper.hd.all.southindian.ramcharan.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Ram Charan Wallpaper HD",
+      "category": "misc",
+      "flavor": "southindianramcharan"
+    },
+    "com.wallpaper.hd.all.southindian.rashmikamandanna.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Rashmika Mandanna Wallpaper HD",
+      "category": "misc",
+      "flavor": "southindianrashmikamandanna"
+    },
+    "com.wallpaper.hd.all.southindian.samantha.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Samantha Wallpaper HD",
+      "category": "misc",
+      "flavor": "southindiansamantha"
+    },
+    "com.wallpaper.hd.all.southindian.surya.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Surya Wallpaper HD",
+      "category": "misc",
+      "flavor": "southindiansurya"
+    },
+    "com.wallpaper.hd.all.southindian.thalapathyvijay.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Thalapathy Vijay Wallpaper HD",
+      "category": "misc",
+      "flavor": "southindianthalapathyvijay"
+    },
+    "com.wallpaper.hd.all.southindian.yash.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": false,
+      "app_name": "Yash Wallpaper HD",
+      "category": "misc",
+      "flavor": "southindianyash"
+    },
+    "com.wallpaper.hd.all.southindian.images": {
+      "base_url": "https://wallpapers.pinakinexus.com",
+      "is_live": false,
+      "is_multi_sub": true,
+      "app_name": "SouthIndian HD Wallpapers",
+      "category": "misc",
+      "flavor": "southindian"
+    }
+  }
+}
