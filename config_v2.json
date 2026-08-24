@@ -146,7 +146,7 @@
   },
   "com.wallpaper.hd.all.americanfootball.aaron.donald.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Aaron Donald Wallpaper HD",
    "category": "americanfootball",
@@ -154,7 +154,7 @@
   },
   "com.wallpaper.hd.all.americanfootball.dak.prescott.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Dak Prescott Wallpaper HD",
    "category": "americanfootball",
@@ -162,7 +162,7 @@
   },
   "com.wallpaper.hd.all.americanfootball.derrick.henry.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Derrick Henry Wallpaper HD",
    "category": "americanfootball",
@@ -170,7 +170,7 @@
   },
   "com.wallpaper.hd.all.americanfootball.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": true,
    "app_name": "AmericanFootball HD Wallpapers",
    "category": "americanfootball",
@@ -184,9 +184,17 @@
    "category": "americanfootball",
    "flavor": "americanfootballjalenhurts"
   },
-  "com.wallpaper.hd.all.americanfootball.jerry.rice.images": {
+  "com.wallpaper.hd.all.americanfootball.jalen.hurts.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Jalen Hurts Wallpaper HD",
+   "category": "americanfootball",
+   "flavor": "americanfootballjalenhurts"
+  },
+  "com.wallpaper.hd.all.americanfootball.jerry.rice.images": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Jerry Rice Wallpaper HD",
    "category": "americanfootball",
@@ -208,6 +216,14 @@
    "category": "americanfootball",
    "flavor": "americanfootballjoshallen"
   },
+  "com.wallpaper.hd.all.americanfootball.josh.allen.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Josh Allen Wallpaper HD",
+   "category": "americanfootball",
+   "flavor": "americanfootballjoshallen"
+  },
   "com.wallpaper.hd.all.americanfootball.lamar.jackson.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
@@ -216,15 +232,31 @@
    "category": "americanfootball",
    "flavor": "americanfootballlamarjackson"
   },
+  "com.wallpaper.hd.all.americanfootball.lamar.jackson.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Lamar Jackson Wallpaper HD",
+   "category": "americanfootball",
+   "flavor": "americanfootballlamarjackson"
+  },
   "com.wallpaper.hd.all.americanfootball.odell.beckham.jr.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Odell Beckham Jr Wallpaper HD",
    "category": "americanfootball",
    "flavor": "americanfootballodellbeckhamjr"
   },
   "com.wallpaper.hd.all.americanfootball.patrick.mahomes.images": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Patrick Mahomes Wallpaper HD",
+   "category": "americanfootball",
+   "flavor": "americanfootballpatrickmahomes"
+  },
+  "com.wallpaper.hd.all.americanfootball.patrick.mahomes.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -240,9 +272,17 @@
    "category": "americanfootball",
    "flavor": "americanfootballtombrady"
   },
-  "com.wallpaper.hd.all.americanfootball.travis.kelce.images": {
+  "com.wallpaper.hd.all.americanfootball.tom.brady.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Tom Brady Wallpaper HD",
+   "category": "americanfootball",
+   "flavor": "americanfootballtombrady"
+  },
+  "com.wallpaper.hd.all.americanfootball.travis.kelce.images": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Travis Kelce Wallpaper HD",
    "category": "americanfootball",
@@ -256,15 +296,31 @@
    "category": "animals",
    "flavor": "cat"
   },
-  "com.wallpaper.hd.all.animals.chameleon.images.v2": {
+  "com.wallpaper.hd.all.animals.cat.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Cat Wallpaper HD",
+   "category": "animals",
+   "flavor": "cat"
+  },
+  "com.wallpaper.hd.all.animals.chameleon.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Chameleon Wallpaper HD",
    "category": "animals",
    "flavor": "chameleon"
   },
   "com.wallpaper.hd.all.animals.deer.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Deer Wallpaper HD",
+   "category": "animals",
+   "flavor": "deer"
+  },
+  "com.wallpaper.hd.all.animals.deer.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -280,7 +336,23 @@
    "category": "animals",
    "flavor": "dog"
   },
+  "com.wallpaper.hd.all.animals.dog.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Dog Wallpaper HD",
+   "category": "animals",
+   "flavor": "dog"
+  },
   "com.wallpaper.hd.all.animals.eagle.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Eagle Wallpaper HD",
+   "category": "animals",
+   "flavor": "eagle"
+  },
+  "com.wallpaper.hd.all.animals.eagle.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -296,7 +368,23 @@
    "category": "animals",
    "flavor": "elephant"
   },
+  "com.wallpaper.hd.all.animals.elephant.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Elephant Wallpaper HD",
+   "category": "animals",
+   "flavor": "elephant"
+  },
   "com.wallpaper.hd.all.animals.fox.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Fox Wallpaper HD",
+   "category": "animals",
+   "flavor": "fox"
+  },
+  "com.wallpaper.hd.all.animals.fox.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -312,7 +400,23 @@
    "category": "animals",
    "flavor": "frog"
   },
+  "com.wallpaper.hd.all.animals.frog.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Frog Wallpaper HD",
+   "category": "animals",
+   "flavor": "frog"
+  },
   "com.wallpaper.hd.all.animals.horse.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Horse Wallpaper HD",
+   "category": "animals",
+   "flavor": "horse"
+  },
+  "com.wallpaper.hd.all.animals.horse.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -322,13 +426,21 @@
   },
   "com.wallpaper.hd.all.animals.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": true,
    "app_name": "Animals HD Wallpapers",
    "category": "animals",
    "flavor": "animals"
   },
   "com.wallpaper.hd.all.animals.lion.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Lion Wallpaper HD",
+   "category": "animals",
+   "flavor": "lion"
+  },
+  "com.wallpaper.hd.all.animals.lion.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -344,7 +456,23 @@
    "category": "animals",
    "flavor": "monkey"
   },
+  "com.wallpaper.hd.all.animals.monkey.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Monkey Wallpaper HD",
+   "category": "animals",
+   "flavor": "monkey"
+  },
   "com.wallpaper.hd.all.animals.owl.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Owl Wallpaper HD",
+   "category": "animals",
+   "flavor": "owl"
+  },
+  "com.wallpaper.hd.all.animals.owl.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -360,15 +488,31 @@
    "category": "animals",
    "flavor": "parrot"
   },
-  "com.wallpaper.hd.all.animals.peacock.images.v2": {
+  "com.wallpaper.hd.all.animals.parrot.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Parrot Wallpaper HD",
+   "category": "animals",
+   "flavor": "parrot"
+  },
+  "com.wallpaper.hd.all.animals.peacock.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Peacock Wallpaper HD",
    "category": "animals",
    "flavor": "peacock"
   },
   "com.wallpaper.hd.all.animals.tiger.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Tiger Wallpaper HD",
+   "category": "animals",
+   "flavor": "tiger"
+  },
+  "com.wallpaper.hd.all.animals.tiger.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -384,7 +528,23 @@
    "category": "anime",
    "flavor": "animeattackontitan"
   },
+  "com.wallpaper.hd.all.anime.attack.on.titan.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Attack On Titan Wallpaper HD",
+   "category": "anime",
+   "flavor": "animeattackontitan"
+  },
   "com.wallpaper.hd.all.anime.death.note.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Death Note Wallpaper HD",
+   "category": "anime",
+   "flavor": "animedeathnote"
+  },
+  "com.wallpaper.hd.all.anime.death.note.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -400,6 +560,14 @@
    "category": "anime",
    "flavor": "animedemonslayer"
   },
+  "com.wallpaper.hd.all.anime.demon.slayer.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Demon Anime Wallpaper HD",
+   "category": "anime",
+   "flavor": "animedemonslayer"
+  },
   "com.wallpaper.hd.all.anime.dragon.ball.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": false,
@@ -408,9 +576,25 @@
    "category": "anime",
    "flavor": "animedragonball"
   },
+  "com.wallpaper.hd.all.anime.dragon.ball.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Dragon Anime Wallpaper HD",
+   "category": "anime",
+   "flavor": "animedragonball"
+  },
   "com.wallpaper.hd.all.anime.hunter.x.hunter.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Hunter X Hunter Wallpaper HD",
+   "category": "anime",
+   "flavor": "animehunterxhunter"
+  },
+  "com.wallpaper.hd.all.anime.hunter.x.hunter.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Hunter X Hunter Wallpaper HD",
    "category": "anime",
@@ -432,7 +616,23 @@
    "category": "anime",
    "flavor": "animejujutsukaisenv3"
   },
+  "com.wallpaper.hd.all.anime.jujutsu.kaisen.images.v4": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "JujutsuKaisen Wallpaper HD",
+   "category": "anime",
+   "flavor": "animejujutsukaisenv3"
+  },
   "com.wallpaper.hd.all.anime.my.hero.academia.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "My Hero Academia Wallpaper HD",
+   "category": "anime",
+   "flavor": "animemyheroacademia"
+  },
+  "com.wallpaper.hd.all.anime.my.hero.academia.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -448,9 +648,25 @@
    "category": "anime",
    "flavor": "animenaruto"
   },
+  "com.wallpaper.hd.all.anime.naruto.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Ninja Anime Wallpaper HD",
+   "category": "anime",
+   "flavor": "animenaruto"
+  },
   "com.wallpaper.hd.all.anime.one.punch.man.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Hero Anime Wallpaper HD",
+   "category": "anime",
+   "flavor": "animeonepunchman"
+  },
+  "com.wallpaper.hd.all.anime.one.punch.man.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
    "is_multi_sub": false,
    "app_name": "Hero Anime Wallpaper HD",
    "category": "anime",
@@ -464,9 +680,25 @@
    "category": "anime",
    "flavor": "animetokyoghoul"
   },
+  "com.wallpaper.hd.all.anime.tokyo.ghoul.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Tokyo Ghoul Wallpaper HD",
+   "category": "anime",
+   "flavor": "animetokyoghoul"
+  },
   "com.wallpaper.hd.all.anime.wallpapers.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
+   "is_multi_sub": true,
+   "app_name": "Anime HD Wallpapers",
+   "category": "anime",
+   "flavor": "anime"
+  },
+  "com.wallpaper.hd.all.anime.wallpapers.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
    "is_multi_sub": true,
    "app_name": "Anime HD Wallpapers",
    "category": "anime",
@@ -546,7 +778,7 @@
   },
   "com.wallpaper.hd.all.arshdeep.singh.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Arshdeep Singh Wallpaper HD",
    "category": "cricketers",
@@ -554,7 +786,7 @@
   },
   "com.wallpaper.hd.all.axar.patel.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Axar Patel Wallpaper HD",
    "category": "cricketers",
@@ -562,13 +794,21 @@
   },
   "com.wallpaper.hd.all.badminton.an.se.young.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "An Se Young Wallpaper HD",
    "category": "badminton",
    "flavor": "badmintonanseyoung"
   },
   "com.wallpaper.hd.all.badminton.images": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": true,
+   "app_name": "Badminton HD Wallpapers",
+   "category": "badminton",
+   "flavor": "badminton"
+  },
+  "com.wallpaper.hd.all.badminton.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": true,
@@ -584,9 +824,17 @@
    "category": "badminton",
    "flavor": "badmintonkunlavutvitidsarn"
   },
-  "com.wallpaper.hd.all.badminton.lakshya.sen.images": {
+  "com.wallpaper.hd.all.badminton.kunlavut.vitidsarn.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Kunlavut Vitidsarn Wallpaper HD",
+   "category": "badminton",
+   "flavor": "badmintonkunlavutvitidsarn"
+  },
+  "com.wallpaper.hd.all.badminton.lakshya.sen.images": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Lakshya Sen Wallpaper HD",
    "category": "badminton",
@@ -602,7 +850,7 @@
   },
   "com.wallpaper.hd.all.badminton.lin.dan.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Lin Dan Wallpaper HD",
    "category": "badminton",
@@ -610,7 +858,7 @@
   },
   "com.wallpaper.hd.all.badminton.nozomi.okuhara.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Nozomi Okuhara Wallpaper HD",
    "category": "badminton",
@@ -618,7 +866,7 @@
   },
   "com.wallpaper.hd.all.badminton.pv.sindhu.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "PV Sindhu Wallpaper HD",
    "category": "badminton",
@@ -626,7 +874,7 @@
   },
   "com.wallpaper.hd.all.badminton.saina.nehwal.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Saina Nehwal Wallpaper HD",
    "category": "badminton",
@@ -634,13 +882,21 @@
   },
   "com.wallpaper.hd.all.badminton.viktor.axelsen.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Viktor Axelsen Wallpaper HD",
    "category": "badminton",
    "flavor": "badmintonviktoraxelsen"
   },
   "com.wallpaper.hd.all.baseball.aaron.judge.images": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Aaron Judge Wallpaper HD",
+   "category": "baseball",
+   "flavor": "baseballaaronjudge"
+  },
+  "com.wallpaper.hd.all.baseball.aaron.judge.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -656,7 +912,23 @@
    "category": "baseball",
    "flavor": "baseballbaberuth"
   },
+  "com.wallpaper.hd.all.baseball.babe.ruth.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Babe Ruth Wallpaper HD",
+   "category": "baseball",
+   "flavor": "baseballbaberuth"
+  },
   "com.wallpaper.hd.all.baseball.bryce.harper.images": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Bryce Harper Wallpaper HD",
+   "category": "baseball",
+   "flavor": "baseballbryceharper"
+  },
+  "com.wallpaper.hd.all.baseball.bryce.harper.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -672,6 +944,14 @@
    "category": "baseball",
    "flavor": "baseballderekjeter"
   },
+  "com.wallpaper.hd.all.baseball.derek.jeter.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Derek Jeter Wallpaper HD",
+   "category": "baseball",
+   "flavor": "baseballderekjeter"
+  },
   "com.wallpaper.hd.all.baseball.fernando.tatis.jr.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
@@ -680,9 +960,17 @@
    "category": "baseball",
    "flavor": "baseballfernandotatisjr"
   },
+  "com.wallpaper.hd.all.baseball.fernando.tatis.jr.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Fernando Tatis Jr Wallpaper HD",
+   "category": "baseball",
+   "flavor": "baseballfernandotatisjr"
+  },
   "com.wallpaper.hd.all.baseball.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": true,
    "app_name": "Baseball HD Wallpapers",
    "category": "baseball",
@@ -696,7 +984,23 @@
    "category": "baseball",
    "flavor": "baseballjuansoto"
   },
+  "com.wallpaper.hd.all.baseball.juan.soto.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Juan Soto Wallpaper HD",
+   "category": "baseball",
+   "flavor": "baseballjuansoto"
+  },
   "com.wallpaper.hd.all.baseball.mike.trout.images": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Mike Trout Wallpaper HD",
+   "category": "baseball",
+   "flavor": "baseballmiketrout"
+  },
+  "com.wallpaper.hd.all.baseball.mike.trout.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -706,7 +1010,7 @@
   },
   "com.wallpaper.hd.all.baseball.mookie.betts.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Mookie Betts Wallpaper HD",
    "category": "baseball",
@@ -720,7 +1024,23 @@
    "category": "baseball",
    "flavor": "baseballronaldacunajr"
   },
+  "com.wallpaper.hd.all.baseball.ronald.acuna.jr.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Ronald Acuna Jr Wallpaper HD",
+   "category": "baseball",
+   "flavor": "baseballronaldacunajr"
+  },
   "com.wallpaper.hd.all.baseball.shohei.ohtani.images": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Shohei Ohtani Wallpaper HD",
+   "category": "baseball",
+   "flavor": "baseballshoheiohtani"
+  },
+  "com.wallpaper.hd.all.baseball.shohei.ohtani.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -786,7 +1106,7 @@
   },
   "com.wallpaper.hd.all.bollywood.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": true,
    "app_name": "Bollywood HD Wallpapers",
    "category": "bollywood",
@@ -928,7 +1248,23 @@
    "category": "cartoons",
    "flavor": "cartoonsbentenv3"
   },
+  "com.wallpaper.hd.all.cartoons.ben.ten.images.v4": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Ben Ten Wallpaper HD",
+   "category": "cartoons",
+   "flavor": "cartoonsbentenv3"
+  },
   "com.wallpaper.hd.all.cartoons.disney.images": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Cartoon Wallpaper HD",
+   "category": "cartoons",
+   "flavor": "cartoonsdisney"
+  },
+  "com.wallpaper.hd.all.cartoons.disney.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -944,9 +1280,25 @@
    "category": "cartoons",
    "flavor": "cartoonsdoraemon"
   },
+  "com.wallpaper.hd.all.cartoons.doraemon.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Robot Cat Wallpaper HD",
+   "category": "cartoons",
+   "flavor": "cartoonsdoraemon"
+  },
   "com.wallpaper.hd.all.cartoons.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
+   "is_multi_sub": true,
+   "app_name": "Cartoons HD Wallpapers",
+   "category": "cartoons",
+   "flavor": "cartoons"
+  },
+  "com.wallpaper.hd.all.cartoons.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
    "is_multi_sub": true,
    "app_name": "Cartoons HD Wallpapers",
    "category": "cartoons",
@@ -960,7 +1312,23 @@
    "category": "cartoons",
    "flavor": "cartoonsmickey"
   },
+  "com.wallpaper.hd.all.cartoons.mickey.mouse.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Cartoon Mouse Wallpaper HD",
+   "category": "cartoons",
+   "flavor": "cartoonsmickey"
+  },
   "com.wallpaper.hd.all.cartoons.oggy.images": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Funny Cat Cartoon HD",
+   "category": "cartoons",
+   "flavor": "cartoonsoggy"
+  },
+  "com.wallpaper.hd.all.cartoons.oggy.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -976,6 +1344,14 @@
    "category": "cartoons",
    "flavor": "cartoonspixar"
   },
+  "com.wallpaper.hd.all.cartoons.pixar.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Pixar Wallpaper HD",
+   "category": "cartoons",
+   "flavor": "cartoonspixar"
+  },
   "com.wallpaper.hd.all.cartoons.pokemon.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": false,
@@ -984,7 +1360,23 @@
    "category": "cartoons",
    "flavor": "cartoonspokemon"
   },
+  "com.wallpaper.hd.all.cartoons.pokemon.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Monster Anime Wallpaper HD",
+   "category": "cartoons",
+   "flavor": "cartoonspokemon"
+  },
   "com.wallpaper.hd.all.cartoons.shinchan.images": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Funny Cartoon Wallpaper HD",
+   "category": "cartoons",
+   "flavor": "cartoonsshinchan"
+  },
+  "com.wallpaper.hd.all.cartoons.shinchan.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": false,
    "is_multi_sub": false,
@@ -1000,9 +1392,25 @@
    "category": "cartoons",
    "flavor": "cartoonsspongebob"
   },
+  "com.wallpaper.hd.all.cartoons.sponge.bob.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Sea Sponge Cartoon HD",
+   "category": "cartoons",
+   "flavor": "cartoonsspongebob"
+  },
   "com.wallpaper.hd.all.cartoons.tom.and.jerry.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Tom And Jerry Wallpaper HD",
+   "category": "cartoons",
+   "flavor": "cartoonstomandjerry"
+  },
+  "com.wallpaper.hd.all.cartoons.tom.and.jerry.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Tom And Jerry Wallpaper HD",
    "category": "cartoons",
@@ -1034,7 +1442,7 @@
   },
   "com.wallpaper.hd.all.cities.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": true,
    "app_name": "Cities HD Wallpapers",
    "category": "cities",
@@ -1130,7 +1538,7 @@
   },
   "com.wallpaper.hd.all.cute.couples.ideas.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "CouplePose Wallpaper HD",
    "category": "photopose",
@@ -1146,7 +1554,7 @@
   },
   "com.wallpaper.hd.all.cute.hot.womens.pose.ideas.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "WomenPose Wallpaper HD",
    "category": "photopose",
@@ -1154,7 +1562,7 @@
   },
   "com.wallpaper.hd.all.cute.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": true,
    "app_name": "Cute HD Wallpapers",
    "category": "cute",
@@ -1202,7 +1610,7 @@
   },
   "com.wallpaper.hd.all.f1.ayrton.senna.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Ayrton Senna Wallpaper HD",
    "category": "f1",
@@ -1210,7 +1618,7 @@
   },
   "com.wallpaper.hd.all.f1.carlos.sainz.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Carlos Sainz Wallpaper HD",
    "category": "f1",
@@ -1218,7 +1626,7 @@
   },
   "com.wallpaper.hd.all.f1.charles.leclerc.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Charles Leclerc Wallpaper HD",
    "category": "f1",
@@ -1226,7 +1634,7 @@
   },
   "com.wallpaper.hd.all.f1.daniel.ricciardo.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Daniel Ricciardo Wallpaper HD",
    "category": "f1",
@@ -1234,7 +1642,7 @@
   },
   "com.wallpaper.hd.all.f1.fernando.alonso.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Fernando Alonso Wallpaper HD",
    "category": "f1",
@@ -1250,7 +1658,7 @@
   },
   "com.wallpaper.hd.all.f1.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": true,
    "app_name": "Formula1 Wallpaper HD",
    "category": "f1",
@@ -1258,7 +1666,7 @@
   },
   "com.wallpaper.hd.all.f1.lando.norris.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Lando Norris Wallpaper HD",
    "category": "f1",
@@ -1266,7 +1674,7 @@
   },
   "com.wallpaper.hd.all.f1.lewis.hamilton.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Lewis Hamilton Wallpaper HD",
    "category": "f1",
@@ -1274,7 +1682,7 @@
   },
   "com.wallpaper.hd.all.f1.max.verstappen.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Max Verstappen Wallpaper HD",
    "category": "f1",
@@ -1282,7 +1690,7 @@
   },
   "com.wallpaper.hd.all.f1.michael.schumacher.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Michael Schumacher Wallpaper HD",
    "category": "f1",
@@ -1290,7 +1698,7 @@
   },
   "com.wallpaper.hd.all.f1.oscar.piastri.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Oscar Piastri Wallpaper HD",
    "category": "f1",
@@ -1434,7 +1842,7 @@
   },
   "com.wallpaper.hd.all.festivals.halloween.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Halloween Wallpaper HD",
    "category": "festivals",
@@ -1451,6 +1859,14 @@
   "com.wallpaper.hd.all.festivals.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
+   "is_multi_sub": true,
+   "app_name": "Festivals HD Wallpapers",
+   "category": "festivals",
+   "flavor": "festivals"
+  },
+  "com.wallpaper.hd.all.festivals.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
    "is_multi_sub": true,
    "app_name": "Festivals HD Wallpapers",
    "category": "festivals",
@@ -1562,7 +1978,7 @@
   },
   "com.wallpaper.hd.all.flowers.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": true,
    "app_name": "Flowers HD Wallpapers",
    "category": "flowers",
@@ -1722,13 +2138,21 @@
   },
   "com.wallpaper.hd.all.footballer.andres.iniesta.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Andres Iniesta Wallpaper HD",
    "category": "footballers",
    "flavor": "andresiniesta"
   },
   "com.wallpaper.hd.all.footballer.cole.palmer.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Cole Palmer Wallpaper HD",
+   "category": "footballers",
+   "flavor": "colepalmer"
+  },
+  "com.wallpaper.hd.all.footballer.cole.palmer.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -1744,9 +2168,25 @@
    "category": "footballers",
    "flavor": "cristianoronaldo"
   },
+  "com.wallpaper.hd.all.footballer.cristiano.ronaldo.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Cristiano Ronaldo Wallpaper HD",
+   "category": "footballers",
+   "flavor": "cristianoronaldo"
+  },
   "com.wallpaper.hd.all.footballer.david.beckham.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "David Beckham Wallpaper HD",
+   "category": "footballers",
+   "flavor": "davidbeckham"
+  },
+  "com.wallpaper.hd.all.footballer.david.beckham.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "David Beckham Wallpaper HD",
    "category": "footballers",
@@ -1760,7 +2200,23 @@
    "category": "footballers",
    "flavor": "erlinghaaland"
   },
+  "com.wallpaper.hd.all.footballer.erling.haaland.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Erling Haaland Wallpaper HD",
+   "category": "footballers",
+   "flavor": "erlinghaaland"
+  },
   "com.wallpaper.hd.all.footballer.harry.kane.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Harry Kane Wallpaper HD",
+   "category": "footballers",
+   "flavor": "harrykane"
+  },
+  "com.wallpaper.hd.all.footballer.harry.kane.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -1776,6 +2232,14 @@
    "category": "footballers",
    "flavor": "heungminson"
   },
+  "com.wallpaper.hd.all.footballer.heung.min.son.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Heung-min Son Wallpaper HD",
+   "category": "footballers",
+   "flavor": "heungminson"
+  },
   "com.wallpaper.hd.all.footballer.jude.bellingham.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
@@ -1784,9 +2248,17 @@
    "category": "footballers",
    "flavor": "judebellingham"
   },
+  "com.wallpaper.hd.all.footballer.jude.bellingham.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Jude Bellingham Wallpaper HD",
+   "category": "footballers",
+   "flavor": "judebellingham"
+  },
   "com.wallpaper.hd.all.footballer.karim.benzema.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Karim Benzema Wallpaper HD",
    "category": "footballers",
@@ -1794,7 +2266,7 @@
   },
   "com.wallpaper.hd.all.footballer.kylian.mbappe.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Kylian Mbappe Wallpaper HD",
    "category": "footballers",
@@ -1808,6 +2280,14 @@
    "category": "footballers",
    "flavor": "lamineyamal"
   },
+  "com.wallpaper.hd.all.footballer.lamine.yamal.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Lamine Yamal Wallpaper HD",
+   "category": "footballers",
+   "flavor": "lamineyamal"
+  },
   "com.wallpaper.hd.all.footballer.lionel.messi.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
@@ -1816,9 +2296,17 @@
    "category": "footballers",
    "flavor": "lionelmessi"
   },
+  "com.wallpaper.hd.all.footballer.lionel.messi.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Lionel Messi Wallpaper HD",
+   "category": "footballers",
+   "flavor": "lionelmessi"
+  },
   "com.wallpaper.hd.all.footballer.luis.suarez.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Luis Suarez Wallpaper HD",
    "category": "footballers",
@@ -1826,7 +2314,7 @@
   },
   "com.wallpaper.hd.all.footballer.luka.modric.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Luka Modric Wallpaper HD",
    "category": "footballers",
@@ -1834,13 +2322,21 @@
   },
   "com.wallpaper.hd.all.footballer.marcus.rashford.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Marcus Rashford Wallpaper HD",
    "category": "footballers",
    "flavor": "marcusrashford"
   },
   "com.wallpaper.hd.all.footballer.mohamed.salah.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Mohamed Salah Wallpaper HD",
+   "category": "footballers",
+   "flavor": "mohamedsalah"
+  },
+  "com.wallpaper.hd.all.footballer.mohamed.salah.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -1856,9 +2352,17 @@
    "category": "footballers",
    "flavor": "neymarjr"
   },
-  "com.wallpaper.hd.all.footballer.ousmane.dembele.images.v2": {
+  "com.wallpaper.hd.all.footballer.neymar.jr.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Neymar Jr Wallpaper HD",
+   "category": "footballers",
+   "flavor": "neymarjr"
+  },
+  "com.wallpaper.hd.all.footballer.ousmane.dembele.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Ousmane Dembele Wallpaper HD",
    "category": "footballers",
@@ -1872,9 +2376,17 @@
    "category": "footballers",
    "flavor": "ronaldinho"
   },
-  "com.wallpaper.hd.all.footballer.ronaldo.nazario.images.v2": {
+  "com.wallpaper.hd.all.footballer.ronaldinho.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Ronaldinho Wallpaper HD",
+   "category": "footballers",
+   "flavor": "ronaldinho"
+  },
+  "com.wallpaper.hd.all.footballer.ronaldo.nazario.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Ronaldo Nazario Wallpaper HD",
    "category": "footballers",
@@ -1888,9 +2400,17 @@
    "category": "footballers",
    "flavor": "thierryhenry"
   },
-  "com.wallpaper.hd.all.footballer.vinicius.jr.images.v2": {
+  "com.wallpaper.hd.all.footballer.thierry.henry.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Thierry Henry Wallpaper HD",
+   "category": "footballers",
+   "flavor": "thierryhenry"
+  },
+  "com.wallpaper.hd.all.footballer.vinicius.jr.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Vinicius Jr Wallpaper HD",
    "category": "footballers",
@@ -1898,7 +2418,7 @@
   },
   "com.wallpaper.hd.all.footballer.wayne.rooney.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Wayne Rooney Wallpaper HD",
    "category": "footballers",
@@ -1906,7 +2426,7 @@
   },
   "com.wallpaper.hd.all.footballer.xavi.hernandez.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Xavi Hernandez Wallpaper HD",
    "category": "footballers",
@@ -1922,7 +2442,7 @@
   },
   "com.wallpaper.hd.all.footballer.zlatan.ibrahimovic.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Zlatan Ibrahimovic Wallpaper HD",
    "category": "footballers",
@@ -1987,6 +2507,14 @@
   "com.wallpaper.hd.all.gaming.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": false,
+   "is_multi_sub": true,
+   "app_name": "Gaming HD Wallpapers",
+   "category": "gaming",
+   "flavor": "gaming"
+  },
+  "com.wallpaper.hd.all.gaming.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
    "is_multi_sub": true,
    "app_name": "Gaming HD Wallpapers",
    "category": "gaming",
@@ -2240,9 +2768,17 @@
    "category": "cricketers",
    "flavor": "hardikpandya"
   },
-  "com.wallpaper.hd.all.harsit.rana.images.v2": {
+  "com.wallpaper.hd.all.hardik.pandya.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Hardik Pandya Wallpaper HD",
+   "category": "cricketers",
+   "flavor": "hardikpandya"
+  },
+  "com.wallpaper.hd.all.harsit.rana.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Harshit Rana Wallpaper HD",
    "category": "cricketers",
@@ -2258,7 +2794,7 @@
   },
   "com.wallpaper.hd.all.hockey.alex.ovechkin.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Alex Ovechkin Wallpaper HD",
    "category": "hockey",
@@ -2266,7 +2802,7 @@
   },
   "com.wallpaper.hd.all.hockey.auston.matthews.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Auston Matthews Wallpaper HD",
    "category": "hockey",
@@ -2274,7 +2810,7 @@
   },
   "com.wallpaper.hd.all.hockey.carey.price.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Carey Price Wallpaper HD",
    "category": "hockey",
@@ -2282,7 +2818,7 @@
   },
   "com.wallpaper.hd.all.hockey.connor.mcdavid.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Connor McDavid Wallpaper HD",
    "category": "hockey",
@@ -2296,9 +2832,17 @@
    "category": "hockey",
    "flavor": "hockey"
   },
-  "com.wallpaper.hd.all.hockey.leon.draisaitl.images": {
+  "com.wallpaper.hd.all.hockey.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
+   "is_multi_sub": true,
+   "app_name": "Ice Hockey HD Wallpapers",
+   "category": "hockey",
+   "flavor": "hockey"
+  },
+  "com.wallpaper.hd.all.hockey.leon.draisaitl.images": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Leon Draisaitl Wallpaper HD",
    "category": "hockey",
@@ -2306,7 +2850,7 @@
   },
   "com.wallpaper.hd.all.hockey.nathan.mackinnon.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Nathan MacKinnon Wallpaper HD",
    "category": "hockey",
@@ -2314,7 +2858,7 @@
   },
   "com.wallpaper.hd.all.hockey.nikita.kucherov.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Nikita Kucherov Wallpaper HD",
    "category": "hockey",
@@ -2322,7 +2866,7 @@
   },
   "com.wallpaper.hd.all.hockey.patrick.kane.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Patrick Kane Wallpaper HD",
    "category": "hockey",
@@ -2330,7 +2874,7 @@
   },
   "com.wallpaper.hd.all.hockey.sidney.crosby.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Sidney Crosby Wallpaper HD",
    "category": "hockey",
@@ -2338,7 +2882,7 @@
   },
   "com.wallpaper.hd.all.hockey.wayne.gretzky.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Wayne Gretzky Wallpaper HD",
    "category": "hockey",
@@ -2352,7 +2896,23 @@
    "category": "hollywood",
    "flavor": "hollywoodchrishemsworth"
   },
+  "com.wallpaper.hd.all.hollywood.chris.hemsworth.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Chris Hemsworth Wallpaper HD",
+   "category": "hollywood",
+   "flavor": "hollywoodchrishemsworth"
+  },
   "com.wallpaper.hd.all.hollywood.dwayne.johnson.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Dwayne Johnson Wallpaper HD",
+   "category": "hollywood",
+   "flavor": "hollywooddwaynejohnson"
+  },
+  "com.wallpaper.hd.all.hollywood.dwayne.johnson.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": false,
    "is_multi_sub": false,
@@ -2368,9 +2928,17 @@
    "category": "hollywood",
    "flavor": "hollywoodgalgadot"
   },
-  "com.wallpaper.hd.all.hollywood.images.v2": {
+  "com.wallpaper.hd.all.hollywood.gal.gadot.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Gal Gadot Wallpaper HD",
+   "category": "hollywood",
+   "flavor": "hollywoodgalgadot"
+  },
+  "com.wallpaper.hd.all.hollywood.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
    "is_multi_sub": true,
    "app_name": "Hollywood HD Wallpapers",
    "category": "hollywood",
@@ -2384,9 +2952,25 @@
    "category": "hollywood",
    "flavor": "hollywoodjasonstatham"
   },
+  "com.wallpaper.hd.all.hollywood.jason.statham.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Jason Statham Wallpaper HD",
+   "category": "hollywood",
+   "flavor": "hollywoodjasonstatham"
+  },
   "com.wallpaper.hd.all.hollywood.johnny.depp.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Johnny Depp Wallpaper HD",
+   "category": "hollywood",
+   "flavor": "hollywoodjohnnydepp"
+  },
+  "com.wallpaper.hd.all.hollywood.johnny.depp.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
    "is_multi_sub": false,
    "app_name": "Johnny Depp Wallpaper HD",
    "category": "hollywood",
@@ -2400,7 +2984,23 @@
    "category": "hollywood",
    "flavor": "hollywoodkeanureeves"
   },
+  "com.wallpaper.hd.all.hollywood.keanu.reeves.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Keanu Reeves Wallpaper HD",
+   "category": "hollywood",
+   "flavor": "hollywoodkeanureeves"
+  },
   "com.wallpaper.hd.all.hollywood.leonardo.dicaprio.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Leonardo DiCaprio Wallpaper HD",
+   "category": "hollywood",
+   "flavor": "hollywoodleonardodicaprio"
+  },
+  "com.wallpaper.hd.all.hollywood.leonardo.dicaprio.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -2416,9 +3016,17 @@
    "category": "hollywood",
    "flavor": "hollywoodrobertdowneyjr"
   },
-  "com.wallpaper.hd.all.hollywood.scarlett.johansson.images.v2": {
+  "com.wallpaper.hd.all.hollywood.robert.downey.jr.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Robert Downey Jr Wallpaper HD",
+   "category": "hollywood",
+   "flavor": "hollywoodrobertdowneyjr"
+  },
+  "com.wallpaper.hd.all.hollywood.scarlett.johansson.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Scarlett Johansson Wallpaper HD",
    "category": "hollywood",
@@ -2427,6 +3035,14 @@
   "com.wallpaper.hd.all.hollywood.tom.cruise.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Tom Cruise Wallpaper HD",
+   "category": "hollywood",
+   "flavor": "hollywoodtomcruise"
+  },
+  "com.wallpaper.hd.all.hollywood.tom.cruise.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Tom Cruise Wallpaper HD",
    "category": "hollywood",
@@ -2512,6 +3128,14 @@
    "category": "cricketers",
    "flavor": "jaspritbumrah"
   },
+  "com.wallpaper.hd.all.jasprit.bumrah.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Jasprit Bumrah Wallpaper HD",
+   "category": "cricketers",
+   "flavor": "jaspritbumrah"
+  },
   "com.wallpaper.hd.all.jesus.lord.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
@@ -2522,7 +3146,7 @@
   },
   "com.wallpaper.hd.all.kdrama.bae.suzy.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Bae Suzy Wallpaper HD",
    "category": "kdrama",
@@ -2530,7 +3154,7 @@
   },
   "com.wallpaper.hd.all.kdrama.gong.yoo.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Gong Yoo Wallpaper HD",
    "category": "kdrama",
@@ -2538,7 +3162,7 @@
   },
   "com.wallpaper.hd.all.kdrama.han.hyo.joo.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Han Hyo Joo Wallpaper HD",
    "category": "kdrama",
@@ -2546,7 +3170,7 @@
   },
   "com.wallpaper.hd.all.kdrama.hyun.bin.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Hyun Bin Wallpaper HD",
    "category": "kdrama",
@@ -2554,7 +3178,7 @@
   },
   "com.wallpaper.hd.all.kdrama.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": true,
    "app_name": "KDrama HD Wallpapers",
    "category": "kdrama",
@@ -2562,7 +3186,7 @@
   },
   "com.wallpaper.hd.all.kdrama.jun.ji.hyun.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Jun Ji Hyun Wallpaper HD",
    "category": "kdrama",
@@ -2570,7 +3194,7 @@
   },
   "com.wallpaper.hd.all.kdrama.kim.soo.hyun.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Kim Soo Hyun Wallpaper HD",
    "category": "kdrama",
@@ -2578,7 +3202,7 @@
   },
   "com.wallpaper.hd.all.kdrama.lee.min.ho.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Lee Min Ho Wallpaper HD",
    "category": "kdrama",
@@ -2586,7 +3210,7 @@
   },
   "com.wallpaper.hd.all.kdrama.park.seo.joon.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Park Seo Joon Wallpaper HD",
    "category": "kdrama",
@@ -2594,7 +3218,7 @@
   },
   "com.wallpaper.hd.all.kdrama.shin.min.ah.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Shin Min Ah Wallpaper HD",
    "category": "kdrama",
@@ -2602,7 +3226,7 @@
   },
   "com.wallpaper.hd.all.kdrama.song.hye.kyo.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Song Hye Kyo Wallpaper HD",
    "category": "kdrama",
@@ -2610,7 +3234,7 @@
   },
   "com.wallpaper.hd.all.kdrama.song.joong.ki.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Song Joong Ki Wallpaper HD",
    "category": "kdrama",
@@ -2618,7 +3242,7 @@
   },
   "com.wallpaper.hd.all.kdrama.sung.hoon.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Sung Hoon Wallpaper HD",
    "category": "kdrama",
@@ -2648,9 +3272,25 @@
    "category": "kpop",
    "flavor": "kpopblackpink"
   },
+  "com.wallpaper.hd.all.kpop.blackpink.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Blackpink Wallpaper HD",
+   "category": "kpop",
+   "flavor": "kpopblackpink"
+  },
   "com.wallpaper.hd.all.kpop.bts.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "BTS Wallpaper HD",
+   "category": "kpop",
+   "flavor": "kpopbts"
+  },
+  "com.wallpaper.hd.all.kpop.bts.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "BTS Wallpaper HD",
    "category": "kpop",
@@ -2664,9 +3304,25 @@
    "category": "kpop",
    "flavor": "kpop"
   },
+  "com.wallpaper.hd.all.kpop.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": true,
+   "app_name": "KPop HD Wallpapers",
+   "category": "kpop",
+   "flavor": "kpop"
+  },
   "com.wallpaper.hd.all.kpop.jennie.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Jennie Wallpaper HD",
+   "category": "kpop",
+   "flavor": "kpopjennie"
+  },
+  "com.wallpaper.hd.all.kpop.jennie.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Jennie Wallpaper HD",
    "category": "kpop",
@@ -2680,9 +3336,25 @@
    "category": "kpop",
    "flavor": "kpopjhope"
   },
+  "com.wallpaper.hd.all.kpop.jhope.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "JHope Wallpaper HD",
+   "category": "kpop",
+   "flavor": "kpopjhope"
+  },
   "com.wallpaper.hd.all.kpop.jimin.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Jimin Wallpaper HD",
+   "category": "kpop",
+   "flavor": "kpopjimin"
+  },
+  "com.wallpaper.hd.all.kpop.jimin.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Jimin Wallpaper HD",
    "category": "kpop",
@@ -2696,9 +3368,25 @@
    "category": "kpop",
    "flavor": "kpopjin"
   },
+  "com.wallpaper.hd.all.kpop.jin.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Jin Wallpaper HD",
+   "category": "kpop",
+   "flavor": "kpopjin"
+  },
   "com.wallpaper.hd.all.kpop.jungkook.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Jungkook Wallpaper HD",
+   "category": "kpop",
+   "flavor": "kpopjungkook"
+  },
+  "com.wallpaper.hd.all.kpop.jungkook.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Jungkook Wallpaper HD",
    "category": "kpop",
@@ -2712,9 +3400,25 @@
    "category": "kpop",
    "flavor": "kpoplisa"
   },
+  "com.wallpaper.hd.all.kpop.lisa.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Lisa Wallpaper HD",
+   "category": "kpop",
+   "flavor": "kpoplisa"
+  },
   "com.wallpaper.hd.all.kpop.newjeans.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "New Jeans Wallpaper HD",
+   "category": "kpop",
+   "flavor": "kpopnewjeans"
+  },
+  "com.wallpaper.hd.all.kpop.newjeans.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "New Jeans Wallpaper HD",
    "category": "kpop",
@@ -2728,9 +3432,25 @@
    "category": "kpop",
    "flavor": "kpoprm"
   },
+  "com.wallpaper.hd.all.kpop.rm.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "RM Wallpaper HD",
+   "category": "kpop",
+   "flavor": "kpoprm"
+  },
   "com.wallpaper.hd.all.kpop.stray.kids.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Stray Kids Wallpaper HD",
+   "category": "kpop",
+   "flavor": "kpopstraykids"
+  },
+  "com.wallpaper.hd.all.kpop.stray.kids.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Stray Kids Wallpaper HD",
    "category": "kpop",
@@ -2744,9 +3464,25 @@
    "category": "kpop",
    "flavor": "kpopsuga"
   },
+  "com.wallpaper.hd.all.kpop.suga.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Suga Wallpaper HD",
+   "category": "kpop",
+   "flavor": "kpopsuga"
+  },
   "com.wallpaper.hd.all.kpop.taehyung.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Taehyung Wallpaper HD",
+   "category": "kpop",
+   "flavor": "kpoptaehyung"
+  },
+  "com.wallpaper.hd.all.kpop.taehyung.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Taehyung Wallpaper HD",
    "category": "kpop",
@@ -2768,6 +3504,14 @@
    "category": "kpop",
    "flavor": "kpoptwice"
   },
+  "com.wallpaper.hd.all.kpop.twice.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Twice Wallpaper HD",
+   "category": "kpop",
+   "flavor": "kpoptwice"
+  },
   "com.wallpaper.hd.all.krishna.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
@@ -2778,7 +3522,7 @@
   },
   "com.wallpaper.hd.all.kuldeep.yadav.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Kuldeep Yadav Wallpaper HD",
    "category": "cricketers",
@@ -2794,7 +3538,7 @@
   },
   "com.wallpaper.hd.all.lokesh.rahul.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Lokesh Rahul Wallpaper HD",
    "category": "cricketers",
@@ -2994,7 +3738,7 @@
   },
   "com.wallpaper.hd.all.mma.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": true,
    "app_name": "MMA HD Wallpapers",
    "category": "mma",
@@ -3018,7 +3762,7 @@
   },
   "com.wallpaper.hd.all.mohammed.shami.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Mohammed Shami Wallpaper HD",
    "category": "cricketers",
@@ -3059,6 +3803,14 @@
   "com.wallpaper.hd.all.movies.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
+   "is_multi_sub": true,
+   "app_name": "Movies Wallpaper HD",
+   "category": "movies",
+   "flavor": "moviesv3"
+  },
+  "com.wallpaper.hd.all.movies.images.v4": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
    "is_multi_sub": true,
    "app_name": "Movies Wallpaper HD",
    "category": "movies",
@@ -3112,7 +3864,23 @@
    "category": "movies",
    "flavor": "moviesstarwarsv3"
   },
+  "com.wallpaper.hd.all.movies.star.wars.images.v4": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Star Wars Wallpaper HD",
+   "category": "movies",
+   "flavor": "moviesstarwarsv3"
+  },
   "com.wallpaper.hd.all.ms.dhoni.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "MS Dhoni Wallpaper HD",
+   "category": "cricketers",
+   "flavor": "msdhoni"
+  },
+  "com.wallpaper.hd.all.ms.dhoni.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -3122,7 +3890,7 @@
   },
   "com.wallpaper.hd.all.nature.aurora.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Aurora Wallpaper HD",
    "category": "nature",
@@ -3138,7 +3906,7 @@
   },
   "com.wallpaper.hd.all.nature.canyon.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Canyon Wallpaper HD",
    "category": "nature",
@@ -3146,7 +3914,7 @@
   },
   "com.wallpaper.hd.all.nature.cave.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Cave Wallpaper HD",
    "category": "nature",
@@ -3154,7 +3922,7 @@
   },
   "com.wallpaper.hd.all.nature.coral.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Coral Wallpaper HD",
    "category": "nature",
@@ -3168,15 +3936,31 @@
    "category": "nature",
    "flavor": "natureearth"
   },
+  "com.wallpaper.hd.all.nature.earth.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Earth Wallpaper HD",
+   "category": "nature",
+   "flavor": "natureearth"
+  },
   "com.wallpaper.hd.all.nature.jungle.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Jungle Wallpaper HD",
    "category": "nature",
    "flavor": "naturejungle"
   },
   "com.wallpaper.hd.all.nature.lightning.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Lightning Wallpaper HD",
+   "category": "nature",
+   "flavor": "naturelightning"
+  },
+  "com.wallpaper.hd.all.nature.lightning.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -3194,7 +3978,7 @@
   },
   "com.wallpaper.hd.all.nature.rain.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Rain Wallpaper HD",
    "category": "nature",
@@ -3202,7 +3986,7 @@
   },
   "com.wallpaper.hd.all.nature.rainbow.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Rainbow Wallpaper HD",
    "category": "nature",
@@ -3210,13 +3994,21 @@
   },
   "com.wallpaper.hd.all.nature.river.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "River Wallpaper HD",
    "category": "nature",
    "flavor": "natureriver"
   },
   "com.wallpaper.hd.all.nature.sea.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Sea Wallpaper HD",
+   "category": "nature",
+   "flavor": "naturesea"
+  },
+  "com.wallpaper.hd.all.nature.sea.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -3232,15 +4024,31 @@
    "category": "nature",
    "flavor": "naturesky"
   },
-  "com.wallpaper.hd.all.nature.spring.images.v2": {
+  "com.wallpaper.hd.all.nature.sky.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Sky Wallpaper HD",
+   "category": "nature",
+   "flavor": "naturesky"
+  },
+  "com.wallpaper.hd.all.nature.spring.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Spring Wallpaper HD",
    "category": "nature",
    "flavor": "naturespring"
   },
   "com.wallpaper.hd.all.nature.stone.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Stone Wallpaper HD",
+   "category": "nature",
+   "flavor": "naturestone"
+  },
+  "com.wallpaper.hd.all.nature.stone.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -3256,7 +4064,23 @@
    "category": "nature",
    "flavor": "naturesunrise"
   },
+  "com.wallpaper.hd.all.nature.sunrise.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Sunrise Wallpaper HD",
+   "category": "nature",
+   "flavor": "naturesunrise"
+  },
   "com.wallpaper.hd.all.nature.sunset.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Sunset Wallpaper HD",
+   "category": "nature",
+   "flavor": "naturesunset"
+  },
+  "com.wallpaper.hd.all.nature.sunset.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -3266,7 +4090,7 @@
   },
   "com.wallpaper.hd.all.nature.volcano.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Volcano Wallpaper HD",
    "category": "nature",
@@ -3274,7 +4098,7 @@
   },
   "com.wallpaper.hd.all.nature.winter.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Winter Wallpaper HD",
    "category": "nature",
@@ -3282,7 +4106,7 @@
   },
   "com.wallpaper.hd.all.nba.anthony.edwards.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "AnthonyEdwards Wallpaper HD",
    "category": "nba",
@@ -3290,7 +4114,7 @@
   },
   "com.wallpaper.hd.all.nba.damian.lillard.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "DamianLillard Wallpaper HD",
    "category": "nba",
@@ -3298,7 +4122,7 @@
   },
   "com.wallpaper.hd.all.nba.giannis.antetokounmpo.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "GiannisAntetokounmpo Wallpaper HD",
    "category": "nba",
@@ -3306,7 +4130,7 @@
   },
   "com.wallpaper.hd.all.nba.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": true,
    "app_name": "NBA Wallpaper HD",
    "category": "nba",
@@ -3314,7 +4138,7 @@
   },
   "com.wallpaper.hd.all.nba.jayson.tatum.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "JaysonTatum Wallpaper HD",
    "category": "nba",
@@ -3322,7 +4146,7 @@
   },
   "com.wallpaper.hd.all.nba.jimmy.butler.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "JimmyButler Wallpaper HD",
    "category": "nba",
@@ -3330,7 +4154,7 @@
   },
   "com.wallpaper.hd.all.nba.joel.embiid.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "JoelEmbiid Wallpaper HD",
    "category": "nba",
@@ -3338,7 +4162,7 @@
   },
   "com.wallpaper.hd.all.nba.kevin.durant.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "KevinDurant Wallpaper HD",
    "category": "nba",
@@ -3346,7 +4170,7 @@
   },
   "com.wallpaper.hd.all.nba.kobe.bryant.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "KobeBryant Wallpaper HD",
    "category": "nba",
@@ -3354,7 +4178,7 @@
   },
   "com.wallpaper.hd.all.nba.lebron.james.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "LeBronJames Wallpaper HD",
    "category": "nba",
@@ -3362,7 +4186,7 @@
   },
   "com.wallpaper.hd.all.nba.luka.doncic.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "LukaDoncic Wallpaper HD",
    "category": "nba",
@@ -3370,7 +4194,7 @@
   },
   "com.wallpaper.hd.all.nba.michael.jordan.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "MichaelJordan Wallpaper HD",
    "category": "nba",
@@ -3402,7 +4226,7 @@
   },
   "com.wallpaper.hd.all.nba.shai.gilgeous.alexander.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "ShaGilgeousAlexander Wallpaper HD",
    "category": "nba",
@@ -3410,7 +4234,7 @@
   },
   "com.wallpaper.hd.all.nba.shaquille.oneal.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "ShaquilleONeal Wallpaper HD",
    "category": "nba",
@@ -3418,7 +4242,7 @@
   },
   "com.wallpaper.hd.all.nba.stephen.curry.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "StephenCurry Wallpaper HD",
    "category": "nba",
@@ -3426,7 +4250,7 @@
   },
   "com.wallpaper.hd.all.parvati.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Parvati Wallpaper HD",
    "category": "gods",
@@ -3600,6 +4424,14 @@
    "category": "photopose",
    "flavor": "poses"
   },
+  "com.wallpaper.hd.all.pose.pic.ideas.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": true,
+   "app_name": "Poses Wallpaper HD",
+   "category": "photopose",
+   "flavor": "poses"
+  },
   "com.wallpaper.hd.all.quotes.attitude.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": false,
@@ -3610,7 +4442,7 @@
   },
   "com.wallpaper.hd.all.quotes.friendship.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Friendship Wallpaper HD",
    "category": "quotes",
@@ -3626,7 +4458,7 @@
   },
   "com.wallpaper.hd.all.quotes.good.night.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Good Night Wallpaper HD",
    "category": "quotes",
@@ -3634,7 +4466,7 @@
   },
   "com.wallpaper.hd.all.quotes.hindi.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Hindi Wallpaper HD",
    "category": "quotes",
@@ -3650,7 +4482,7 @@
   },
   "com.wallpaper.hd.all.quotes.islamic.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Islamic Wallpaper HD",
    "category": "quotes",
@@ -3658,7 +4490,7 @@
   },
   "com.wallpaper.hd.all.quotes.life.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Life Wallpaper HD",
    "category": "quotes",
@@ -3666,7 +4498,7 @@
   },
   "com.wallpaper.hd.all.quotes.love.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Love Wallpaper HD",
    "category": "quotes",
@@ -3674,13 +4506,21 @@
   },
   "com.wallpaper.hd.all.quotes.motivational.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Motivational Wallpaper HD",
    "category": "quotes",
    "flavor": "quotesmotivational"
   },
   "com.wallpaper.hd.all.quotes.sad.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Sad Wallpaper HD",
+   "category": "quotes",
+   "flavor": "quotessad"
+  },
+  "com.wallpaper.hd.all.quotes.sad.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": false,
    "is_multi_sub": false,
@@ -3712,6 +4552,14 @@
    "category": "cricketers",
    "flavor": "ravindrajadeja"
   },
+  "com.wallpaper.hd.all.ravindra.jadega.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Ravindra Jadeja Wallpaper HD",
+   "category": "cricketers",
+   "flavor": "ravindrajadeja"
+  },
   "com.wallpaper.hd.all.religious.church.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
@@ -3731,6 +4579,14 @@
   "com.wallpaper.hd.all.religious.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
+   "is_multi_sub": true,
+   "app_name": "Religious HD Wallpapers",
+   "category": "religious",
+   "flavor": "religious"
+  },
+  "com.wallpaper.hd.all.religious.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
    "is_multi_sub": true,
    "app_name": "Religious HD Wallpapers",
    "category": "religious",
@@ -3770,7 +4626,7 @@
   },
   "com.wallpaper.hd.all.rishabh.pant.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Rishabh Pant Wallpaper HD",
    "category": "cricketers",
@@ -3856,9 +4712,17 @@
    "category": "cricketers",
    "flavor": "rohitsharma"
   },
-  "com.wallpaper.hd.all.sachin.tendulkar.images.v2": {
+  "com.wallpaper.hd.all.rohit.sharma.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Rohit Sharma Wallpaper HD",
+   "category": "cricketers",
+   "flavor": "rohitsharma"
+  },
+  "com.wallpaper.hd.all.sachin.tendulkar.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Sachin Tendulkar Wallpaper HD",
    "category": "cricketers",
@@ -3896,7 +4760,23 @@
    "category": "cricketers",
    "flavor": "shreyasiyer"
   },
+  "com.wallpaper.hd.all.shreyas.iyer.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Shreyas Iyer Wallpaper HD",
+   "category": "cricketers",
+   "flavor": "shreyasiyer"
+  },
   "com.wallpaper.hd.all.shubman.gill.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Shubman Gill Wallpaper HD",
+   "category": "cricketers",
+   "flavor": "shubmangill"
+  },
+  "com.wallpaper.hd.all.shubman.gill.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -3906,7 +4786,7 @@
   },
   "com.wallpaper.hd.all.smart.cool.mens.pose.ideas.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "MenPose Wallpaper HD",
    "category": "photopose",
@@ -3938,7 +4818,7 @@
   },
   "com.wallpaper.hd.all.socialmedia.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": true,
    "app_name": "SocialMedia HD Wallpapers",
    "category": "socialmedia",
@@ -3987,6 +4867,14 @@
   "com.wallpaper.hd.all.southindian.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": false,
+   "is_multi_sub": true,
+   "app_name": "SouthIndian HD Wallpapers",
+   "category": "southindian",
+   "flavor": "southindian"
+  },
+  "com.wallpaper.hd.all.southindian.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
    "is_multi_sub": true,
    "app_name": "SouthIndian HD Wallpapers",
    "category": "southindian",
@@ -4080,7 +4968,23 @@
    "category": "space",
    "flavor": "spaceastronaut"
   },
+  "com.wallpaper.hd.all.space.astronaut.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Astronaut Wallpaper HD",
+   "category": "space",
+   "flavor": "spaceastronaut"
+  },
   "com.wallpaper.hd.all.space.black.hole.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Black Hole Wallpaper HD",
+   "category": "space",
+   "flavor": "spaceblackhole"
+  },
+  "com.wallpaper.hd.all.space.black.hole.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -4096,9 +5000,25 @@
    "category": "space",
    "flavor": "spacegalaxy"
   },
+  "com.wallpaper.hd.all.space.galaxy.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Galaxy Wallpaper HD",
+   "category": "space",
+   "flavor": "spacegalaxy"
+  },
   "com.wallpaper.hd.all.space.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": false,
+   "is_multi_sub": true,
+   "app_name": "Space HD Wallpapers",
+   "category": "space",
+   "flavor": "space"
+  },
+  "com.wallpaper.hd.all.space.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
    "is_multi_sub": true,
    "app_name": "Space HD Wallpapers",
    "category": "space",
@@ -4112,9 +5032,25 @@
    "category": "space",
    "flavor": "spacemoon"
   },
+  "com.wallpaper.hd.all.space.moon.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Moon Wallpaper HD",
+   "category": "space",
+   "flavor": "spacemoon"
+  },
   "com.wallpaper.hd.all.space.nebula.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Nebula Wallpaper HD",
+   "category": "space",
+   "flavor": "spacenebula"
+  },
+  "com.wallpaper.hd.all.space.nebula.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Nebula Wallpaper HD",
    "category": "space",
@@ -4128,7 +5064,23 @@
    "category": "space",
    "flavor": "spaceplanets"
   },
+  "com.wallpaper.hd.all.space.planets.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Planets Wallpaper HD",
+   "category": "space",
+   "flavor": "spaceplanets"
+  },
   "com.wallpaper.hd.all.space.stars.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Stars Wallpaper HD",
+   "category": "space",
+   "flavor": "spacestars"
+  },
+  "com.wallpaper.hd.all.space.stars.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -4272,7 +5224,23 @@
    "category": "superheroes",
    "flavor": "superheroesbatman"
   },
+  "com.wallpaper.hd.all.superheroes.batman.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Batman Wallpaper HD",
+   "category": "superheroes",
+   "flavor": "superheroesbatman"
+  },
   "com.wallpaper.hd.all.superheroes.black.panther.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Black Panther Wallpaper HD",
+   "category": "superheroes",
+   "flavor": "superheroesblackpanther"
+  },
+  "com.wallpaper.hd.all.superheroes.black.panther.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -4288,7 +5256,23 @@
    "category": "superheroes",
    "flavor": "superheroescaptainamerica"
   },
+  "com.wallpaper.hd.all.superheroes.captain.america.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Captain America Wallpaper HD",
+   "category": "superheroes",
+   "flavor": "superheroescaptainamerica"
+  },
   "com.wallpaper.hd.all.superheroes.deadpool.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Deadpool Wallpaper HD",
+   "category": "superheroes",
+   "flavor": "superheroesdeadpool"
+  },
+  "com.wallpaper.hd.all.superheroes.deadpool.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -4304,7 +5288,23 @@
    "category": "superheroes",
    "flavor": "superheroesdrstrange"
   },
+  "com.wallpaper.hd.all.superheroes.dr.strange.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Dr Strange Wallpaper HD",
+   "category": "superheroes",
+   "flavor": "superheroesdrstrange"
+  },
   "com.wallpaper.hd.all.superheroes.hulk.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Hulk Wallpaper HD",
+   "category": "superheroes",
+   "flavor": "superheroeshulk"
+  },
+  "com.wallpaper.hd.all.superheroes.hulk.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -4320,7 +5320,23 @@
    "category": "superheroes",
    "flavor": "superheroes"
   },
+  "com.wallpaper.hd.all.superheroes.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": true,
+   "app_name": "Superheroes HD Wallpapers",
+   "category": "superheroes",
+   "flavor": "superheroes"
+  },
   "com.wallpaper.hd.all.superheroes.iron.man.images": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Iron Man Wallpaper HD",
+   "category": "superheroes",
+   "flavor": "superheroesironman"
+  },
+  "com.wallpaper.hd.all.superheroes.iron.man.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": false,
    "is_multi_sub": false,
@@ -4336,7 +5352,23 @@
    "category": "superheroes",
    "flavor": "superheroesjoker"
   },
+  "com.wallpaper.hd.all.superheroes.joker.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Joker Wallpaper HD",
+   "category": "superheroes",
+   "flavor": "superheroesjoker"
+  },
   "com.wallpaper.hd.all.superheroes.spiderman.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Spiderman Wallpaper HD",
+   "category": "superheroes",
+   "flavor": "superheroesspiderman"
+  },
+  "com.wallpaper.hd.all.superheroes.spiderman.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -4352,7 +5384,23 @@
    "category": "superheroes",
    "flavor": "superheroessuperman"
   },
+  "com.wallpaper.hd.all.superheroes.superman.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Superman Wallpaper HD",
+   "category": "superheroes",
+   "flavor": "superheroessuperman"
+  },
   "com.wallpaper.hd.all.superheroes.thanos.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Thanos Wallpaper HD",
+   "category": "superheroes",
+   "flavor": "superheroesthanos"
+  },
+  "com.wallpaper.hd.all.superheroes.thanos.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -4368,6 +5416,14 @@
    "category": "superheroes",
    "flavor": "superheroesthor"
   },
+  "com.wallpaper.hd.all.superheroes.thor.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Thor Wallpaper HD",
+   "category": "superheroes",
+   "flavor": "superheroesthor"
+  },
   "com.wallpaper.hd.all.superheroes.venom.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": false,
@@ -4376,7 +5432,23 @@
    "category": "superheroes",
    "flavor": "superheroesvenom"
   },
+  "com.wallpaper.hd.all.superheroes.venom.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Venom Wallpaper HD",
+   "category": "superheroes",
+   "flavor": "superheroesvenom"
+  },
   "com.wallpaper.hd.all.superheroes.wolverine.images": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Wolverine Wallpaper HD",
+   "category": "superheroes",
+   "flavor": "superheroeswolverine"
+  },
+  "com.wallpaper.hd.all.superheroes.wolverine.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": false,
    "is_multi_sub": false,
@@ -4393,6 +5465,14 @@
    "flavor": "swaminarayan"
   },
   "com.wallpaper.hd.all.swimming.adam.peaty.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Adam Peaty Wallpaper HD",
+   "category": "swimming",
+   "flavor": "swimmingadampeaty"
+  },
+  "com.wallpaper.hd.all.swimming.adam.peaty.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -4427,6 +5507,14 @@
   "com.wallpaper.hd.all.swimming.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": false,
+   "is_multi_sub": true,
+   "app_name": "Swimming HD Wallpapers",
+   "category": "swimming",
+   "flavor": "swimming"
+  },
+  "com.wallpaper.hd.all.swimming.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
    "is_multi_sub": true,
    "app_name": "Swimming HD Wallpapers",
    "category": "swimming",
@@ -4554,7 +5642,7 @@
   },
   "com.wallpaper.hd.all.technology.ai.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "AI Wallpaper HD",
    "category": "technology",
@@ -4568,9 +5656,17 @@
    "category": "technology",
    "flavor": "technologyandroid"
   },
-  "com.wallpaper.hd.all.technology.blockchain.images.v2": {
+  "com.wallpaper.hd.all.technology.android.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Android Wallpaper HD",
+   "category": "technology",
+   "flavor": "technologyandroid"
+  },
+  "com.wallpaper.hd.all.technology.blockchain.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Blockchain Wallpaper HD",
    "category": "technology",
@@ -4578,7 +5674,7 @@
   },
   "com.wallpaper.hd.all.technology.chip.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Chip Wallpaper HD",
    "category": "technology",
@@ -4592,7 +5688,23 @@
    "category": "technology",
    "flavor": "technologycoding"
   },
+  "com.wallpaper.hd.all.technology.coding.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Coding Wallpaper HD",
+   "category": "technology",
+   "flavor": "technologycoding"
+  },
   "com.wallpaper.hd.all.technology.drone.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Drone Wallpaper HD",
+   "category": "technology",
+   "flavor": "technologydrone"
+  },
+  "com.wallpaper.hd.all.technology.drone.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -4608,7 +5720,23 @@
    "category": "technology",
    "flavor": "technologygamingsetup"
   },
+  "com.wallpaper.hd.all.technology.gaming.setup.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Gaming Setup Wallpaper HD",
+   "category": "technology",
+   "flavor": "technologygamingsetup"
+  },
   "com.wallpaper.hd.all.technology.hacker.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Hacker Wallpaper HD",
+   "category": "technology",
+   "flavor": "technologyhacker"
+  },
+  "com.wallpaper.hd.all.technology.hacker.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -4618,13 +5746,21 @@
   },
   "com.wallpaper.hd.all.technology.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": true,
    "app_name": "Technology HD Wallpapers",
    "category": "technology",
    "flavor": "technology"
   },
   "com.wallpaper.hd.all.technology.iphone.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "i Phone Wallpaper HD",
+   "category": "technology",
+   "flavor": "technologyiphone"
+  },
+  "com.wallpaper.hd.all.technology.iphone.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -4640,9 +5776,17 @@
    "category": "technology",
    "flavor": "technologyvr"
   },
-  "com.wallpaper.hd.all.tennis.andy.murray.images": {
+  "com.wallpaper.hd.all.technology.vr.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "VR Wallpaper HD",
+   "category": "technology",
+   "flavor": "technologyvr"
+  },
+  "com.wallpaper.hd.all.tennis.andy.murray.images": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Andy Murray Wallpaper HD",
    "category": "tennis",
@@ -4674,7 +5818,7 @@
   },
   "com.wallpaper.hd.all.tennis.iga.swiatek.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Iga Swiatek Wallpaper HD",
    "category": "tennis",
@@ -4682,7 +5826,7 @@
   },
   "com.wallpaper.hd.all.tennis.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": true,
    "app_name": "Tennis HD Wallpapers",
    "category": "tennis",
@@ -4690,7 +5834,7 @@
   },
   "com.wallpaper.hd.all.tennis.jannik.sinner.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Jannik Sinner Wallpaper HD",
    "category": "tennis",
@@ -5024,6 +6168,14 @@
    "category": "turkishactors",
    "flavor": "turkishactors"
   },
+  "com.wallpaper.hd.all.turkish.actors.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": true,
+   "app_name": "TurkishActors HD Wallpapers",
+   "category": "turkishactors",
+   "flavor": "turkishactors"
+  },
   "com.wallpaper.hd.all.turkishactors.ahad.raza.mir.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": false,
@@ -5059,6 +6211,14 @@
   "com.wallpaper.hd.all.turkishactors.engin.akyurek.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Engin Akyurek Wallpaper HD",
+   "category": "turkishactors",
+   "flavor": "turkishactorsenginakyurek"
+  },
+  "com.wallpaper.hd.all.turkishactors.engin.akyurek.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Engin Akyurek Wallpaper HD",
    "category": "turkishactors",
@@ -5136,7 +6296,23 @@
    "category": "misc",
    "flavor": "tvseriesbreakingbad"
   },
+  "com.wallpaper.hd.all.tvseries.breaking.bad.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Breaking Bad Wallpaper HD",
+   "category": "tvseries",
+   "flavor": "tvseriesbreakingbad"
+  },
   "com.wallpaper.hd.all.tvseries.game.of.thrones.images": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Game Of Thrones Wallpaper HD",
+   "category": "tvseries",
+   "flavor": "tvseriesgameofthrones"
+  },
+  "com.wallpaper.hd.all.tvseries.game.of.thrones.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": false,
    "is_multi_sub": false,
@@ -5152,6 +6328,14 @@
    "category": "tvseries",
    "flavor": "tvseries"
   },
+  "com.wallpaper.hd.all.tvseries.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": true,
+   "app_name": "TVSeries HD Wallpapers",
+   "category": "tvseries",
+   "flavor": "tvseries"
+  },
   "com.wallpaper.hd.all.tvseries.money.heist.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
@@ -5160,7 +6344,23 @@
    "category": "tvseries",
    "flavor": "tvseriesmoneyheist"
   },
+  "com.wallpaper.hd.all.tvseries.money.heist.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Money Heist Wallpaper HD",
+   "category": "tvseries",
+   "flavor": "tvseriesmoneyheist"
+  },
   "com.wallpaper.hd.all.tvseries.narcos.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Narcos Wallpaper HD",
+   "category": "tvseries",
+   "flavor": "tvseriesnarcos"
+  },
+  "com.wallpaper.hd.all.tvseries.narcos.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -5176,9 +6376,25 @@
    "category": "tvseries",
    "flavor": "tvseriesonepiece"
   },
+  "com.wallpaper.hd.all.tvseries.one.piece.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Piece One Wallpaper 4K",
+   "category": "tvseries",
+   "flavor": "tvseriesonepiece"
+  },
   "com.wallpaper.hd.all.tvseries.peaky.blinders.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Peaky Blinders Wallpaper HD",
+   "category": "tvseries",
+   "flavor": "tvseriespeakyblinders"
+  },
+  "com.wallpaper.hd.all.tvseries.peaky.blinders.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Peaky Blinders Wallpaper HD",
    "category": "tvseries",
@@ -5192,7 +6408,23 @@
    "category": "tvseries",
    "flavor": "tvseriessquidgame"
   },
+  "com.wallpaper.hd.all.tvseries.squid.game.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Squid Game Wallpaper HD",
+   "category": "tvseries",
+   "flavor": "tvseriessquidgame"
+  },
   "com.wallpaper.hd.all.tvseries.stranger.things.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Stranger Things Wallpaper HD",
+   "category": "tvseries",
+   "flavor": "tvseriesstrangerthings"
+  },
+  "com.wallpaper.hd.all.tvseries.stranger.things.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -5216,6 +6448,22 @@
    "category": "tvseries",
    "flavor": "tvserieswednesday"
   },
+  "com.wallpaper.hd.all.tvseries.wednesday.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Wednesday Wallpaper HD",
+   "category": "tvseries",
+   "flavor": "tvserieswednesday"
+  },
+  "com.wallpaper.hd.all.ufc.alex.pereira.images": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Alex Pereira Wallpaper HD",
+   "category": "mma",
+   "flavor": "mmaalexpereira"
+  },
   "com.wallpaper.hd.all.ufc.alex.pereira.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
@@ -5223,6 +6471,14 @@
    "app_name": "Alex Pereira Wallpaper HD",
    "category": "mma",
    "flavor": "mmaalexpereira"
+  },
+  "com.wallpaper.hd.all.ufc.amanda.nunes.images": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Amanda Nunes Wallpaper HD",
+   "category": "mma",
+   "flavor": "mmaamandanunes"
   },
   "com.wallpaper.hd.all.ufc.amanda.nunes.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
@@ -5240,6 +6496,22 @@
    "category": "mma",
    "flavor": "mmacharlesoliveira"
   },
+  "com.wallpaper.hd.all.ufc.charles.oliveira.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Charles Oliveira Wallpaper HD",
+   "category": "mma",
+   "flavor": "mmacharlesoliveira"
+  },
+  "com.wallpaper.hd.all.ufc.conor.mcgregor.images": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Conor McGregor Wallpaper HD",
+   "category": "mma",
+   "flavor": "mmaconormcgregor"
+  },
   "com.wallpaper.hd.all.ufc.conor.mcgregor.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
@@ -5247,6 +6519,14 @@
    "app_name": "Conor McGregor Wallpaper HD",
    "category": "mma",
    "flavor": "mmaconormcgregor"
+  },
+  "com.wallpaper.hd.all.ufc.dustin.poirier.images": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Dustin Poirier Wallpaper HD",
+   "category": "mma",
+   "flavor": "mmadustinpoirier"
   },
   "com.wallpaper.hd.all.ufc.dustin.poirier.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
@@ -5264,9 +6544,17 @@
    "category": "mma",
    "flavor": "mmaislammakhachev"
   },
-  "com.wallpaper.hd.all.ufc.israel.adesanya.images": {
+  "com.wallpaper.hd.all.ufc.islam.makhachev.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Islam Makhachev Wallpaper HD",
+   "category": "mma",
+   "flavor": "mmaislammakhachev"
+  },
+  "com.wallpaper.hd.all.ufc.israel.adesanya.images": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Israel Adesanya Wallpaper HD",
    "category": "mma",
@@ -5274,7 +6562,7 @@
   },
   "com.wallpaper.hd.all.ufc.jon.jones.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Jon Jones Wallpaper HD",
    "category": "mma",
@@ -5288,6 +6576,14 @@
    "category": "mma",
    "flavor": "mmakamaruusman"
   },
+  "com.wallpaper.hd.all.ufc.kamaru.usman.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Kamaru Usman MMA Wallpapers",
+   "category": "mma",
+   "flavor": "mmakamaruusman"
+  },
   "com.wallpaper.hd.all.ufc.khabib.nurmagomedov.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
@@ -5296,9 +6592,17 @@
    "category": "mma",
    "flavor": "mmakhabibnurmagomedov"
   },
+  "com.wallpaper.hd.all.ufc.khabib.nurmagomedov.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Khabib Nurmagomedov Wallpaper HD",
+   "category": "mma",
+   "flavor": "mmakhabibnurmagomedov"
+  },
   "com.wallpaper.hd.all.varun.chakravarthy.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Varun Chakravarthy Wallpaper HD",
    "category": "cricketers",
@@ -5320,6 +6624,14 @@
    "category": "vehicles",
    "flavor": "bike"
   },
+  "com.wallpaper.hd.all.vehicle.bikes.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Bike Wallpaper HD",
+   "category": "vehicles",
+   "flavor": "bike"
+  },
   "com.wallpaper.hd.all.vehicle.cars.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
@@ -5330,7 +6642,7 @@
   },
   "com.wallpaper.hd.all.vehicle.cars.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Car Wallpaper HD",
    "category": "vehicles",
@@ -5352,6 +6664,14 @@
    "category": "vehicles",
    "flavor": "classiccars"
   },
+  "com.wallpaper.hd.all.vehicles.classic.cars.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Classic Cars Wallpaper HD",
+   "category": "vehicles",
+   "flavor": "classiccars"
+  },
   "com.wallpaper.hd.all.vehicles.electric.cars.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
@@ -5363,6 +6683,14 @@
   "com.wallpaper.hd.all.vehicles.electric.cars.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Electric Cars Wallpaper HD",
+   "category": "vehicles",
+   "flavor": "electriccars"
+  },
+  "com.wallpaper.hd.all.vehicles.electric.cars.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
    "is_multi_sub": false,
    "app_name": "Electric Cars Wallpaper HD",
    "category": "vehicles",
@@ -5384,6 +6712,14 @@
    "category": "vehicles",
    "flavor": "helicopters"
   },
+  "com.wallpaper.hd.all.vehicles.helicopters.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Helicopters Wallpaper HD",
+   "category": "vehicles",
+   "flavor": "helicopters"
+  },
   "com.wallpaper.hd.all.vehicles.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
@@ -5394,7 +6730,7 @@
   },
   "com.wallpaper.hd.all.vehicles.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": true,
    "app_name": "Vehicles Wallpaper HD",
    "category": "vehicles",
@@ -5410,7 +6746,7 @@
   },
   "com.wallpaper.hd.all.vehicles.jdm.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "JDM Wallpaper HD",
    "category": "vehicles",
@@ -5426,7 +6762,7 @@
   },
   "com.wallpaper.hd.all.vehicles.jets.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Jets Wallpaper HD",
    "category": "vehicles",
@@ -5441,6 +6777,14 @@
    "flavor": "supercars"
   },
   "com.wallpaper.hd.all.vehicles.supercars.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "SuperCars Wallpaper HD",
+   "category": "vehicles",
+   "flavor": "supercars"
+  },
+  "com.wallpaper.hd.all.vehicles.supercars.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -5464,6 +6808,14 @@
    "category": "vehicles",
    "flavor": "trucks"
   },
+  "com.wallpaper.hd.all.vehicles.trucks.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Trucks Wallpaper HD",
+   "category": "vehicles",
+   "flavor": "trucks"
+  },
   "com.wallpaper.hd.all.vehicles.yachts.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": false,
@@ -5472,7 +6824,23 @@
    "category": "vehicles",
    "flavor": "yachts"
   },
+  "com.wallpaper.hd.all.vehicles.yachts.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Yachts Wallpaper HD",
+   "category": "vehicles",
+   "flavor": "yachts"
+  },
   "com.wallpaper.hd.all.virat.kohli.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Virat Kohli Wallpaper HD",
+   "category": "cricketers",
+   "flavor": "viratkohli"
+  },
+  "com.wallpaper.hd.all.virat.kohli.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -5498,7 +6866,7 @@
   },
   "com.wallpaper.hd.all.wedding.couple.pose.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "WeddingPose Wallpaper HD",
    "category": "photopose",
@@ -5514,13 +6882,21 @@
   },
   "com.wallpaper.hd.all.wrestlers.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": true,
    "app_name": "Wrestlers HD Wallpapers",
    "category": "wrestlers",
    "flavor": "wrestlers"
   },
   "com.wallpaper.hd.all.wrestlers.john.cena.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "John Cena Wallpaper HD",
+   "category": "wrestlers",
+   "flavor": "johncena"
+  },
+  "com.wallpaper.hd.all.wrestlers.john.cena.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -5536,7 +6912,23 @@
    "category": "wrestlers",
    "flavor": "romanreigns"
   },
+  "com.wallpaper.hd.all.wrestlers.roman.reigns.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Roman Reigns Wallpaper HD",
+   "category": "wrestlers",
+   "flavor": "romanreigns"
+  },
   "com.wallpaper.hd.all.wwe.becky.lynch.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Becky Lynch Wallpaper HD",
+   "category": "wrestlers",
+   "flavor": "beckylynch"
+  },
+  "com.wallpaper.hd.all.wwe.becky.lynch.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -5552,7 +6944,23 @@
    "category": "wrestlers",
    "flavor": "brocklesnar"
   },
+  "com.wallpaper.hd.all.wwe.brock.lesnar.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Brock Lesnar Wallpaper HD",
+   "category": "wrestlers",
+   "flavor": "brocklesnar"
+  },
   "com.wallpaper.hd.all.wwe.randy.orton.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Randy Orton Wallpaper HD",
+   "category": "wrestlers",
+   "flavor": "randyorton"
+  },
+  "com.wallpaper.hd.all.wwe.randy.orton.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -5568,9 +6976,25 @@
    "category": "wrestlers",
    "flavor": "reymysterio"
   },
+  "com.wallpaper.hd.all.wwe.rey.mysterio.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Rey Mysterio Wallpaper HD",
+   "category": "wrestlers",
+   "flavor": "reymysterio"
+  },
   "com.wallpaper.hd.all.wwe.seth.rollins.images": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Seth Rollins Wallpaper HD",
+   "category": "wrestlers",
+   "flavor": "sethrollins"
+  },
+  "com.wallpaper.hd.all.wwe.seth.rollins.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
    "is_multi_sub": false,
    "app_name": "Seth Rollins Wallpaper HD",
    "category": "wrestlers",
@@ -5584,6 +7008,14 @@
    "category": "wrestlers",
    "flavor": "stonecold"
   },
+  "com.wallpaper.hd.all.wwe.stone.cold.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": false,
+   "is_multi_sub": false,
+   "app_name": "Stone Cold Wallpaper HD",
+   "category": "wrestlers",
+   "flavor": "stonecold"
+  },
   "com.wallpaper.hd.all.wwe.the.rock.images.v2": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
@@ -5592,7 +7024,23 @@
    "category": "wrestlers",
    "flavor": "therock"
   },
+  "com.wallpaper.hd.all.wwe.the.rock.images.v3": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "The Rock Wallpaper HD",
+   "category": "wrestlers",
+   "flavor": "therock"
+  },
   "com.wallpaper.hd.all.wwe.undertaker.images.v2": {
+   "base_url": "https://pinakiwallpapers.ycity.in",
+   "is_live": true,
+   "is_multi_sub": false,
+   "app_name": "Undertaker Wallpaper HD",
+   "category": "wrestlers",
+   "flavor": "undertaker"
+  },
+  "com.wallpaper.hd.all.wwe.undertaker.images.v3": {
    "base_url": "https://pinakiwallpapers.ycity.in",
    "is_live": true,
    "is_multi_sub": false,
@@ -5706,12 +7154,12 @@
   },
   "globalvintageservices.hdwallpaper.god.ganesh": {
    "base_url": "https://pinakiwallpapers.ycity.in",
-   "is_live": true,
+   "is_live": false,
    "is_multi_sub": false,
    "app_name": "Ganesh Wallpaper HD",
    "category": "gods",
    "flavor": "ganesh"
   }
  },
- "version": 6
+ "version": 7
 }
